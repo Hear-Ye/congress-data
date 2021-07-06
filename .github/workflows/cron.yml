@@ -3,7 +3,7 @@ name: Cron Tasks
 on:
   workflow_dispatch:
   schedule:
-    - "30 2 * * *"
+    - cron: "30 2 * * *"
 
 jobs:
   tasks:
