@@ -1,0 +1,44 @@
+name: Cron Tasks
+
+on:
+  workflow_dispatch:
+  schedule:
+    - "30 2 * * *"
+
+jobs:
+  tasks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code Repository
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+      - name: Install Dependencies
+        run: |
+          pip install --upgrade pip setuptools wheel
+          pip install -r .github/.bin/cron.txt
+      - name: Run Tasks
+        run: python .github/.bin/run_tasks.py
+      - name: Get current date
+        id: todays-date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+      - name: Commit new changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        id: auto-commit-action
+        with:
+          commit_message: Updated data on ${{ steps.todays-date.outputs.date }}
+      - name: Release
+        if: steps.auto-commit-action.outputs.changes_detected == 'true'
+        run: |
+          gh release create ${{ env.VERSION }} -n "${{ env.MESSAGE }}" -t "${{ env.NAME }}" ${{ env.FILES }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          VERSION: ${{ steps.todays-date.outputs.date }}
+          MESSAGE: Updated Bulk zip files for ${{ steps.todays-date.outputs.date }}
+          NAME: ${{ steps.todays-date.outputs.date }}
+          FILES: "*.zip"
+
