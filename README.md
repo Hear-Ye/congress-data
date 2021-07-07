@@ -17,6 +17,9 @@ tag format is in the format of YEAR-MONTH-DAY (e.g. 2020-01-01).
 The zip file url format is: 
 https://github.com/Hear-Ye/congress-data/releases/download/2021-07-06/votes.zip
 
+To get the latest release, there's an API endpoint that gives you information:
+https://api.github.com/repos/Hear-Ye/congress-data/releases/latest
+
 #### Individual Data
 
 We use GitHub Pages so that you can download any individual piece
