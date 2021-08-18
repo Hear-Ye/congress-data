@@ -48,4 +48,4 @@ jobs:
           DEPLOY_URL: ${{ secrets.DEPLOY_VOTES_URL }}
           CI_CD_TOKEN: ${{ secrets.CI_CD_TOKEN }}
         run: |
-          curl -H 'Authorization: $CI_CD_TOKEN' -H "Content-type: application/json" '$DEPLOY_URL'
+          curl -XPOST -H "Authorization: $CI_CD_TOKEN" -H "Content-type: application/json" "$DEPLOY_URL"
