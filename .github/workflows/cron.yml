@@ -42,4 +42,10 @@ jobs:
           MESSAGE: Updated Bulk zip files for ${{ steps.todays-date.outputs.date }}
           NAME: ${{ steps.todays-date.outputs.date }}
           FILES: "*.zip"
-
+      - name: Deploy
+        if: steps.auto-commit-action.outputs.changes_detected == 'true'
+        env:
+          DEPLOY_URL: ${{ secrets.DEPLOY_VOTES_URL }}
+          CI_CD_TOKEN: ${{ secrets.CI_CD_TOKEN }}
+        run: |
+          curl -XPOST -H "Authorization: $CI_CD_TOKEN" -H "Content-type: application/json" "$DEPLOY_URL"
