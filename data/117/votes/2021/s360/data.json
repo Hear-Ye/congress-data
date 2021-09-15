@@ -1,24 +1,24 @@
 {
-  "category": "cloture",
+  "category": "nomination",
   "chamber": "s",
   "congress": 117,
-  "date": "2021-09-13T17:40:00-04:00",
+  "date": "2021-09-14T11:51:00-04:00",
   "nomination": {
     "number": "127",
     "title": "James Richard Kvaal, of Massachusetts, to be Under Secretary of Education"
   },
-  "number": 359,
-  "question": "Motion to Invoke Cloture: James Richard Kvaal to be Under Secretary of Education: James Richard Kvaal, of Massachusetts, to be Under Secretary of Education",
-  "record_modified": "2021-09-14T18:38:00-04:00",
+  "number": 360,
+  "question": "On the Nomination PN127: James Richard Kvaal, of Massachusetts, to be Under Secretary of Education",
+  "record_modified": "2021-09-14T12:54:00-04:00",
   "requires": "1/2",
-  "result": "Cloture Motion Agreed to",
-  "result_text": "Cloture Motion Agreed to (55-37)",
+  "result": "Nomination Confirmed",
+  "result_text": "Nomination Confirmed (58-37)",
   "session": "2021",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1171/vote_117_1_00359.xml",
-  "subject": "On the Cloture Motion PN127",
-  "type": "On the Cloture Motion",
-  "updated_at": "2021-09-15T02:44:58-04:00",
-  "vote_id": "s359-117.2021",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1171/vote_117_1_00360.xml",
+  "subject": "Confirmation: James Richard Kvaal, of Massachusetts, to be Under Secretary of Education",
+  "type": "On the Nomination",
+  "updated_at": "2021-09-15T02:44:57-04:00",
+  "vote_id": "s360-117.2021",
   "votes": {
     "Nay": [
       {
@@ -44,6 +44,14 @@
         "last_name": "Boozman",
         "party": "R",
         "state": "AR"
+      },
+      {
+        "display_name": "Cornyn (R-TX)",
+        "first_name": "John",
+        "id": "S287",
+        "last_name": "Cornyn",
+        "party": "R",
+        "state": "TX"
       },
       {
         "display_name": "Cotton (R-AR)",
@@ -308,25 +316,9 @@
         "last_name": "Wicker",
         "party": "R",
         "state": "MS"
-      },
-      {
-        "display_name": "Young (R-IN)",
-        "first_name": "Todd",
-        "id": "S391",
-        "last_name": "Young",
-        "party": "R",
-        "state": "IN"
       }
     ],
     "Not Voting": [
-      {
-        "display_name": "Booker (D-NJ)",
-        "first_name": "Cory",
-        "id": "S370",
-        "last_name": "Booker",
-        "party": "D",
-        "state": "NJ"
-      },
       {
         "display_name": "Braun (R-IN)",
         "first_name": "Mike",
@@ -336,36 +328,12 @@
         "state": "IN"
       },
       {
-        "display_name": "Cornyn (R-TX)",
-        "first_name": "John",
-        "id": "S287",
-        "last_name": "Cornyn",
-        "party": "R",
-        "state": "TX"
-      },
-      {
-        "display_name": "Cortez Masto (D-NV)",
-        "first_name": "Catherine",
-        "id": "S385",
-        "last_name": "Cortez Masto",
-        "party": "D",
-        "state": "NV"
-      },
-      {
         "display_name": "Murkowski (R-AK)",
         "first_name": "Lisa",
         "id": "S288",
         "last_name": "Murkowski",
         "party": "R",
         "state": "AK"
-      },
-      {
-        "display_name": "Padilla (D-CA)",
-        "first_name": "Alex",
-        "id": "S413",
-        "last_name": "Padilla",
-        "party": "D",
-        "state": "CA"
       },
       {
         "display_name": "Rounds (R-SD)",
@@ -382,6 +350,14 @@
         "last_name": "Schatz",
         "party": "D",
         "state": "HI"
+      },
+      {
+        "display_name": "Young (R-IN)",
+        "first_name": "Todd",
+        "id": "S391",
+        "last_name": "Young",
+        "party": "R",
+        "state": "IN"
       }
     ],
     "Present": [],
@@ -417,6 +393,14 @@
         "last_name": "Blunt",
         "party": "R",
         "state": "MO"
+      },
+      {
+        "display_name": "Booker (D-NJ)",
+        "first_name": "Cory",
+        "id": "S370",
+        "last_name": "Booker",
+        "party": "D",
+        "state": "NJ"
       },
       {
         "display_name": "Brown (D-OH)",
@@ -497,6 +481,14 @@
         "last_name": "Coons",
         "party": "D",
         "state": "DE"
+      },
+      {
+        "display_name": "Cortez Masto (D-NV)",
+        "first_name": "Catherine",
+        "id": "S385",
+        "last_name": "Cortez Masto",
+        "party": "D",
+        "state": "NV"
       },
       {
         "display_name": "Duckworth (D-IL)",
@@ -681,6 +673,14 @@
         "last_name": "Ossoff",
         "party": "D",
         "state": "GA"
+      },
+      {
+        "display_name": "Padilla (D-CA)",
+        "first_name": "Alex",
+        "id": "S413",
+        "last_name": "Padilla",
+        "party": "D",
+        "state": "CA"
       },
       {
         "display_name": "Peters (D-MI)",
