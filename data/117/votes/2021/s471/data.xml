@@ -1,9 +1,9 @@
 <roll where="senate" session="117" year="2021" roll="471" source="senate.gov"
-  datetime="2021-11-17T10:04:00-05:00" updated="2021-11-18T02:49:34-05:00"
+  datetime="2021-11-17T10:04:00-05:00" updated="2021-11-20T02:51:38-05:00"
   aye="51" nay="50" nv="0" present="0">
   <category>cloture</category>
   <type>On the Cloture Motion</type>
-  <question>Motion to Invoke Cloture: Brain Eddie Nelson to be Under Secretary for Terrorism and Financial Crimes: Brian Eddie Nelson, of California, to be Under Secretary for Terrorism and Financial Crimes</question>
+  <question>Motion to Invoke Cloture: Brian Eddie Nelson to be Under Secretary for Terrorism and Financial Crimes: Brian Eddie Nelson, of California, to be Under Secretary for Terrorism and Financial Crimes</question>
   <required>1/2</required>
   <result>Cloture Motion Agreed to</result>
   <option key="+">Yea</option>
