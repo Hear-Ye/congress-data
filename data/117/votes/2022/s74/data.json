@@ -1,24 +1,24 @@
 {
-  "category": "cloture",
+  "category": "nomination",
   "chamber": "s",
   "congress": 117,
-  "date": "2022-03-08T18:24:00-05:00",
+  "date": "2022-03-10T17:12:00-05:00",
   "nomination": {
     "number": "1053",
     "title": "Maria L. Pagan, of Puerto Rico, to be a Deputy United States Trade Representative (Geneva Office), with the rank of Ambassador"
   },
-  "number": 72,
-  "question": "Motion to Invoke Cloture: Maria L. Pagan to be a Deputy U.S. Trade Representative (Geneva Office): Maria L. Pagan, of Puerto Rico, to be a Deputy United States Trade Representative (Geneva Office), with the rank of Ambassador",
-  "record_modified": "2022-03-10T15:35:00-05:00",
+  "number": 74,
+  "question": "On the Nomination PN1053: Maria L. Pagan, of Puerto Rico, to be a Deputy United States Trade Representative (Geneva Office), with the rank of Ambassador",
+  "record_modified": "2022-03-10T18:07:00-05:00",
   "requires": "1/2",
-  "result": "Cloture Motion Agreed to",
-  "result_text": "Cloture Motion Agreed to (78-19)",
+  "result": "Nomination Confirmed",
+  "result_text": "Nomination Confirmed (80-19)",
   "session": "2022",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1172/vote_117_2_00072.xml",
-  "subject": "On the Cloture Motion PN1053",
-  "type": "On the Cloture Motion",
-  "updated_at": "2022-03-11T02:54:58-05:00",
-  "vote_id": "s72-117.2022",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1172/vote_117_2_00074.xml",
+  "subject": "Confirmation: Maria L. Pagan, of Puerto Rico, to be a Deputy United States Trade Representative (Geneva Office), with the Rank of Ambassador",
+  "type": "On the Nomination",
+  "updated_at": "2022-03-11T02:54:57-05:00",
+  "vote_id": "s74-117.2022",
   "votes": {
     "Nay": [
       {
@@ -60,6 +60,14 @@
         "last_name": "Cruz",
         "party": "R",
         "state": "TX"
+      },
+      {
+        "display_name": "Hagerty (R-TN)",
+        "first_name": "Bill",
+        "id": "S407",
+        "last_name": "Hagerty",
+        "party": "R",
+        "state": "TN"
       },
       {
         "display_name": "Hawley (R-MO)",
@@ -126,14 +134,6 @@
         "state": "KY"
       },
       {
-        "display_name": "Rubio (R-FL)",
-        "first_name": "Marco",
-        "id": "S350",
-        "last_name": "Rubio",
-        "party": "R",
-        "state": "FL"
-      },
-      {
         "display_name": "Scott (R-FL)",
         "first_name": "Rick",
         "id": "S404",
@@ -176,28 +176,12 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Hagerty (R-TN)",
-        "first_name": "Bill",
-        "id": "S407",
-        "last_name": "Hagerty",
-        "party": "R",
-        "state": "TN"
-      },
-      {
         "display_name": "Inhofe (R-OK)",
         "first_name": "Jim",
         "id": "S236",
         "last_name": "Inhofe",
         "party": "R",
         "state": "OK"
-      },
-      {
-        "display_name": "Sanders (I-VT)",
-        "first_name": "Bernard",
-        "id": "S313",
-        "last_name": "Sanders",
-        "party": "I",
-        "state": "VT"
       }
     ],
     "Present": [],
@@ -673,6 +657,22 @@
         "last_name": "Rounds",
         "party": "R",
         "state": "SD"
+      },
+      {
+        "display_name": "Rubio (R-FL)",
+        "first_name": "Marco",
+        "id": "S350",
+        "last_name": "Rubio",
+        "party": "R",
+        "state": "FL"
+      },
+      {
+        "display_name": "Sanders (I-VT)",
+        "first_name": "Bernard",
+        "id": "S313",
+        "last_name": "Sanders",
+        "party": "I",
+        "state": "VT"
       },
       {
         "display_name": "Sasse (R-NE)",
