@@ -5,22 +5,22 @@
     "title": "A bill to provide for a coordinated Federal research initiative to ensure continued United States leadership in engineering biology.",
     "type": "hr"
   },
-  "category": "procedural",
+  "category": "passage",
   "chamber": "s",
   "congress": 117,
-  "date": "2022-03-23T10:37:00-04:00",
-  "number": 100,
-  "question": "On the Motion to Proceed H.R. 4521",
-  "record_modified": "2022-03-28T19:32:00-04:00",
-  "requires": "1/2",
-  "result": "Motion to Proceed Agreed to",
-  "result_text": "Motion to Proceed Agreed to (66-31)",
+  "date": "2022-03-28T18:20:00-04:00",
+  "number": 109,
+  "question": "On Passage of the Bill H.R. 4521",
+  "record_modified": "2022-03-28T19:07:00-04:00",
+  "requires": "3/5",
+  "result": "Bill Passed",
+  "result_text": "Bill Passed (68-28, 3/5 majority required)",
   "session": "2022",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1172/vote_117_2_00100.xml",
-  "subject": "Motion to Proceed to H.R. 4521",
-  "type": "On the Motion to Proceed",
-  "updated_at": "2022-03-29T03:11:54-04:00",
-  "vote_id": "s100-117.2022",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1172/vote_117_2_00109.xml",
+  "subject": "H.R. 4521 As Amended",
+  "type": "On Passage of the Bill",
+  "updated_at": "2022-03-29T03:11:50-04:00",
+  "vote_id": "s109-117.2022",
   "votes": {
     "Nay": [
       {
@@ -62,14 +62,6 @@
         "last_name": "Burr",
         "party": "R",
         "state": "NC"
-      },
-      {
-        "display_name": "Cotton (R-AR)",
-        "first_name": "Tom",
-        "id": "S374",
-        "last_name": "Cotton",
-        "party": "R",
-        "state": "AR"
       },
       {
         "display_name": "Cramer (R-ND)",
@@ -152,14 +144,6 @@
         "state": "WI"
       },
       {
-        "display_name": "Kennedy (R-LA)",
-        "first_name": "John",
-        "id": "S389",
-        "last_name": "Kennedy",
-        "party": "R",
-        "state": "LA"
-      },
-      {
         "display_name": "Lankford (R-OK)",
         "first_name": "James",
         "id": "S378",
@@ -240,14 +224,6 @@
         "state": "AL"
       },
       {
-        "display_name": "Sullivan (R-AK)",
-        "first_name": "Dan",
-        "id": "S383",
-        "last_name": "Sullivan",
-        "party": "R",
-        "state": "AK"
-      },
-      {
         "display_name": "Thune (R-SD)",
         "first_name": "John",
         "id": "S303",
@@ -274,28 +250,36 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Casey (D-PA)",
-        "first_name": "Bob",
-        "id": "S309",
-        "last_name": "Casey",
-        "party": "D",
-        "state": "PA"
+        "display_name": "Blunt (R-MO)",
+        "first_name": "Roy",
+        "id": "S342",
+        "last_name": "Blunt",
+        "party": "R",
+        "state": "MO"
       },
       {
-        "display_name": "Manchin (D-WV)",
-        "first_name": "Joseph",
-        "id": "S338",
-        "last_name": "Manchin",
-        "party": "D",
-        "state": "WV"
+        "display_name": "Cotton (R-AR)",
+        "first_name": "Tom",
+        "id": "S374",
+        "last_name": "Cotton",
+        "party": "R",
+        "state": "AR"
       },
       {
-        "display_name": "Shaheen (D-NH)",
-        "first_name": "Jeanne",
-        "id": "S324",
-        "last_name": "Shaheen",
-        "party": "D",
-        "state": "NH"
+        "display_name": "Graham (R-SC)",
+        "first_name": "Lindsey",
+        "id": "S293",
+        "last_name": "Graham",
+        "party": "R",
+        "state": "SC"
+      },
+      {
+        "display_name": "Kennedy (R-LA)",
+        "first_name": "John",
+        "id": "S389",
+        "last_name": "Kennedy",
+        "party": "R",
+        "state": "LA"
       }
     ],
     "Present": [],
@@ -323,14 +307,6 @@
         "last_name": "Blumenthal",
         "party": "D",
         "state": "CT"
-      },
-      {
-        "display_name": "Blunt (R-MO)",
-        "first_name": "Roy",
-        "id": "S342",
-        "last_name": "Blunt",
-        "party": "R",
-        "state": "MO"
       },
       {
         "display_name": "Booker (D-NJ)",
@@ -379,6 +355,14 @@
         "last_name": "Carper",
         "party": "D",
         "state": "DE"
+      },
+      {
+        "display_name": "Casey (D-PA)",
+        "first_name": "Bob",
+        "id": "S309",
+        "last_name": "Casey",
+        "party": "D",
+        "state": "PA"
       },
       {
         "display_name": "Cassidy (R-LA)",
@@ -469,14 +453,6 @@
         "state": "NY"
       },
       {
-        "display_name": "Graham (R-SC)",
-        "first_name": "Lindsey",
-        "id": "S293",
-        "last_name": "Graham",
-        "party": "R",
-        "state": "SC"
-      },
-      {
         "display_name": "Grassley (R-IA)",
         "first_name": "Charles",
         "id": "S153",
@@ -563,6 +539,14 @@
         "last_name": "Lujan",
         "party": "D",
         "state": "NM"
+      },
+      {
+        "display_name": "Manchin (D-WV)",
+        "first_name": "Joseph",
+        "id": "S338",
+        "last_name": "Manchin",
+        "party": "D",
+        "state": "WV"
       },
       {
         "display_name": "Markey (D-MA)",
@@ -725,6 +709,14 @@
         "state": "NY"
       },
       {
+        "display_name": "Shaheen (D-NH)",
+        "first_name": "Jeanne",
+        "id": "S324",
+        "last_name": "Shaheen",
+        "party": "D",
+        "state": "NH"
+      },
+      {
         "display_name": "Sinema (D-AZ)",
         "first_name": "Kyrsten",
         "id": "S403",
@@ -747,6 +739,14 @@
         "last_name": "Stabenow",
         "party": "D",
         "state": "MI"
+      },
+      {
+        "display_name": "Sullivan (R-AK)",
+        "first_name": "Dan",
+        "id": "S383",
+        "last_name": "Sullivan",
+        "party": "R",
+        "state": "AK"
       },
       {
         "display_name": "Tester (D-MT)",
