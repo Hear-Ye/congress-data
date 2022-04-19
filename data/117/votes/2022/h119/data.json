@@ -9,15 +9,15 @@
   "congress": 117,
   "date": "2022-04-06T18:46:00-04:00",
   "number": 119,
-  "question": "On Ordering the Previous Question: H RES 1033 Providing for consideration of H.R. 3807, Restaurant Revitalization Fund Replensihment Act",
+  "question": "On Ordering the Previous Question: H RES 1033 Providing for consideration of H.R. 3807, Restaurant Revitalization Fund Replenishment Act",
   "requires": "1/2",
   "result": "Passed",
   "result_text": "Passed",
   "session": "2022",
   "source_url": "http://clerk.house.gov/evs/2022/roll119.xml",
-  "subject": "Providing for consideration of H.R. 3807, Restaurant Revitalization Fund Replensihment Act",
+  "subject": "Providing for consideration of H.R. 3807, Restaurant Revitalization Fund Replenishment Act",
   "type": "On Ordering the Previous Question",
-  "updated_at": "2022-04-07T03:07:37-04:00",
+  "updated_at": "2022-04-19T03:40:26-04:00",
   "vote_id": "h119-117.2022",
   "votes": {
     "Nay": [

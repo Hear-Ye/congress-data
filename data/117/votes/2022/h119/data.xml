@@ -1,9 +1,9 @@
 <roll where="house" session="117" year="2022" roll="119" source="house.gov"
-  datetime="2022-04-06T18:46:00-04:00" updated="2022-04-07T03:07:37-04:00"
+  datetime="2022-04-06T18:46:00-04:00" updated="2022-04-19T03:40:26-04:00"
   aye="221" nay="206" nv="2" present="0">
   <category>procedural</category>
   <type>On Ordering the Previous Question</type>
-  <question>On Ordering the Previous Question: H RES 1033 Providing for consideration of H.R. 3807, Restaurant Revitalization Fund Replensihment Act</question>
+  <question>On Ordering the Previous Question: H RES 1033 Providing for consideration of H.R. 3807, Restaurant Revitalization Fund Replenishment Act</question>
   <required>1/2</required>
   <result>Passed</result>
   <bill session="117" type="hr" number="1033"/>

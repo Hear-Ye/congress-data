@@ -1,9 +1,9 @@
 <roll where="house" session="117" year="2022" roll="120" source="house.gov"
-  datetime="2022-04-06T18:54:00-04:00" updated="2022-04-07T03:07:36-04:00"
+  datetime="2022-04-06T18:54:00-04:00" updated="2022-04-19T03:40:25-04:00"
   aye="218" nay="206" nv="5" present="0">
   <category>passage</category>
   <type>On the Resolution</type>
-  <question>On Agreeing to the Resolution: H RES 1033 Providing for consideration of H.R. 3807, Restaurant Revitalization Fund Replensihment Act</question>
+  <question>On Agreeing to the Resolution: H RES 1033 Providing for consideration of H.R. 3807, Restaurant Revitalization Fund Replenishment Act</question>
   <required>1/2</required>
   <result>Passed</result>
   <bill session="117" type="hr" number="1033"/>
