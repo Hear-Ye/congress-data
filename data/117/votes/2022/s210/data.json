@@ -11,7 +11,7 @@
   "date": "2022-05-26T11:33:00-04:00",
   "number": 210,
   "question": "Motion to Invoke Cloture: Motion to Proceed to H.R. 350",
-  "record_modified": "2022-05-26T12:52:00-04:00",
+  "record_modified": "2022-06-08T14:40:00-04:00",
   "requires": "3/5",
   "result": "Cloture Motion Rejected",
   "result_text": "Cloture Motion Rejected (47-47, 3/5 majority required)",
@@ -19,7 +19,7 @@
   "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1172/vote_117_2_00210.xml",
   "subject": "On the Cloture Motion H.R. 350",
   "type": "On the Cloture Motion",
-  "updated_at": "2022-05-27T03:42:45-04:00",
+  "updated_at": "2022-06-09T03:42:08-04:00",
   "vote_id": "s210-117.2022",
   "votes": {
     "Nay": [
