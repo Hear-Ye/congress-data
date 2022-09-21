@@ -1,10 +1,10 @@
 <roll where="house" session="117" year="2022" roll="440" source="house.gov"
-  datetime="2022-09-19T19:32:00-04:00" updated="2022-09-20T04:27:11-04:00"
+  datetime="2022-09-19T19:32:00-04:00" updated="2022-09-21T04:31:13-04:00"
   aye="290" nay="125" nv="17" present="0">
   <category>passage-suspension</category>
   <type>On Motion to Suspend the Rules and Pass, as Amended</type>
   <question>On Motion to Suspend the Rules and Pass, as Amended: H R 1456 Peace Corps Reauthorization Act</question>
-  <required>1/2</required>
+  <required>2/3</required>
   <result>Passed</result>
   <bill session="117" type="h" number="1456"/>
   <option key="+">Yea</option>
