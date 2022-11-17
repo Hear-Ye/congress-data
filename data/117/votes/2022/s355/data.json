@@ -11,15 +11,15 @@
   "date": "2022-11-15T17:16:00-05:00",
   "number": 355,
   "question": "On the Joint Resolution S.J.Res. 63",
-  "record_modified": "2022-11-15T18:39:00-05:00",
+  "record_modified": "2022-11-16T19:06:00-05:00",
   "requires": "1/2",
   "result": "Joint Resolution Passed",
-  "result_text": "Joint Resolution Passed (62-36)",
+  "result_text": "Joint Resolution Passed (61-37)",
   "session": "2022",
   "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1172/vote_117_2_00355.xml",
   "subject": "S.J.Res. 63",
   "type": "On the Joint Resolution",
-  "updated_at": "2022-11-16T03:37:27-05:00",
+  "updated_at": "2022-11-17T03:31:15-05:00",
   "vote_id": "s355-117.2022",
   "votes": {
     "Nay": [
@@ -262,6 +262,14 @@
         "last_name": "Schatz",
         "party": "D",
         "state": "HI"
+      },
+      {
+        "display_name": "Schumer (D-NY)",
+        "first_name": "Charles",
+        "id": "S270",
+        "last_name": "Schumer",
+        "party": "D",
+        "state": "NY"
       },
       {
         "display_name": "Smith (D-MN)",
@@ -707,14 +715,6 @@
         "last_name": "Rubio",
         "party": "R",
         "state": "FL"
-      },
-      {
-        "display_name": "Schumer (D-NY)",
-        "first_name": "Charles",
-        "id": "S270",
-        "last_name": "Schumer",
-        "party": "D",
-        "state": "NY"
       },
       {
         "display_name": "Scott (R-FL)",

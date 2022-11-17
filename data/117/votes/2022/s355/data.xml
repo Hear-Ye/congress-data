@@ -1,6 +1,6 @@
 <roll where="senate" session="117" year="2022" roll="355" source="senate.gov"
-  datetime="2022-11-15T17:16:00-05:00" updated="2022-11-16T03:37:27-05:00"
-  aye="62" nay="36" nv="2" present="0">
+  datetime="2022-11-15T17:16:00-05:00" updated="2022-11-17T03:31:15-05:00"
+  aye="61" nay="37" nv="2" present="0">
   <category>passage</category>
   <type>On the Joint Resolution</type>
   <question>On the Joint Resolution S.J.Res. 63</question>
@@ -58,7 +58,6 @@
   <voter id="S402" vote="+" value="Yea" state="NV"/>
   <voter id="S381" vote="+" value="Yea" state="SD"/>
   <voter id="S350" vote="+" value="Yea" state="FL"/>
-  <voter id="S270" vote="+" value="Yea" state="NY"/>
   <voter id="S404" vote="+" value="Yea" state="FL"/>
   <voter id="S365" vote="+" value="Yea" state="SC"/>
   <voter id="S324" vote="+" value="Yea" state="NH"/>
@@ -103,6 +102,7 @@
   <voter id="S259" vote="-" value="Nay" state="RI"/>
   <voter id="S313" vote="-" value="Nay" state="VT"/>
   <voter id="S353" vote="-" value="Nay" state="HI"/>
+  <voter id="S270" vote="-" value="Nay" state="NY"/>
   <voter id="S394" vote="-" value="Nay" state="MN"/>
   <voter id="S284" vote="-" value="Nay" state="MI"/>
   <voter id="S390" vote="-" value="Nay" state="MD"/>
