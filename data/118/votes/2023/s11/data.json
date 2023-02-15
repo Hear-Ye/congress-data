@@ -1,26 +1,34 @@
 {
-  "category": "cloture",
+  "category": "nomination",
   "chamber": "s",
   "congress": 118,
-  "date": "2023-02-13T18:21:00-05:00",
+  "date": "2023-02-14T11:37:00-05:00",
   "nomination": {
     "number": "79",
     "title": "Gina R. Mendez-Miro, of Puerto Rico, to be United States District Judge for the District of Puerto Rico"
   },
-  "number": 10,
-  "question": "Motion to Invoke Cloture: Gina R. Mendez-Miro to be U.S. District Judge for the District of Puerto Rico: Gina R. Mendez-Miro, of Puerto Rico, to be United States District Judge for the District of Puerto Rico",
-  "record_modified": "2023-02-14T17:31:00-05:00",
+  "number": 11,
+  "question": "On the Nomination PN79: Gina R. Mendez-Miro, of Puerto Rico, to be United States District Judge for the District of Puerto Rico",
+  "record_modified": "2023-02-14T13:02:00-05:00",
   "requires": "1/2",
-  "result": "Cloture Motion Agreed to",
-  "result_text": "Cloture Motion Agreed to (52-44)",
+  "result": "Nomination Confirmed",
+  "result_text": "Nomination Confirmed (54-45)",
   "session": "2023",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1181/vote_118_1_00010.xml",
-  "subject": "On the Cloture Motion PN79",
-  "type": "On the Cloture Motion",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1181/vote_118_1_00011.xml",
+  "subject": "Confirmation: Gina R. Mendez-Miro, of Puerto Rico, to be U.S. District Judge for the District of Puerto Rico",
+  "type": "On the Nomination",
   "updated_at": "2023-02-15T03:01:37-05:00",
-  "vote_id": "s10-118.2023",
+  "vote_id": "s11-118.2023",
   "votes": {
     "Nay": [
+      {
+        "display_name": "Barrasso (R-WY)",
+        "first_name": "John",
+        "id": "S317",
+        "last_name": "Barrasso",
+        "party": "R",
+        "state": "WY"
+      },
       {
         "display_name": "Blackburn (R-TN)",
         "first_name": "Marsha",
@@ -376,36 +384,12 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Barrasso (R-WY)",
-        "first_name": "John",
-        "id": "S317",
-        "last_name": "Barrasso",
-        "party": "R",
-        "state": "WY"
-      },
-      {
-        "display_name": "Fetterman (D-PA)",
-        "first_name": "John",
-        "id": "S418",
-        "last_name": "Fetterman",
+        "display_name": "Casey (D-PA)",
+        "first_name": "Bob",
+        "id": "S309",
+        "last_name": "Casey",
         "party": "D",
         "state": "PA"
-      },
-      {
-        "display_name": "Heinrich (D-NM)",
-        "first_name": "Martin",
-        "id": "S359",
-        "last_name": "Heinrich",
-        "party": "D",
-        "state": "NM"
-      },
-      {
-        "display_name": "Padilla (D-CA)",
-        "first_name": "Alex",
-        "id": "S413",
-        "last_name": "Padilla",
-        "party": "D",
-        "state": "CA"
       }
     ],
     "Present": [],
@@ -475,14 +459,6 @@
         "state": "DE"
       },
       {
-        "display_name": "Casey (D-PA)",
-        "first_name": "Bob",
-        "id": "S309",
-        "last_name": "Casey",
-        "party": "D",
-        "state": "PA"
-      },
-      {
         "display_name": "Collins (R-ME)",
         "first_name": "Susan",
         "id": "S252",
@@ -531,6 +507,14 @@
         "state": "CA"
       },
       {
+        "display_name": "Fetterman (D-PA)",
+        "first_name": "John",
+        "id": "S418",
+        "last_name": "Fetterman",
+        "party": "D",
+        "state": "PA"
+      },
+      {
         "display_name": "Gillibrand (D-NY)",
         "first_name": "Kirsten",
         "id": "S331",
@@ -553,6 +537,14 @@
         "last_name": "Hassan",
         "party": "D",
         "state": "NH"
+      },
+      {
+        "display_name": "Heinrich (D-NM)",
+        "first_name": "Martin",
+        "id": "S359",
+        "last_name": "Heinrich",
+        "party": "D",
+        "state": "NM"
       },
       {
         "display_name": "Hickenlooper (D-CO)",
@@ -673,6 +665,14 @@
         "last_name": "Ossoff",
         "party": "D",
         "state": "GA"
+      },
+      {
+        "display_name": "Padilla (D-CA)",
+        "first_name": "Alex",
+        "id": "S413",
+        "last_name": "Padilla",
+        "party": "D",
+        "state": "CA"
       },
       {
         "display_name": "Peters (D-MI)",

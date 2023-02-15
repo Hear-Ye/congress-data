@@ -2,25 +2,33 @@
   "category": "cloture",
   "chamber": "s",
   "congress": 118,
-  "date": "2023-02-13T18:21:00-05:00",
+  "date": "2023-02-14T17:14:00-05:00",
   "nomination": {
-    "number": "79",
-    "title": "Gina R. Mendez-Miro, of Puerto Rico, to be United States District Judge for the District of Puerto Rico"
+    "number": "71",
+    "title": "Adrienne C. Nelson, of Oregon, to be United States District Judge for the District of Oregon"
   },
-  "number": 10,
-  "question": "Motion to Invoke Cloture: Gina R. Mendez-Miro to be U.S. District Judge for the District of Puerto Rico: Gina R. Mendez-Miro, of Puerto Rico, to be United States District Judge for the District of Puerto Rico",
-  "record_modified": "2023-02-14T17:31:00-05:00",
+  "number": 16,
+  "question": "Motion to Invoke Cloture: Adrienne C. Nelson to be U.S. District Judge for the District of Oregon: Adrienne C. Nelson, of Oregon, to be United States District Judge for the District of Oregon",
+  "record_modified": "2023-02-14T18:24:00-05:00",
   "requires": "1/2",
   "result": "Cloture Motion Agreed to",
-  "result_text": "Cloture Motion Agreed to (52-44)",
+  "result_text": "Cloture Motion Agreed to (53-44)",
   "session": "2023",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1181/vote_118_1_00010.xml",
-  "subject": "On the Cloture Motion PN79",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1181/vote_118_1_00016.xml",
+  "subject": "On the Cloture Motion PN71",
   "type": "On the Cloture Motion",
-  "updated_at": "2023-02-15T03:01:37-05:00",
-  "vote_id": "s10-118.2023",
+  "updated_at": "2023-02-15T03:01:35-05:00",
+  "vote_id": "s16-118.2023",
   "votes": {
     "Nay": [
+      {
+        "display_name": "Barrasso (R-WY)",
+        "first_name": "John",
+        "id": "S317",
+        "last_name": "Barrasso",
+        "party": "R",
+        "state": "WY"
+      },
       {
         "display_name": "Blackburn (R-TN)",
         "first_name": "Marsha",
@@ -206,14 +214,6 @@
         "state": "OK"
       },
       {
-        "display_name": "Lee (R-UT)",
-        "first_name": "Mike",
-        "id": "S346",
-        "last_name": "Lee",
-        "party": "R",
-        "state": "UT"
-      },
-      {
         "display_name": "Lummis (R-WY)",
         "first_name": "Cynthia",
         "id": "S410",
@@ -342,14 +342,6 @@
         "state": "SD"
       },
       {
-        "display_name": "Tillis (R-NC)",
-        "first_name": "Thomas",
-        "id": "S384",
-        "last_name": "Tillis",
-        "party": "R",
-        "state": "NC"
-      },
-      {
         "display_name": "Tuberville (R-AL)",
         "first_name": "Tommy",
         "id": "S412",
@@ -366,6 +358,14 @@
         "state": "OH"
       },
       {
+        "display_name": "Wicker (R-MS)",
+        "first_name": "Roger",
+        "id": "S318",
+        "last_name": "Wicker",
+        "party": "R",
+        "state": "MS"
+      },
+      {
         "display_name": "Young (R-IN)",
         "first_name": "Todd",
         "id": "S391",
@@ -376,36 +376,28 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Barrasso (R-WY)",
-        "first_name": "John",
-        "id": "S317",
-        "last_name": "Barrasso",
-        "party": "R",
-        "state": "WY"
-      },
-      {
-        "display_name": "Fetterman (D-PA)",
-        "first_name": "John",
-        "id": "S418",
-        "last_name": "Fetterman",
+        "display_name": "Casey (D-PA)",
+        "first_name": "Bob",
+        "id": "S309",
+        "last_name": "Casey",
         "party": "D",
         "state": "PA"
       },
       {
-        "display_name": "Heinrich (D-NM)",
-        "first_name": "Martin",
-        "id": "S359",
-        "last_name": "Heinrich",
-        "party": "D",
-        "state": "NM"
+        "display_name": "Lee (R-UT)",
+        "first_name": "Mike",
+        "id": "S346",
+        "last_name": "Lee",
+        "party": "R",
+        "state": "UT"
       },
       {
-        "display_name": "Padilla (D-CA)",
-        "first_name": "Alex",
-        "id": "S413",
-        "last_name": "Padilla",
-        "party": "D",
-        "state": "CA"
+        "display_name": "Tillis (R-NC)",
+        "first_name": "Thomas",
+        "id": "S384",
+        "last_name": "Tillis",
+        "party": "R",
+        "state": "NC"
       }
     ],
     "Present": [],
@@ -475,14 +467,6 @@
         "state": "DE"
       },
       {
-        "display_name": "Casey (D-PA)",
-        "first_name": "Bob",
-        "id": "S309",
-        "last_name": "Casey",
-        "party": "D",
-        "state": "PA"
-      },
-      {
         "display_name": "Collins (R-ME)",
         "first_name": "Susan",
         "id": "S252",
@@ -531,6 +515,14 @@
         "state": "CA"
       },
       {
+        "display_name": "Fetterman (D-PA)",
+        "first_name": "John",
+        "id": "S418",
+        "last_name": "Fetterman",
+        "party": "D",
+        "state": "PA"
+      },
+      {
         "display_name": "Gillibrand (D-NY)",
         "first_name": "Kirsten",
         "id": "S331",
@@ -553,6 +545,14 @@
         "last_name": "Hassan",
         "party": "D",
         "state": "NH"
+      },
+      {
+        "display_name": "Heinrich (D-NM)",
+        "first_name": "Martin",
+        "id": "S359",
+        "last_name": "Heinrich",
+        "party": "D",
+        "state": "NM"
       },
       {
         "display_name": "Hickenlooper (D-CO)",
@@ -673,6 +673,14 @@
         "last_name": "Ossoff",
         "party": "D",
         "state": "GA"
+      },
+      {
+        "display_name": "Padilla (D-CA)",
+        "first_name": "Alex",
+        "id": "S413",
+        "last_name": "Padilla",
+        "party": "D",
+        "state": "CA"
       },
       {
         "display_name": "Peters (D-MI)",
@@ -809,14 +817,6 @@
         "last_name": "Whitehouse",
         "party": "D",
         "state": "RI"
-      },
-      {
-        "display_name": "Wicker (R-MS)",
-        "first_name": "Roger",
-        "id": "S318",
-        "last_name": "Wicker",
-        "party": "R",
-        "state": "MS"
       },
       {
         "display_name": "Wyden (D-OR)",
