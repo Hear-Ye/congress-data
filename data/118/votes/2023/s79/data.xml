@@ -1,11 +1,11 @@
 <roll where="senate" session="118" year="2023" roll="79" source="senate.gov"
-  datetime="2023-03-29T14:26:00-04:00" updated="2023-03-30T02:47:38-04:00"
+  datetime="2023-03-29T14:26:00-04:00" updated="2023-03-31T02:47:10-04:00"
   aye="53" nay="43" nv="4" present="0">
   <category>passage</category>
-  <type>On Passage of the Bill</type>
-  <question>On Passage of the Bill H.J.Res. 27</question>
+  <type>On the Joint Resolution</type>
+  <question>On the Joint Resolution H.J.Res. 27</question>
   <required>1/2</required>
-  <result>Bill Passed</result>
+  <result>Joint Resolution Passed</result>
   <bill session="118" type="hj" number="27"/>
   <option key="+">Yea</option>
   <option key="-">Nay</option>
