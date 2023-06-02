@@ -1,26 +1,31 @@
 {
+  "amendment": {
+    "number": 134,
+    "purpose": "To rescind unnecessary coronavirus funds.",
+    "type": "s"
+  },
   "bill": {
     "congress": 118,
-    "number": 45,
-    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to \"Waivers and Modifications of Federal Student Loans\".",
-    "type": "hjres"
+    "number": 3746,
+    "title": "No short title on file",
+    "type": "hr"
   },
-  "category": "procedural",
+  "category": "amendment",
   "chamber": "s",
   "congress": 118,
-  "date": "2023-05-31T14:34:00-04:00",
-  "number": 134,
-  "question": "On the Motion (Motion to Proceed to H.J. Res. 45)",
-  "record_modified": "2023-06-01T21:09:00-04:00",
-  "requires": "1/2",
-  "result": "Motion Agreed to",
-  "result_text": "Motion Agreed to (51-46)",
+  "date": "2023-06-01T21:49:00-04:00",
+  "number": 143,
+  "question": "On the Amendment S.Amdt. 134 to H.R. 3746 (No short title on file)",
+  "record_modified": "2023-06-01T22:07:00-04:00",
+  "requires": "3/5",
+  "result": "Amendment Rejected",
+  "result_text": "Amendment Rejected (47-52, 3/5 majority required)",
   "session": "2023",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1181/vote_118_1_00134.xml",
-  "subject": "Motion to Proceed to H.J. Res. 45",
-  "type": "On the Motion to Proceed to H.J. Res. 45",
-  "updated_at": "2023-06-02T02:59:58-04:00",
-  "vote_id": "s134-118.2023",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1181/vote_118_1_00143.xml",
+  "subject": "Budd Amdt No. 134",
+  "type": "On the Amendment",
+  "updated_at": "2023-06-02T02:59:53-04:00",
+  "vote_id": "s143-118.2023",
   "votes": {
     "Nay": [
       {
@@ -30,6 +35,14 @@
         "last_name": "Baldwin",
         "party": "D",
         "state": "WI"
+      },
+      {
+        "display_name": "Bennet (D-CO)",
+        "first_name": "Michael",
+        "id": "S330",
+        "last_name": "Bennet",
+        "party": "D",
+        "state": "CO"
       },
       {
         "display_name": "Blumenthal (D-CT)",
@@ -216,6 +229,14 @@
         "state": "NM"
       },
       {
+        "display_name": "Manchin (D-WV)",
+        "first_name": "Joseph",
+        "id": "S338",
+        "last_name": "Manchin",
+        "party": "D",
+        "state": "WV"
+      },
+      {
         "display_name": "Markey (D-MA)",
         "first_name": "Edward",
         "id": "S369",
@@ -238,6 +259,14 @@
         "last_name": "Merkley",
         "party": "D",
         "state": "OR"
+      },
+      {
+        "display_name": "Murkowski (R-AK)",
+        "first_name": "Lisa",
+        "id": "S288",
+        "last_name": "Murkowski",
+        "party": "R",
+        "state": "AK"
       },
       {
         "display_name": "Murphy (D-CT)",
@@ -328,6 +357,14 @@
         "state": "NH"
       },
       {
+        "display_name": "Sinema (I-AZ)",
+        "first_name": "Kyrsten",
+        "id": "S403",
+        "last_name": "Sinema",
+        "party": "I",
+        "state": "AZ"
+      },
+      {
         "display_name": "Smith (D-MN)",
         "first_name": "Tina",
         "id": "S394",
@@ -344,12 +381,28 @@
         "state": "MI"
       },
       {
+        "display_name": "Tester (D-MT)",
+        "first_name": "Jon",
+        "id": "S314",
+        "last_name": "Tester",
+        "party": "D",
+        "state": "MT"
+      },
+      {
         "display_name": "Van Hollen (D-MD)",
         "first_name": "Chris",
         "id": "S390",
         "last_name": "Van Hollen",
         "party": "D",
         "state": "MD"
+      },
+      {
+        "display_name": "Warner (D-VA)",
+        "first_name": "Mark",
+        "id": "S327",
+        "last_name": "Warner",
+        "party": "D",
+        "state": "VA"
       },
       {
         "display_name": "Warnock (D-GA)",
@@ -394,28 +447,12 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Bennet (D-CO)",
-        "first_name": "Michael",
-        "id": "S330",
-        "last_name": "Bennet",
-        "party": "D",
-        "state": "CO"
-      },
-      {
-        "display_name": "Tillis (R-NC)",
-        "first_name": "Thomas",
-        "id": "S384",
-        "last_name": "Tillis",
+        "display_name": "Hagerty (R-TN)",
+        "first_name": "Bill",
+        "id": "S407",
+        "last_name": "Hagerty",
         "party": "R",
-        "state": "NC"
-      },
-      {
-        "display_name": "Warner (D-VA)",
-        "first_name": "Mark",
-        "id": "S327",
-        "last_name": "Warner",
-        "party": "D",
-        "state": "VA"
+        "state": "TN"
       }
     ],
     "Present": [],
@@ -573,14 +610,6 @@
         "state": "IA"
       },
       {
-        "display_name": "Hagerty (R-TN)",
-        "first_name": "Bill",
-        "id": "S407",
-        "last_name": "Hagerty",
-        "party": "R",
-        "state": "TN"
-      },
-      {
         "display_name": "Hawley (R-MO)",
         "first_name": "Josh",
         "id": "S399",
@@ -645,14 +674,6 @@
         "state": "WY"
       },
       {
-        "display_name": "Manchin (D-WV)",
-        "first_name": "Joseph",
-        "id": "S338",
-        "last_name": "Manchin",
-        "party": "D",
-        "state": "WV"
-      },
-      {
         "display_name": "Marshall (R-KS)",
         "first_name": "Roger",
         "id": "S411",
@@ -683,14 +704,6 @@
         "last_name": "Mullin",
         "party": "R",
         "state": "OK"
-      },
-      {
-        "display_name": "Murkowski (R-AK)",
-        "first_name": "Lisa",
-        "id": "S288",
-        "last_name": "Murkowski",
-        "party": "R",
-        "state": "AK"
       },
       {
         "display_name": "Paul (R-KY)",
@@ -765,14 +778,6 @@
         "state": "SC"
       },
       {
-        "display_name": "Sinema (I-AZ)",
-        "first_name": "Kyrsten",
-        "id": "S403",
-        "last_name": "Sinema",
-        "party": "I",
-        "state": "AZ"
-      },
-      {
         "display_name": "Sullivan (R-AK)",
         "first_name": "Dan",
         "id": "S383",
@@ -781,20 +786,20 @@
         "state": "AK"
       },
       {
-        "display_name": "Tester (D-MT)",
-        "first_name": "Jon",
-        "id": "S314",
-        "last_name": "Tester",
-        "party": "D",
-        "state": "MT"
-      },
-      {
         "display_name": "Thune (R-SD)",
         "first_name": "John",
         "id": "S303",
         "last_name": "Thune",
         "party": "R",
         "state": "SD"
+      },
+      {
+        "display_name": "Tillis (R-NC)",
+        "first_name": "Thomas",
+        "id": "S384",
+        "last_name": "Tillis",
+        "party": "R",
+        "state": "NC"
       },
       {
         "display_name": "Tuberville (R-AL)",
