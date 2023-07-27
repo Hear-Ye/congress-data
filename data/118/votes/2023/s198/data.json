@@ -1,7 +1,7 @@
 {
   "amendment": {
-    "number": 931,
-    "purpose": "To provide for an investment screening mechanism relating to covered sectors.",
+    "number": 199,
+    "purpose": "To provide enhanced protection against debt collector harassment of members of the Armed Forces.",
     "type": "s"
   },
   "bill": {
@@ -13,45 +13,21 @@
   "category": "amendment",
   "chamber": "s",
   "congress": 118,
-  "date": "2023-07-25T17:34:00-04:00",
-  "number": 196,
-  "question": "On the Amendment S.Amdt. 931 to S.Amdt. 935 to S. 2226 (No short title on file)",
-  "record_modified": "2023-07-26T19:29:00-04:00",
+  "date": "2023-07-26T12:16:00-04:00",
+  "number": 198,
+  "question": "On the Amendment S.Amdt. 199 to S.Amdt. 935 to S. 2226 (No short title on file)",
+  "record_modified": "2023-07-26T13:22:00-04:00",
   "requires": "3/5",
   "result": "Amendment Agreed to",
-  "result_text": "Amendment Agreed to (91-6, 3/5 majority required)",
+  "result_text": "Amendment Agreed to (95-2, 3/5 majority required)",
   "session": "2023",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1181/vote_118_1_00196.xml",
-  "subject": "Cornyn Amdt. No. 931",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1181/vote_118_1_00198.xml",
+  "subject": "Warnock Amdt. No. 199",
   "type": "On the Amendment",
-  "updated_at": "2023-07-27T02:40:20-04:00",
-  "vote_id": "s196-118.2023",
+  "updated_at": "2023-07-27T02:40:19-04:00",
+  "vote_id": "s198-118.2023",
   "votes": {
     "Nay": [
-      {
-        "display_name": "Blackburn (R-TN)",
-        "first_name": "Marsha",
-        "id": "S396",
-        "last_name": "Blackburn",
-        "party": "R",
-        "state": "TN"
-      },
-      {
-        "display_name": "Braun (R-IN)",
-        "first_name": "Mike",
-        "id": "S397",
-        "last_name": "Braun",
-        "party": "R",
-        "state": "IN"
-      },
-      {
-        "display_name": "Lee (R-UT)",
-        "first_name": "Mike",
-        "id": "S346",
-        "last_name": "Lee",
-        "party": "R",
-        "state": "UT"
-      },
       {
         "display_name": "Paul (R-KY)",
         "first_name": "Rand",
@@ -61,31 +37,15 @@
         "state": "KY"
       },
       {
-        "display_name": "Sinema (I-AZ)",
-        "first_name": "Kyrsten",
-        "id": "S403",
-        "last_name": "Sinema",
-        "party": "I",
-        "state": "AZ"
-      },
-      {
-        "display_name": "Tillis (R-NC)",
-        "first_name": "Thomas",
-        "id": "S384",
-        "last_name": "Tillis",
+        "display_name": "Wicker (R-MS)",
+        "first_name": "Roger",
+        "id": "S318",
+        "last_name": "Wicker",
         "party": "R",
-        "state": "NC"
+        "state": "MS"
       }
     ],
     "Not Voting": [
-      {
-        "display_name": "Budd (R-NC)",
-        "first_name": "Ted",
-        "id": "S417",
-        "last_name": "Budd",
-        "party": "R",
-        "state": "NC"
-      },
       {
         "display_name": "Durbin (D-IL)",
         "first_name": "Richard",
@@ -95,12 +55,20 @@
         "state": "IL"
       },
       {
-        "display_name": "Scott (R-SC)",
-        "first_name": "Tim",
-        "id": "S365",
-        "last_name": "Scott",
-        "party": "R",
-        "state": "SC"
+        "display_name": "Fetterman (D-PA)",
+        "first_name": "John",
+        "id": "S418",
+        "last_name": "Fetterman",
+        "party": "D",
+        "state": "PA"
+      },
+      {
+        "display_name": "Whitehouse (D-RI)",
+        "first_name": "Sheldon",
+        "id": "S316",
+        "last_name": "Whitehouse",
+        "party": "D",
+        "state": "RI"
       }
     ],
     "Present": [],
@@ -130,6 +98,14 @@
         "state": "CO"
       },
       {
+        "display_name": "Blackburn (R-TN)",
+        "first_name": "Marsha",
+        "id": "S396",
+        "last_name": "Blackburn",
+        "party": "R",
+        "state": "TN"
+      },
+      {
         "display_name": "Blumenthal (D-CT)",
         "first_name": "Richard",
         "id": "S341",
@@ -154,6 +130,14 @@
         "state": "AR"
       },
       {
+        "display_name": "Braun (R-IN)",
+        "first_name": "Mike",
+        "id": "S397",
+        "last_name": "Braun",
+        "party": "R",
+        "state": "IN"
+      },
+      {
         "display_name": "Britt (R-AL)",
         "first_name": "Katie",
         "id": "S416",
@@ -168,6 +152,14 @@
         "last_name": "Brown",
         "party": "D",
         "state": "OH"
+      },
+      {
+        "display_name": "Budd (R-NC)",
+        "first_name": "Ted",
+        "id": "S417",
+        "last_name": "Budd",
+        "party": "R",
+        "state": "NC"
       },
       {
         "display_name": "Cantwell (D-WA)",
@@ -312,14 +304,6 @@
         "last_name": "Feinstein",
         "party": "D",
         "state": "CA"
-      },
-      {
-        "display_name": "Fetterman (D-PA)",
-        "first_name": "John",
-        "id": "S418",
-        "last_name": "Fetterman",
-        "party": "D",
-        "state": "PA"
       },
       {
         "display_name": "Fischer (R-NE)",
@@ -472,6 +456,14 @@
         "last_name": "Lankford",
         "party": "R",
         "state": "OK"
+      },
+      {
+        "display_name": "Lee (R-UT)",
+        "first_name": "Mike",
+        "id": "S346",
+        "last_name": "Lee",
+        "party": "R",
+        "state": "UT"
       },
       {
         "display_name": "Lujan (D-NM)",
@@ -698,12 +690,28 @@
         "state": "FL"
       },
       {
+        "display_name": "Scott (R-SC)",
+        "first_name": "Tim",
+        "id": "S365",
+        "last_name": "Scott",
+        "party": "R",
+        "state": "SC"
+      },
+      {
         "display_name": "Shaheen (D-NH)",
         "first_name": "Jeanne",
         "id": "S324",
         "last_name": "Shaheen",
         "party": "D",
         "state": "NH"
+      },
+      {
+        "display_name": "Sinema (I-AZ)",
+        "first_name": "Kyrsten",
+        "id": "S403",
+        "last_name": "Sinema",
+        "party": "I",
+        "state": "AZ"
       },
       {
         "display_name": "Smith (D-MN)",
@@ -744,6 +752,14 @@
         "last_name": "Thune",
         "party": "R",
         "state": "SD"
+      },
+      {
+        "display_name": "Tillis (R-NC)",
+        "first_name": "Thomas",
+        "id": "S384",
+        "last_name": "Tillis",
+        "party": "R",
+        "state": "NC"
       },
       {
         "display_name": "Tuberville (R-AL)",
@@ -800,22 +816,6 @@
         "last_name": "Welch",
         "party": "D",
         "state": "VT"
-      },
-      {
-        "display_name": "Whitehouse (D-RI)",
-        "first_name": "Sheldon",
-        "id": "S316",
-        "last_name": "Whitehouse",
-        "party": "D",
-        "state": "RI"
-      },
-      {
-        "display_name": "Wicker (R-MS)",
-        "first_name": "Roger",
-        "id": "S318",
-        "last_name": "Wicker",
-        "party": "R",
-        "state": "MS"
       },
       {
         "display_name": "Wyden (D-OR)",
