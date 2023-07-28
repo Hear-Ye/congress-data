@@ -1,7 +1,7 @@
 {
   "amendment": {
-    "number": 421,
-    "purpose": "To provide remedies to members of the Armed Forces discharged or subject to adverse action under the COVID-19 vaccine mandate.",
+    "number": 874,
+    "purpose": "To prohibit the flying, draping, or other display of any flag other than the flag of the United States at public buildings.",
     "type": "s"
   },
   "bill": {
@@ -13,19 +13,19 @@
   "category": "amendment",
   "chamber": "s",
   "congress": 118,
-  "date": "2023-07-26T20:08:00-04:00",
-  "number": 199,
-  "question": "On the Amendment S.Amdt. 421 to S.Amdt. 935 to S. 2226 (No short title on file)",
-  "record_modified": "2023-07-27T21:22:00-04:00",
+  "date": "2023-07-27T14:22:00-04:00",
+  "number": 204,
+  "question": "On the Amendment S.Amdt. 874 to S.Amdt. 935 to S. 2226 (No short title on file)",
+  "record_modified": "2023-07-27T21:28:00-04:00",
   "requires": "3/5",
   "result": "Amendment Rejected",
-  "result_text": "Amendment Rejected (46-53, 3/5 majority required)",
+  "result_text": "Amendment Rejected (50-49, 3/5 majority required)",
   "session": "2023",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1181/vote_118_1_00199.xml",
-  "subject": "Cruz Amdt. No. 421",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1181/vote_118_1_00204.xml",
+  "subject": "Marshall Amdt. No. 874",
   "type": "On the Amendment",
-  "updated_at": "2023-07-28T02:43:16-04:00",
-  "vote_id": "s199-118.2023",
+  "updated_at": "2023-07-28T02:43:14-04:00",
+  "vote_id": "s204-118.2023",
   "votes": {
     "Nay": [
       {
@@ -99,22 +99,6 @@
         "last_name": "Casey",
         "party": "D",
         "state": "PA"
-      },
-      {
-        "display_name": "Cassidy (R-LA)",
-        "first_name": "Bill",
-        "id": "S373",
-        "last_name": "Cassidy",
-        "party": "R",
-        "state": "LA"
-      },
-      {
-        "display_name": "Collins (R-ME)",
-        "first_name": "Susan",
-        "id": "S252",
-        "last_name": "Collins",
-        "party": "R",
-        "state": "ME"
       },
       {
         "display_name": "Coons (D-DE)",
@@ -237,14 +221,6 @@
         "state": "NM"
       },
       {
-        "display_name": "Manchin (D-WV)",
-        "first_name": "Joseph",
-        "id": "S338",
-        "last_name": "Manchin",
-        "party": "D",
-        "state": "WV"
-      },
-      {
         "display_name": "Markey (D-MA)",
         "first_name": "Edward",
         "id": "S369",
@@ -315,14 +291,6 @@
         "last_name": "Reed",
         "party": "D",
         "state": "RI"
-      },
-      {
-        "display_name": "Romney (R-UT)",
-        "first_name": "Mitt",
-        "id": "S401",
-        "last_name": "Romney",
-        "party": "R",
-        "state": "UT"
       },
       {
         "display_name": "Rosen (D-NV)",
@@ -522,6 +490,22 @@
         "state": "WV"
       },
       {
+        "display_name": "Cassidy (R-LA)",
+        "first_name": "Bill",
+        "id": "S373",
+        "last_name": "Cassidy",
+        "party": "R",
+        "state": "LA"
+      },
+      {
+        "display_name": "Collins (R-ME)",
+        "first_name": "Susan",
+        "id": "S252",
+        "last_name": "Collins",
+        "party": "R",
+        "state": "ME"
+      },
+      {
         "display_name": "Cornyn (R-TX)",
         "first_name": "John",
         "id": "S287",
@@ -674,6 +658,14 @@
         "state": "WY"
       },
       {
+        "display_name": "Manchin (D-WV)",
+        "first_name": "Joseph",
+        "id": "S338",
+        "last_name": "Manchin",
+        "party": "D",
+        "state": "WV"
+      },
+      {
         "display_name": "Marshall (R-KS)",
         "first_name": "Roger",
         "id": "S411",
@@ -736,6 +728,14 @@
         "last_name": "Risch",
         "party": "R",
         "state": "ID"
+      },
+      {
+        "display_name": "Romney (R-UT)",
+        "first_name": "Mitt",
+        "id": "S401",
+        "last_name": "Romney",
+        "party": "R",
+        "state": "UT"
       },
       {
         "display_name": "Rounds (R-SD)",
