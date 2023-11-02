@@ -1,26 +1,31 @@
 {
+  "amendment": {
+    "number": 1249,
+    "purpose": "To ensure that United States diplomats and officials of the U.S. Section of the International Boundary and Water Commission are able to advance efforts seeking compliance by the United Mexican States with the 1944 Treaty on Utilization of Waters of the Colorado and Tijuana Rivers and of the Rio Grande.",
+    "type": "s"
+  },
   "bill": {
     "congress": 118,
-    "number": 42,
-    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Food and Nutrition Service relating to \"Application of Bostock v. Clayton County to Program Discrimination Complaint Processing-Policy Update\".",
-    "type": "sjres"
+    "number": 4366,
+    "title": "No short title on file",
+    "type": "hr"
   },
-  "category": "passage",
+  "category": "amendment",
   "chamber": "s",
   "congress": 118,
-  "date": "2023-10-26T13:51:00-04:00",
-  "number": 272,
-  "question": "On the Joint Resolution S.J.Res. 42",
-  "record_modified": "2023-11-01T16:58:00-04:00",
-  "requires": "1/2",
-  "result": "Joint Resolution Defeated",
-  "result_text": "Joint Resolution Defeated (47-50)",
+  "date": "2023-11-01T14:37:00-04:00",
+  "number": 282,
+  "question": "On the Amendment S.Amdt. 1249 to S.Amdt. 1092 to H.R. 4366 (No short title on file)",
+  "record_modified": "2023-11-01T15:43:00-04:00",
+  "requires": "3/5",
+  "result": "Amendment Rejected",
+  "result_text": "Amendment Rejected (52-45, 3/5 majority required)",
   "session": "2023",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1181/vote_118_1_00272.xml",
-  "subject": "S.J. Res. 42",
-  "type": "On the Joint Resolution",
-  "updated_at": "2023-11-02T02:37:52-04:00",
-  "vote_id": "s272-118.2023",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1181/vote_118_1_00282.xml",
+  "subject": "Cruz Amdt. No. 1249",
+  "type": "On the Amendment",
+  "updated_at": "2023-11-02T02:37:47-04:00",
+  "vote_id": "s282-118.2023",
   "votes": {
     "Nay": [
       {
@@ -104,14 +109,6 @@
         "state": "PA"
       },
       {
-        "display_name": "Collins (R-ME)",
-        "first_name": "Susan",
-        "id": "S252",
-        "last_name": "Collins",
-        "party": "R",
-        "state": "ME"
-      },
-      {
         "display_name": "Coons (D-DE)",
         "first_name": "Christopher",
         "id": "S337",
@@ -192,14 +189,6 @@
         "state": "HI"
       },
       {
-        "display_name": "Kaine (D-VA)",
-        "first_name": "Timothy",
-        "id": "S362",
-        "last_name": "Kaine",
-        "party": "D",
-        "state": "VA"
-      },
-      {
         "display_name": "Kelly (D-AZ)",
         "first_name": "Mark",
         "id": "S406",
@@ -248,14 +237,6 @@
         "state": "OR"
       },
       {
-        "display_name": "Murkowski (R-AK)",
-        "first_name": "Lisa",
-        "id": "S288",
-        "last_name": "Murkowski",
-        "party": "R",
-        "state": "AK"
-      },
-      {
         "display_name": "Murphy (D-CT)",
         "first_name": "Christopher",
         "id": "S364",
@@ -272,12 +253,12 @@
         "state": "WA"
       },
       {
-        "display_name": "Ossoff (D-GA)",
-        "first_name": "Jon",
-        "id": "S414",
-        "last_name": "Ossoff",
+        "display_name": "Padilla (D-CA)",
+        "first_name": "Alex",
+        "id": "S413",
+        "last_name": "Padilla",
         "party": "D",
-        "state": "GA"
+        "state": "CA"
       },
       {
         "display_name": "Peters (D-MI)",
@@ -336,14 +317,6 @@
         "state": "NH"
       },
       {
-        "display_name": "Sinema (I-AZ)",
-        "first_name": "Kyrsten",
-        "id": "S403",
-        "last_name": "Sinema",
-        "party": "I",
-        "state": "AZ"
-      },
-      {
         "display_name": "Smith (D-MN)",
         "first_name": "Tina",
         "id": "S394",
@@ -358,14 +331,6 @@
         "last_name": "Stabenow",
         "party": "D",
         "state": "MI"
-      },
-      {
-        "display_name": "Tester (D-MT)",
-        "first_name": "Jon",
-        "id": "S314",
-        "last_name": "Tester",
-        "party": "D",
-        "state": "MT"
       },
       {
         "display_name": "Van Hollen (D-MD)",
@@ -426,20 +391,12 @@
     ],
     "Not Voting": [
       {
-        "display_name": "King (I-ME)",
-        "first_name": "Angus",
-        "id": "S363",
-        "last_name": "King",
-        "party": "I",
-        "state": "ME"
-      },
-      {
-        "display_name": "Padilla (D-CA)",
-        "first_name": "Alex",
-        "id": "S413",
-        "last_name": "Padilla",
-        "party": "D",
-        "state": "CA"
+        "display_name": "Lee (R-UT)",
+        "first_name": "Mike",
+        "id": "S346",
+        "last_name": "Lee",
+        "party": "R",
+        "state": "UT"
       },
       {
         "display_name": "Scott (R-SC)",
@@ -448,6 +405,14 @@
         "last_name": "Scott",
         "party": "R",
         "state": "SC"
+      },
+      {
+        "display_name": "Tillis (R-NC)",
+        "first_name": "Thomas",
+        "id": "S384",
+        "last_name": "Tillis",
+        "party": "R",
+        "state": "NC"
       }
     ],
     "Present": [],
@@ -515,6 +480,14 @@
         "last_name": "Cassidy",
         "party": "R",
         "state": "LA"
+      },
+      {
+        "display_name": "Collins (R-ME)",
+        "first_name": "Susan",
+        "id": "S252",
+        "last_name": "Collins",
+        "party": "R",
+        "state": "ME"
       },
       {
         "display_name": "Cornyn (R-TX)",
@@ -637,6 +610,14 @@
         "state": "WI"
       },
       {
+        "display_name": "Kaine (D-VA)",
+        "first_name": "Timothy",
+        "id": "S362",
+        "last_name": "Kaine",
+        "party": "D",
+        "state": "VA"
+      },
+      {
         "display_name": "Kennedy (R-LA)",
         "first_name": "John",
         "id": "S389",
@@ -645,20 +626,20 @@
         "state": "LA"
       },
       {
+        "display_name": "King (I-ME)",
+        "first_name": "Angus",
+        "id": "S363",
+        "last_name": "King",
+        "party": "I",
+        "state": "ME"
+      },
+      {
         "display_name": "Lankford (R-OK)",
         "first_name": "James",
         "id": "S378",
         "last_name": "Lankford",
         "party": "R",
         "state": "OK"
-      },
-      {
-        "display_name": "Lee (R-UT)",
-        "first_name": "Mike",
-        "id": "S346",
-        "last_name": "Lee",
-        "party": "R",
-        "state": "UT"
       },
       {
         "display_name": "Lummis (R-WY)",
@@ -707,6 +688,22 @@
         "last_name": "Mullin",
         "party": "R",
         "state": "OK"
+      },
+      {
+        "display_name": "Murkowski (R-AK)",
+        "first_name": "Lisa",
+        "id": "S288",
+        "last_name": "Murkowski",
+        "party": "R",
+        "state": "AK"
+      },
+      {
+        "display_name": "Ossoff (D-GA)",
+        "first_name": "Jon",
+        "id": "S414",
+        "last_name": "Ossoff",
+        "party": "D",
+        "state": "GA"
       },
       {
         "display_name": "Paul (R-KY)",
@@ -773,6 +770,14 @@
         "state": "FL"
       },
       {
+        "display_name": "Sinema (I-AZ)",
+        "first_name": "Kyrsten",
+        "id": "S403",
+        "last_name": "Sinema",
+        "party": "I",
+        "state": "AZ"
+      },
+      {
         "display_name": "Sullivan (R-AK)",
         "first_name": "Dan",
         "id": "S383",
@@ -781,20 +786,20 @@
         "state": "AK"
       },
       {
+        "display_name": "Tester (D-MT)",
+        "first_name": "Jon",
+        "id": "S314",
+        "last_name": "Tester",
+        "party": "D",
+        "state": "MT"
+      },
+      {
         "display_name": "Thune (R-SD)",
         "first_name": "John",
         "id": "S303",
         "last_name": "Thune",
         "party": "R",
         "state": "SD"
-      },
-      {
-        "display_name": "Tillis (R-NC)",
-        "first_name": "Thomas",
-        "id": "S384",
-        "last_name": "Tillis",
-        "party": "R",
-        "state": "NC"
       },
       {
         "display_name": "Tuberville (R-AL)",
