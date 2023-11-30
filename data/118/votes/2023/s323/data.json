@@ -1,24 +1,24 @@
 {
-  "category": "nomination",
+  "category": "cloture",
   "chamber": "s",
   "congress": 118,
-  "date": "2023-11-28T11:32:00-05:00",
+  "date": "2023-11-29T18:23:00-05:00",
   "nomination": {
-    "number": "903",
-    "title": "Jeffrey M. Bryan, of Minnesota, to be United States District Judge for the District of Minnesota"
+    "number": "1053",
+    "title": "Shanlyn A.S. Park, of Hawaii, to be United States District Judge for the District of Hawaii"
   },
-  "number": 315,
-  "question": "On the Nomination PN903: Jeffrey M. Bryan, of Minnesota, to be United States District Judge for the District of Minnesota",
-  "record_modified": "2023-11-29T18:24:00-05:00",
+  "number": 323,
+  "question": "Motion to Invoke Cloture: Shanlyn A.S. Park to be U.S. District Judge for the District of Hawaii: Shanlyn A.S. Park, of Hawaii, to be United States District Judge for the District of Hawaii",
+  "record_modified": "2023-11-29T19:39:00-05:00",
   "requires": "1/2",
-  "result": "Nomination Confirmed",
-  "result_text": "Nomination Confirmed (49-46)",
+  "result": "Cloture Motion Agreed to",
+  "result_text": "Cloture Motion Agreed to (53-44)",
   "session": "2023",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1181/vote_118_1_00315.xml",
-  "subject": "Confirmation: Jeffrey M. Bryan, of Minnesota, to be U.S. District Judge for the District of Minnesota",
-  "type": "On the Nomination",
-  "updated_at": "2023-11-30T02:45:29-05:00",
-  "vote_id": "s315-118.2023",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1181/vote_118_1_00323.xml",
+  "subject": "On the Cloture Motion PN1053",
+  "type": "On the Cloture Motion",
+  "updated_at": "2023-11-30T02:45:25-05:00",
+  "vote_id": "s323-118.2023",
   "votes": {
     "Nay": [
       {
@@ -118,14 +118,6 @@
         "state": "ID"
       },
       {
-        "display_name": "Cruz (R-TX)",
-        "first_name": "Ted",
-        "id": "S355",
-        "last_name": "Cruz",
-        "party": "R",
-        "state": "TX"
-      },
-      {
         "display_name": "Daines (R-MT)",
         "first_name": "Steve",
         "id": "S375",
@@ -164,14 +156,6 @@
         "last_name": "Hagerty",
         "party": "R",
         "state": "TN"
-      },
-      {
-        "display_name": "Hawley (R-MO)",
-        "first_name": "Josh",
-        "id": "S399",
-        "last_name": "Hawley",
-        "party": "R",
-        "state": "MO"
       },
       {
         "display_name": "Hoeven (R-ND)",
@@ -392,12 +376,20 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Graham (R-SC)",
-        "first_name": "Lindsey",
-        "id": "S293",
-        "last_name": "Graham",
+        "display_name": "Cruz (R-TX)",
+        "first_name": "Ted",
+        "id": "S355",
+        "last_name": "Cruz",
         "party": "R",
-        "state": "SC"
+        "state": "TX"
+      },
+      {
+        "display_name": "Hawley (R-MO)",
+        "first_name": "Josh",
+        "id": "S399",
+        "last_name": "Hawley",
+        "party": "R",
+        "state": "MO"
       },
       {
         "display_name": "Hickenlooper (D-CO)",
@@ -406,30 +398,6 @@
         "last_name": "Hickenlooper",
         "party": "D",
         "state": "CO"
-      },
-      {
-        "display_name": "Markey (D-MA)",
-        "first_name": "Edward",
-        "id": "S369",
-        "last_name": "Markey",
-        "party": "D",
-        "state": "MA"
-      },
-      {
-        "display_name": "Ossoff (D-GA)",
-        "first_name": "Jon",
-        "id": "S414",
-        "last_name": "Ossoff",
-        "party": "D",
-        "state": "GA"
-      },
-      {
-        "display_name": "Warnock (D-GA)",
-        "first_name": "Raphael",
-        "id": "S415",
-        "last_name": "Warnock",
-        "party": "D",
-        "state": "GA"
       }
     ],
     "Present": [],
@@ -571,6 +539,14 @@
         "state": "NY"
       },
       {
+        "display_name": "Graham (R-SC)",
+        "first_name": "Lindsey",
+        "id": "S293",
+        "last_name": "Graham",
+        "party": "R",
+        "state": "SC"
+      },
+      {
         "display_name": "Hassan (D-NH)",
         "first_name": "Maggie",
         "id": "S388",
@@ -643,6 +619,14 @@
         "state": "WV"
       },
       {
+        "display_name": "Markey (D-MA)",
+        "first_name": "Edward",
+        "id": "S369",
+        "last_name": "Markey",
+        "party": "D",
+        "state": "MA"
+      },
+      {
         "display_name": "Menendez (D-NJ)",
         "first_name": "Robert",
         "id": "S306",
@@ -681,6 +665,14 @@
         "last_name": "Murray",
         "party": "D",
         "state": "WA"
+      },
+      {
+        "display_name": "Ossoff (D-GA)",
+        "first_name": "Jon",
+        "id": "S414",
+        "last_name": "Ossoff",
+        "party": "D",
+        "state": "GA"
       },
       {
         "display_name": "Padilla (D-CA)",
@@ -793,6 +785,14 @@
         "last_name": "Warner",
         "party": "D",
         "state": "VA"
+      },
+      {
+        "display_name": "Warnock (D-GA)",
+        "first_name": "Raphael",
+        "id": "S415",
+        "last_name": "Warnock",
+        "party": "D",
+        "state": "GA"
       },
       {
         "display_name": "Warren (D-MA)",

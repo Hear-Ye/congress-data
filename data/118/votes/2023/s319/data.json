@@ -1,24 +1,24 @@
 {
-  "category": "nomination",
+  "category": "cloture",
   "chamber": "s",
   "congress": 118,
-  "date": "2023-11-28T11:32:00-05:00",
+  "date": "2023-11-29T11:37:00-05:00",
   "nomination": {
-    "number": "903",
-    "title": "Jeffrey M. Bryan, of Minnesota, to be United States District Judge for the District of Minnesota"
+    "number": "1022",
+    "title": "Micah W.J. Smith, of Hawaii, to be United States District Judge for the District of Hawaii"
   },
-  "number": 315,
-  "question": "On the Nomination PN903: Jeffrey M. Bryan, of Minnesota, to be United States District Judge for the District of Minnesota",
-  "record_modified": "2023-11-29T18:24:00-05:00",
+  "number": 319,
+  "question": "Motion to Invoke Cloture: Micah W.J. Smith to be U.S. District Judge for the District of Hawaii: Micah W.J. Smith, of Hawaii, to be United States District Judge for the District of Hawaii",
+  "record_modified": "2023-11-29T13:11:00-05:00",
   "requires": "1/2",
-  "result": "Nomination Confirmed",
-  "result_text": "Nomination Confirmed (49-46)",
+  "result": "Cloture Motion Agreed to",
+  "result_text": "Cloture Motion Agreed to (57-42)",
   "session": "2023",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1181/vote_118_1_00315.xml",
-  "subject": "Confirmation: Jeffrey M. Bryan, of Minnesota, to be U.S. District Judge for the District of Minnesota",
-  "type": "On the Nomination",
-  "updated_at": "2023-11-30T02:45:29-05:00",
-  "vote_id": "s315-118.2023",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1181/vote_118_1_00319.xml",
+  "subject": "On the Cloture Motion PN1022",
+  "type": "On the Cloture Motion",
+  "updated_at": "2023-11-30T02:45:27-05:00",
+  "vote_id": "s319-118.2023",
   "votes": {
     "Nay": [
       {
@@ -198,14 +198,6 @@
         "state": "WI"
       },
       {
-        "display_name": "Kennedy (R-LA)",
-        "first_name": "John",
-        "id": "S389",
-        "last_name": "Kennedy",
-        "party": "R",
-        "state": "LA"
-      },
-      {
         "display_name": "Lankford (R-OK)",
         "first_name": "James",
         "id": "S378",
@@ -254,14 +246,6 @@
         "state": "KS"
       },
       {
-        "display_name": "Mullin (R-OK)",
-        "first_name": "Markwayne",
-        "id": "S419",
-        "last_name": "Mullin",
-        "party": "R",
-        "state": "OK"
-      },
-      {
         "display_name": "Paul (R-KY)",
         "first_name": "Rand",
         "id": "S348",
@@ -292,14 +276,6 @@
         "last_name": "Romney",
         "party": "R",
         "state": "UT"
-      },
-      {
-        "display_name": "Rounds (R-SD)",
-        "first_name": "Mike",
-        "id": "S381",
-        "last_name": "Rounds",
-        "party": "R",
-        "state": "SD"
       },
       {
         "display_name": "Rubio (R-FL)",
@@ -350,14 +326,6 @@
         "state": "SD"
       },
       {
-        "display_name": "Tillis (R-NC)",
-        "first_name": "Thomas",
-        "id": "S384",
-        "last_name": "Tillis",
-        "party": "R",
-        "state": "NC"
-      },
-      {
         "display_name": "Tuberville (R-AL)",
         "first_name": "Tommy",
         "id": "S412",
@@ -392,44 +360,12 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Graham (R-SC)",
-        "first_name": "Lindsey",
-        "id": "S293",
-        "last_name": "Graham",
-        "party": "R",
-        "state": "SC"
-      },
-      {
         "display_name": "Hickenlooper (D-CO)",
         "first_name": "John",
         "id": "S408",
         "last_name": "Hickenlooper",
         "party": "D",
         "state": "CO"
-      },
-      {
-        "display_name": "Markey (D-MA)",
-        "first_name": "Edward",
-        "id": "S369",
-        "last_name": "Markey",
-        "party": "D",
-        "state": "MA"
-      },
-      {
-        "display_name": "Ossoff (D-GA)",
-        "first_name": "Jon",
-        "id": "S414",
-        "last_name": "Ossoff",
-        "party": "D",
-        "state": "GA"
-      },
-      {
-        "display_name": "Warnock (D-GA)",
-        "first_name": "Raphael",
-        "id": "S415",
-        "last_name": "Warnock",
-        "party": "D",
-        "state": "GA"
       }
     ],
     "Present": [],
@@ -571,6 +507,14 @@
         "state": "NY"
       },
       {
+        "display_name": "Graham (R-SC)",
+        "first_name": "Lindsey",
+        "id": "S293",
+        "last_name": "Graham",
+        "party": "R",
+        "state": "SC"
+      },
+      {
         "display_name": "Hassan (D-NH)",
         "first_name": "Maggie",
         "id": "S388",
@@ -611,6 +555,14 @@
         "state": "AZ"
       },
       {
+        "display_name": "Kennedy (R-LA)",
+        "first_name": "John",
+        "id": "S389",
+        "last_name": "Kennedy",
+        "party": "R",
+        "state": "LA"
+      },
+      {
         "display_name": "King (I-ME)",
         "first_name": "Angus",
         "id": "S363",
@@ -643,6 +595,14 @@
         "state": "WV"
       },
       {
+        "display_name": "Markey (D-MA)",
+        "first_name": "Edward",
+        "id": "S369",
+        "last_name": "Markey",
+        "party": "D",
+        "state": "MA"
+      },
+      {
         "display_name": "Menendez (D-NJ)",
         "first_name": "Robert",
         "id": "S306",
@@ -657,6 +617,14 @@
         "last_name": "Merkley",
         "party": "D",
         "state": "OR"
+      },
+      {
+        "display_name": "Mullin (R-OK)",
+        "first_name": "Markwayne",
+        "id": "S419",
+        "last_name": "Mullin",
+        "party": "R",
+        "state": "OK"
       },
       {
         "display_name": "Murkowski (R-AK)",
@@ -681,6 +649,14 @@
         "last_name": "Murray",
         "party": "D",
         "state": "WA"
+      },
+      {
+        "display_name": "Ossoff (D-GA)",
+        "first_name": "Jon",
+        "id": "S414",
+        "last_name": "Ossoff",
+        "party": "D",
+        "state": "GA"
       },
       {
         "display_name": "Padilla (D-CA)",
@@ -713,6 +689,14 @@
         "last_name": "Rosen",
         "party": "D",
         "state": "NV"
+      },
+      {
+        "display_name": "Rounds (R-SD)",
+        "first_name": "Mike",
+        "id": "S381",
+        "last_name": "Rounds",
+        "party": "R",
+        "state": "SD"
       },
       {
         "display_name": "Sanders (I-VT)",
@@ -779,6 +763,14 @@
         "state": "MT"
       },
       {
+        "display_name": "Tillis (R-NC)",
+        "first_name": "Thomas",
+        "id": "S384",
+        "last_name": "Tillis",
+        "party": "R",
+        "state": "NC"
+      },
+      {
         "display_name": "Van Hollen (D-MD)",
         "first_name": "Chris",
         "id": "S390",
@@ -793,6 +785,14 @@
         "last_name": "Warner",
         "party": "D",
         "state": "VA"
+      },
+      {
+        "display_name": "Warnock (D-GA)",
+        "first_name": "Raphael",
+        "id": "S415",
+        "last_name": "Warnock",
+        "party": "D",
+        "state": "GA"
       },
       {
         "display_name": "Warren (D-MA)",
