@@ -2,7 +2,7 @@
   "bill": {
     "congress": 118,
     "number": 5860,
-    "title": "",
+    "title": "A bill making continuing appropriations for fiscal year 2024, and for other purposes.",
     "type": "hr"
   },
   "category": "passage",
@@ -11,7 +11,7 @@
   "date": "2023-09-30T20:10:00-04:00",
   "number": 247,
   "question": "On Passage of the Bill H.R. 5860",
-  "record_modified": "2023-09-30T21:12:00-04:00",
+  "record_modified": "2024-02-08T17:41:00-05:00",
   "requires": "3/5",
   "result": "Bill Passed",
   "result_text": "Bill Passed (88-9, 3/5 majority required)",
@@ -19,7 +19,7 @@
   "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1181/vote_118_1_00247.xml",
   "subject": "H.R. 5860",
   "type": "On Passage of the Bill",
-  "updated_at": "2023-10-01T02:42:02-04:00",
+  "updated_at": "2024-02-09T02:38:56-05:00",
   "vote_id": "s247-118.2023",
   "votes": {
     "Nay": [

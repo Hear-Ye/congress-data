@@ -1,11 +1,11 @@
 <roll where="senate" session="118" year="2023" roll="332" source="senate.gov"
-  datetime="2023-12-06T16:34:00-05:00" updated="2023-12-07T02:45:39-05:00"
+  datetime="2023-12-06T16:34:00-05:00" updated="2024-02-09T02:38:14-05:00"
   aye="49" nay="51" nv="0" present="0">
   <category>cloture</category>
   <type>On the Cloture Motion</type>
   <question>Motion to Invoke Cloture: Motion to Proceed to H.R. 815</question>
   <required>3/5</required>
-  <result>Cloture Motion Rejected</result>
+  <result>Cloture on the Motion to Proceed Rejected</result>
   <bill session="118" type="h" number="815"/>
   <option key="+">Yea</option>
   <option key="-">Nay</option>
