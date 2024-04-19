@@ -1,20 +1,26 @@
 {
-  "category": "procedural",
+  "bill": {
+    "congress": 118,
+    "number": 4072,
+    "title": "A bill to prohibit the use of funds to implement, administer, or enforce certain rules of the Environmental Protection Agency.",
+    "type": "s"
+  },
+  "category": "passage",
   "chamber": "s",
   "congress": 118,
-  "date": "2024-04-17T15:35:00-04:00",
-  "number": 135,
-  "question": "On the Motion to Adjourn (Motion to Adjourn the Court of Impeachment until 12 Noon May 1, 2024)",
-  "record_modified": "2024-04-18T11:48:00-04:00",
-  "requires": "1/2",
-  "result": "Motion to Adjourn Rejected",
-  "result_text": "Motion to Adjourn Rejected (49-51)",
+  "date": "2024-04-18T14:52:00-04:00",
+  "number": 142,
+  "question": "On Passage of the Bill S. 4072",
+  "record_modified": "2024-04-18T16:03:00-04:00",
+  "requires": "3/5",
+  "result": "Bill Defeated",
+  "result_text": "Bill Defeated (52-46, 3/5 majority required)",
   "session": "2024",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00135.xml",
-  "subject": "Motion to Adjourn the Court of Impeachment until 12 Noon May 1, 2024",
-  "type": "On the Motion to Adjourn",
-  "updated_at": "2024-04-19T02:37:57-04:00",
-  "vote_id": "s135-118.2024",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00142.xml",
+  "subject": "S. 4072",
+  "type": "On Passage of the Bill",
+  "updated_at": "2024-04-19T02:37:54-04:00",
+  "vote_id": "s142-118.2024",
   "votes": {
     "Nay": [
       {
@@ -48,14 +54,6 @@
         "last_name": "Booker",
         "party": "D",
         "state": "NJ"
-      },
-      {
-        "display_name": "Brown (D-OH)",
-        "first_name": "Sherrod ",
-        "id": "S307",
-        "last_name": "Brown",
-        "party": "D",
-        "state": "OH"
       },
       {
         "display_name": "Butler (D-CA)",
@@ -218,14 +216,6 @@
         "state": "NM"
       },
       {
-        "display_name": "Manchin (D-WV)",
-        "first_name": "Joseph",
-        "id": "S338",
-        "last_name": "Manchin",
-        "party": "D",
-        "state": "WV"
-      },
-      {
         "display_name": "Markey (D-MA)",
         "first_name": "Edward",
         "id": "S369",
@@ -338,14 +328,6 @@
         "state": "NH"
       },
       {
-        "display_name": "Sinema (I-AZ)",
-        "first_name": "Kyrsten",
-        "id": "S403",
-        "last_name": "Sinema",
-        "party": "I",
-        "state": "AZ"
-      },
-      {
         "display_name": "Smith (D-MN)",
         "first_name": "Tina",
         "id": "S394",
@@ -362,14 +344,6 @@
         "state": "MI"
       },
       {
-        "display_name": "Tester (D-MT)",
-        "first_name": "Jon",
-        "id": "S314",
-        "last_name": "Tester",
-        "party": "D",
-        "state": "MT"
-      },
-      {
         "display_name": "Van Hollen (D-MD)",
         "first_name": "Chris",
         "id": "S390",
@@ -384,14 +358,6 @@
         "last_name": "Warner",
         "party": "D",
         "state": "VA"
-      },
-      {
-        "display_name": "Warnock (D-GA)",
-        "first_name": "Raphael",
-        "id": "S415",
-        "last_name": "Warnock",
-        "party": "D",
-        "state": "GA"
       },
       {
         "display_name": "Warren (D-MA)",
@@ -426,7 +392,24 @@
         "state": "OR"
       }
     ],
-    "Not Voting": [],
+    "Not Voting": [
+      {
+        "display_name": "Mullin (R-OK)",
+        "first_name": "Markwayne",
+        "id": "S419",
+        "last_name": "Mullin",
+        "party": "R",
+        "state": "OK"
+      },
+      {
+        "display_name": "Warnock (D-GA)",
+        "first_name": "Raphael",
+        "id": "S415",
+        "last_name": "Warnock",
+        "party": "D",
+        "state": "GA"
+      }
+    ],
     "Present": [],
     "Yea": [
       {
@@ -468,6 +451,14 @@
         "last_name": "Britt",
         "party": "R",
         "state": "AL"
+      },
+      {
+        "display_name": "Brown (D-OH)",
+        "first_name": "Sherrod ",
+        "id": "S307",
+        "last_name": "Brown",
+        "party": "D",
+        "state": "OH"
       },
       {
         "display_name": "Budd (R-NC)",
@@ -654,6 +645,14 @@
         "state": "WY"
       },
       {
+        "display_name": "Manchin (D-WV)",
+        "first_name": "Joseph",
+        "id": "S338",
+        "last_name": "Manchin",
+        "party": "D",
+        "state": "WV"
+      },
+      {
         "display_name": "Marshall (R-KS)",
         "first_name": "Roger",
         "id": "S411",
@@ -676,14 +675,6 @@
         "last_name": "Moran",
         "party": "R",
         "state": "KS"
-      },
-      {
-        "display_name": "Mullin (R-OK)",
-        "first_name": "Markwayne",
-        "id": "S419",
-        "last_name": "Mullin",
-        "party": "R",
-        "state": "OK"
       },
       {
         "display_name": "Murkowski (R-AK)",
@@ -766,12 +757,28 @@
         "state": "SC"
       },
       {
+        "display_name": "Sinema (I-AZ)",
+        "first_name": "Kyrsten",
+        "id": "S403",
+        "last_name": "Sinema",
+        "party": "I",
+        "state": "AZ"
+      },
+      {
         "display_name": "Sullivan (R-AK)",
         "first_name": "Dan",
         "id": "S383",
         "last_name": "Sullivan",
         "party": "R",
         "state": "AK"
+      },
+      {
+        "display_name": "Tester (D-MT)",
+        "first_name": "Jon",
+        "id": "S314",
+        "last_name": "Tester",
+        "party": "D",
+        "state": "MT"
       },
       {
         "display_name": "Thune (R-SD)",
