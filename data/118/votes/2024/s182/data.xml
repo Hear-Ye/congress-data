@@ -1,11 +1,11 @@
 <roll where="senate" session="118" year="2024" roll="182" source="senate.gov"
-  datetime="2024-05-23T14:06:00-04:00" updated="2024-05-24T02:42:23-04:00"
+  datetime="2024-05-23T14:06:00-04:00" updated="2024-05-25T02:40:48-04:00"
   aye="43" nay="50" nv="7" present="0">
   <category>cloture</category>
   <type>On the Cloture Motion</type>
   <question>Motion to Invoke Cloture: Motion to Proceed to S. 4361</question>
   <required>3/5</required>
-  <result>Cloture Motion Rejected</result>
+  <result>Cloture on the Motion to Proceed Rejected</result>
   <bill session="118" type="s" number="4361"/>
   <option key="+">Yea</option>
   <option key="-">Nay</option>
