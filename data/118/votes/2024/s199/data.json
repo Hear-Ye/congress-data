@@ -1,24 +1,24 @@
 {
-  "category": "cloture",
+  "category": "nomination",
   "chamber": "s",
   "congress": 118,
-  "date": "2024-06-17T17:31:00-04:00",
+  "date": "2024-06-18T11:43:00-04:00",
   "nomination": {
     "number": "1353",
     "title": "Katherine E. Oler, of the District of Columbia, to be an Associate Judge of the Superior Court of the District of Columbia for the term of fifteen years"
   },
-  "number": 198,
-  "question": "Motion to Invoke Cloture: Katherine E. Oler to be an Associate Judge of the Superior Court of the District of Columbia for the Term of 15 Years: Katherine E. Oler, of the District of Columbia, to be an Associate Judge of the Superior Court of the District of Columbia for the term of fifteen years",
-  "record_modified": "2024-06-18T19:31:00-04:00",
+  "number": 199,
+  "question": "On the Nomination PN1353: Katherine E. Oler, of the District of Columbia, to be an Associate Judge of the Superior Court of the District of Columbia for the term of fifteen years",
+  "record_modified": "2024-06-18T19:30:00-04:00",
   "requires": "1/2",
-  "result": "Cloture Motion Agreed to",
-  "result_text": "Cloture Motion Agreed to (50-39)",
+  "result": "Nomination Confirmed",
+  "result_text": "Nomination Confirmed (52-42)",
   "session": "2024",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00198.xml",
-  "subject": "On the Cloture Motion PN1353",
-  "type": "On the Cloture Motion",
-  "updated_at": "2024-06-19T02:46:35-04:00",
-  "vote_id": "s198-118.2024",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00199.xml",
+  "subject": "Confirmation: Katherine E. Oler, of the District of Columbia, to be an Associate Judge of the Superior Court of the District of Columbia",
+  "type": "On the Nomination",
+  "updated_at": "2024-06-19T02:46:34-04:00",
+  "vote_id": "s199-118.2024",
   "votes": {
     "Nay": [
       {
@@ -92,6 +92,14 @@
         "last_name": "Cornyn",
         "party": "R",
         "state": "TX"
+      },
+      {
+        "display_name": "Cotton (R-AR)",
+        "first_name": "Tom",
+        "id": "S374",
+        "last_name": "Cotton",
+        "party": "R",
+        "state": "AR"
       },
       {
         "display_name": "Crapo (R-ID)",
@@ -198,6 +206,14 @@
         "state": "UT"
       },
       {
+        "display_name": "Lummis (R-WY)",
+        "first_name": "Cynthia",
+        "id": "S410",
+        "last_name": "Lummis",
+        "party": "R",
+        "state": "WY"
+      },
+      {
         "display_name": "Marshall (R-KS)",
         "first_name": "Roger",
         "id": "S411",
@@ -244,6 +260,14 @@
         "last_name": "Ricketts",
         "party": "R",
         "state": "NE"
+      },
+      {
+        "display_name": "Risch (R-ID)",
+        "first_name": "James ",
+        "id": "S323",
+        "last_name": "Risch",
+        "party": "R",
+        "state": "ID"
       },
       {
         "display_name": "Rounds (R-SD)",
@@ -336,14 +360,6 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Cotton (R-AR)",
-        "first_name": "Tom",
-        "id": "S374",
-        "last_name": "Cotton",
-        "party": "R",
-        "state": "AR"
-      },
-      {
         "display_name": "Cramer (R-ND)",
         "first_name": "Kevin",
         "id": "S398",
@@ -376,44 +392,12 @@
         "state": "ND"
       },
       {
-        "display_name": "Lujan (D-NM)",
-        "first_name": "Ben",
-        "id": "S409",
-        "last_name": "Lujan",
-        "party": "D",
-        "state": "NM"
-      },
-      {
-        "display_name": "Lummis (R-WY)",
-        "first_name": "Cynthia",
-        "id": "S410",
-        "last_name": "Lummis",
-        "party": "R",
-        "state": "WY"
-      },
-      {
         "display_name": "Menendez (D-NJ)",
         "first_name": "Robert",
         "id": "S306",
         "last_name": "Menendez",
         "party": "D",
         "state": "NJ"
-      },
-      {
-        "display_name": "Merkley (D-OR)",
-        "first_name": "Jeff",
-        "id": "S322",
-        "last_name": "Merkley",
-        "party": "D",
-        "state": "OR"
-      },
-      {
-        "display_name": "Risch (R-ID)",
-        "first_name": "James ",
-        "id": "S323",
-        "last_name": "Risch",
-        "party": "R",
-        "state": "ID"
       },
       {
         "display_name": "Sinema (I-AZ)",
@@ -619,6 +603,14 @@
         "state": "MN"
       },
       {
+        "display_name": "Lujan (D-NM)",
+        "first_name": "Ben",
+        "id": "S409",
+        "last_name": "Lujan",
+        "party": "D",
+        "state": "NM"
+      },
+      {
         "display_name": "Manchin (I-WV)",
         "first_name": "Joseph",
         "id": "S338",
@@ -633,6 +625,14 @@
         "last_name": "Markey",
         "party": "D",
         "state": "MA"
+      },
+      {
+        "display_name": "Merkley (D-OR)",
+        "first_name": "Jeff",
+        "id": "S322",
+        "last_name": "Merkley",
+        "party": "D",
+        "state": "OR"
       },
       {
         "display_name": "Murkowski (R-AK)",
