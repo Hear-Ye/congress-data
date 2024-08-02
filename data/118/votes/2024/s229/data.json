@@ -2,23 +2,23 @@
   "category": "nomination",
   "chamber": "s",
   "congress": 118,
-  "date": "2024-07-30T16:31:00-04:00",
+  "date": "2024-08-01T11:38:00-04:00",
   "nomination": {
-    "number": "1654",
-    "title": "Stacey D. Neumann, of Maine, to be United States District Judge for the District of Maine"
+    "number": "1223",
+    "title": "Dorothy Camille Shea, of North Carolina, to be Deputy Representative of the United States of America to the United Nations, with the rank and status of Ambassador and the Deputy Representative of the United States of America in the Security Council of the United Nations"
   },
-  "number": 223,
-  "question": "On the Nomination PN1654: Stacey D. Neumann, of Maine, to be United States District Judge for the District of Maine",
-  "record_modified": "2024-08-01T15:26:00-04:00",
+  "number": 229,
+  "question": "On the Nomination PN1223: Dorothy Camille Shea, of North Carolina, to be Deputy Representative of the United States of America to the United Nations, with the rank and status of Ambassador and the Deputy Representative of the United States of America in the Security Council of the United Nations",
+  "record_modified": "2024-08-01T15:30:00-04:00",
   "requires": "1/2",
   "result": "Nomination Confirmed",
-  "result_text": "Nomination Confirmed (50-43)",
+  "result_text": "Nomination Confirmed (59-34)",
   "session": "2024",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00223.xml",
-  "subject": "Confirmation: Stacey D. Neumann, of Maine, to be U.S. District Judge for the District of Maine",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00229.xml",
+  "subject": "Confirmation: Dorothy Camille Shea, of North Carolina, to be Deputy Representative of the U.S.A. to the United Nations and the Deputy Representative",
   "type": "On the Nomination",
-  "updated_at": "2024-08-02T02:49:30-04:00",
-  "vote_id": "s223-118.2024",
+  "updated_at": "2024-08-02T02:49:27-04:00",
+  "vote_id": "s229-118.2024",
   "votes": {
     "Nay": [
       {
@@ -60,14 +60,6 @@
         "last_name": "Britt",
         "party": "R",
         "state": "AL"
-      },
-      {
-        "display_name": "Budd (R-NC)",
-        "first_name": "Ted",
-        "id": "S417",
-        "last_name": "Budd",
-        "party": "R",
-        "state": "NC"
       },
       {
         "display_name": "Capito (R-WV)",
@@ -158,28 +150,12 @@
         "state": "IA"
       },
       {
-        "display_name": "Hagerty (R-TN)",
-        "first_name": "Bill",
-        "id": "S407",
-        "last_name": "Hagerty",
-        "party": "R",
-        "state": "TN"
-      },
-      {
         "display_name": "Hawley (R-MO)",
         "first_name": "Josh",
         "id": "S399",
         "last_name": "Hawley",
         "party": "R",
         "state": "MO"
-      },
-      {
-        "display_name": "Hoeven (R-ND)",
-        "first_name": "John",
-        "id": "S344",
-        "last_name": "Hoeven",
-        "party": "R",
-        "state": "ND"
       },
       {
         "display_name": "Hyde-Smith (R-MS)",
@@ -238,14 +214,6 @@
         "state": "KS"
       },
       {
-        "display_name": "McConnell (R-KY)",
-        "first_name": "Mitch",
-        "id": "S174",
-        "last_name": "McConnell",
-        "party": "R",
-        "state": "KY"
-      },
-      {
         "display_name": "Moran (R-KS)",
         "first_name": "Jerry",
         "id": "S347",
@@ -262,14 +230,6 @@
         "state": "OK"
       },
       {
-        "display_name": "Paul (R-KY)",
-        "first_name": "Rand",
-        "id": "S348",
-        "last_name": "Paul",
-        "party": "R",
-        "state": "KY"
-      },
-      {
         "display_name": "Ricketts (R-NE)",
         "first_name": "Pete",
         "id": "S423",
@@ -284,14 +244,6 @@
         "last_name": "Risch",
         "party": "R",
         "state": "ID"
-      },
-      {
-        "display_name": "Rounds (R-SD)",
-        "first_name": "Mike",
-        "id": "S381",
-        "last_name": "Rounds",
-        "party": "R",
-        "state": "SD"
       },
       {
         "display_name": "Rubio (R-FL)",
@@ -318,22 +270,6 @@
         "state": "FL"
       },
       {
-        "display_name": "Scott (R-SC)",
-        "first_name": "Tim",
-        "id": "S365",
-        "last_name": "Scott",
-        "party": "R",
-        "state": "SC"
-      },
-      {
-        "display_name": "Sullivan (R-AK)",
-        "first_name": "Dan",
-        "id": "S383",
-        "last_name": "Sullivan",
-        "party": "R",
-        "state": "AK"
-      },
-      {
         "display_name": "Thune (R-SD)",
         "first_name": "John",
         "id": "S303",
@@ -356,14 +292,6 @@
         "last_name": "Wicker",
         "party": "R",
         "state": "MS"
-      },
-      {
-        "display_name": "Young (R-IN)",
-        "first_name": "Todd",
-        "id": "S391",
-        "last_name": "Young",
-        "party": "R",
-        "state": "IN"
       }
     ],
     "Not Voting": [
@@ -376,6 +304,14 @@
         "state": "PA"
       },
       {
+        "display_name": "Hoeven (R-ND)",
+        "first_name": "John",
+        "id": "S344",
+        "last_name": "Hoeven",
+        "party": "R",
+        "state": "ND"
+      },
+      {
         "display_name": "Menendez (D-NJ)",
         "first_name": "Robert",
         "id": "S306",
@@ -384,20 +320,20 @@
         "state": "NJ"
       },
       {
-        "display_name": "Ossoff (D-GA)",
-        "first_name": "Jon",
-        "id": "S414",
-        "last_name": "Ossoff",
-        "party": "D",
-        "state": "GA"
-      },
-      {
         "display_name": "Romney (R-UT)",
         "first_name": "Mitt",
         "id": "S401",
         "last_name": "Romney",
         "party": "R",
         "state": "UT"
+      },
+      {
+        "display_name": "Scott (R-SC)",
+        "first_name": "Tim",
+        "id": "S365",
+        "last_name": "Scott",
+        "party": "R",
+        "state": "SC"
       },
       {
         "display_name": "Vance (R-OH)",
@@ -414,14 +350,6 @@
         "last_name": "Warner",
         "party": "D",
         "state": "VA"
-      },
-      {
-        "display_name": "Warnock (D-GA)",
-        "first_name": "Raphael",
-        "id": "S415",
-        "last_name": "Warnock",
-        "party": "D",
-        "state": "GA"
       }
     ],
     "Present": [],
@@ -465,6 +393,14 @@
         "last_name": "Brown",
         "party": "D",
         "state": "OH"
+      },
+      {
+        "display_name": "Budd (R-NC)",
+        "first_name": "Ted",
+        "id": "S417",
+        "last_name": "Budd",
+        "party": "R",
+        "state": "NC"
       },
       {
         "display_name": "Butler (D-CA)",
@@ -563,6 +499,14 @@
         "state": "SC"
       },
       {
+        "display_name": "Hagerty (R-TN)",
+        "first_name": "Bill",
+        "id": "S407",
+        "last_name": "Hagerty",
+        "party": "R",
+        "state": "TN"
+      },
+      {
         "display_name": "Hassan (D-NH)",
         "first_name": "Maggie",
         "id": "S388",
@@ -651,6 +595,14 @@
         "state": "MA"
       },
       {
+        "display_name": "McConnell (R-KY)",
+        "first_name": "Mitch",
+        "id": "S174",
+        "last_name": "McConnell",
+        "party": "R",
+        "state": "KY"
+      },
+      {
         "display_name": "Merkley (D-OR)",
         "first_name": "Jeff",
         "id": "S322",
@@ -683,12 +635,28 @@
         "state": "WA"
       },
       {
+        "display_name": "Ossoff (D-GA)",
+        "first_name": "Jon",
+        "id": "S414",
+        "last_name": "Ossoff",
+        "party": "D",
+        "state": "GA"
+      },
+      {
         "display_name": "Padilla (D-CA)",
         "first_name": "Alex",
         "id": "S413",
         "last_name": "Padilla",
         "party": "D",
         "state": "CA"
+      },
+      {
+        "display_name": "Paul (R-KY)",
+        "first_name": "Rand",
+        "id": "S348",
+        "last_name": "Paul",
+        "party": "R",
+        "state": "KY"
       },
       {
         "display_name": "Peters (D-MI)",
@@ -713,6 +681,14 @@
         "last_name": "Rosen",
         "party": "D",
         "state": "NV"
+      },
+      {
+        "display_name": "Rounds (R-SD)",
+        "first_name": "Mike",
+        "id": "S381",
+        "last_name": "Rounds",
+        "party": "R",
+        "state": "SD"
       },
       {
         "display_name": "Sanders (I-VT)",
@@ -771,6 +747,14 @@
         "state": "MI"
       },
       {
+        "display_name": "Sullivan (R-AK)",
+        "first_name": "Dan",
+        "id": "S383",
+        "last_name": "Sullivan",
+        "party": "R",
+        "state": "AK"
+      },
+      {
         "display_name": "Tester (D-MT)",
         "first_name": "Jon",
         "id": "S314",
@@ -793,6 +777,14 @@
         "last_name": "Van Hollen",
         "party": "D",
         "state": "MD"
+      },
+      {
+        "display_name": "Warnock (D-GA)",
+        "first_name": "Raphael",
+        "id": "S415",
+        "last_name": "Warnock",
+        "party": "D",
+        "state": "GA"
       },
       {
         "display_name": "Warren (D-MA)",
@@ -825,6 +817,14 @@
         "last_name": "Wyden",
         "party": "D",
         "state": "OR"
+      },
+      {
+        "display_name": "Young (R-IN)",
+        "first_name": "Todd",
+        "id": "S391",
+        "last_name": "Young",
+        "party": "R",
+        "state": "IN"
       }
     ]
   }
