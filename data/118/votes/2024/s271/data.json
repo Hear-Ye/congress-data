@@ -2,19 +2,19 @@
   "category": "procedural",
   "chamber": "s",
   "congress": 118,
-  "date": "2024-11-18T20:29:00-05:00",
-  "number": 269,
+  "date": "2024-11-18T20:57:00-05:00",
+  "number": 271,
   "question": "Motion to Proceed to Legislative Session",
-  "record_modified": "2024-11-18T22:42:00-05:00",
+  "record_modified": "2024-11-18T22:51:00-05:00",
   "requires": "1/2",
   "result": "Motion to Proceed Agreed to",
-  "result_text": "Motion to Proceed Agreed to (46-40)",
+  "result_text": "Motion to Proceed Agreed to (46-41)",
   "session": "2024",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00269.xml",
-  "subject": "On the Motion to Proceed PN1463",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00271.xml",
+  "subject": "On the Motion to Proceed PN1577",
   "type": "On the Motion to Proceed",
-  "updated_at": "2024-11-20T03:10:49-05:00",
-  "vote_id": "s269-118.2024",
+  "updated_at": "2024-11-20T03:10:48-05:00",
+  "vote_id": "s271-118.2024",
   "votes": {
     "Nay": [
       {
@@ -96,6 +96,14 @@
         "last_name": "Cotton",
         "party": "R",
         "state": "AR"
+      },
+      {
+        "display_name": "Cramer (R-ND)",
+        "first_name": "Kevin",
+        "id": "S398",
+        "last_name": "Cramer",
+        "party": "R",
+        "state": "ND"
       },
       {
         "display_name": "Crapo (R-ID)",
@@ -202,14 +210,6 @@
         "state": "WY"
       },
       {
-        "display_name": "Marshall (R-KS)",
-        "first_name": "Roger",
-        "id": "S411",
-        "last_name": "Marshall",
-        "party": "R",
-        "state": "KS"
-      },
-      {
         "display_name": "McConnell (R-KY)",
         "first_name": "Mitch",
         "id": "S174",
@@ -264,6 +264,14 @@
         "last_name": "Risch",
         "party": "R",
         "state": "ID"
+      },
+      {
+        "display_name": "Rounds (R-SD)",
+        "first_name": "Mike",
+        "id": "S381",
+        "last_name": "Rounds",
+        "party": "R",
+        "state": "SD"
       },
       {
         "display_name": "Schmitt (R-MO)",
@@ -348,14 +356,6 @@
         "state": "IN"
       },
       {
-        "display_name": "Cramer (R-ND)",
-        "first_name": "Kevin",
-        "id": "S398",
-        "last_name": "Cramer",
-        "party": "R",
-        "state": "ND"
-      },
-      {
         "display_name": "Daines (R-MT)",
         "first_name": "Steve",
         "id": "S375",
@@ -396,20 +396,20 @@
         "state": "WV"
       },
       {
+        "display_name": "Marshall (R-KS)",
+        "first_name": "Roger",
+        "id": "S411",
+        "last_name": "Marshall",
+        "party": "R",
+        "state": "KS"
+      },
+      {
         "display_name": "Romney (R-UT)",
         "first_name": "Mitt",
         "id": "S401",
         "last_name": "Romney",
         "party": "R",
         "state": "UT"
-      },
-      {
-        "display_name": "Rounds (R-SD)",
-        "first_name": "Mike",
-        "id": "S381",
-        "last_name": "Rounds",
-        "party": "R",
-        "state": "SD"
       },
       {
         "display_name": "Rubio (R-FL)",

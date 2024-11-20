@@ -1,11 +1,11 @@
 <roll where="senate" session="118" year="2024" roll="269" source="senate.gov"
-  datetime="2024-11-18T20:29:00-05:00" updated="2024-11-19T03:11:27-05:00"
+  datetime="2024-11-18T20:29:00-05:00" updated="2024-11-20T03:10:49-05:00"
   aye="46" nay="40" nv="14" present="0">
   <category>procedural</category>
-  <type>On the Motion to Proceed to Legislative Session</type>
+  <type>On the Motion to Proceed</type>
   <question>Motion to Proceed to Legislative Session</question>
   <required>1/2</required>
-  <result>Motion Agreed to</result>
+  <result>Motion to Proceed Agreed to</result>
   <option key="+">Yea</option>
   <option key="-">Nay</option>
   <option key="P">Present</option>

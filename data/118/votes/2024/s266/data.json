@@ -4,20 +4,20 @@
   "congress": 118,
   "date": "2024-11-18T19:33:00-05:00",
   "nomination": {
-    "number": "1402",
-    "title": "Amir H. Ali, of the District of Columbia, to be United States District Judge for the District of Columbia"
+    "number": "1749",
+    "title": "Embry J. Kidd, of Florida, to be United States Circuit Judge for the Eleventh Circuit"
   },
   "number": 266,
-  "question": "On the Motion (Motion to Proceed to Executive Session to Consider Calendar No. 539): Amir H. Ali, of the District of Columbia, to be United States District Judge for the District of Columbia",
-  "record_modified": "2024-11-18T20:44:00-05:00",
+  "question": "On the Motion to Proceed PN1749: Embry J. Kidd, of Florida, to be United States Circuit Judge for the Eleventh Circuit",
+  "record_modified": "2024-11-18T22:41:00-05:00",
   "requires": "1/2",
-  "result": "Motion Agreed to",
-  "result_text": "Motion Agreed to (47-36)",
+  "result": "Motion to Proceed Agreed to",
+  "result_text": "Motion to Proceed Agreed to (47-36)",
   "session": "2024",
   "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00266.xml",
   "subject": "Motion to Proceed to Executive Session to Consider Calendar No. 539",
-  "type": "On the Motion to Proceed to Executive Session to Consider Calendar No. 539",
-  "updated_at": "2024-11-19T03:11:29-05:00",
+  "type": "On the Motion to Proceed",
+  "updated_at": "2024-11-20T03:10:50-05:00",
   "vote_id": "s266-118.2024",
   "votes": {
     "Nay": [

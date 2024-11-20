@@ -1,9 +1,9 @@
-<roll where="senate" session="118" year="2024" roll="270" source="senate.gov"
-  datetime="2024-11-18T20:41:00-05:00" updated="2024-11-20T03:10:48-05:00"
-  aye="46" nay="42" nv="12" present="0">
+<roll where="senate" session="118" year="2024" roll="271" source="senate.gov"
+  datetime="2024-11-18T20:57:00-05:00" updated="2024-11-20T03:10:48-05:00"
+  aye="46" nay="41" nv="13" present="0">
   <category>procedural</category>
   <type>On the Motion to Proceed</type>
-  <question>On the Motion to Proceed PN1463: Sparkle L. Sooknanan, of the District of Columbia, to be United States District Judge for the District of Columbia</question>
+  <question>Motion to Proceed to Legislative Session</question>
   <required>1/2</required>
   <result>Motion to Proceed Agreed to</result>
   <option key="+">Yea</option>
@@ -80,7 +80,6 @@
   <voter id="S378" vote="-" value="Nay" state="OK"/>
   <voter id="S346" vote="-" value="Nay" state="UT"/>
   <voter id="S410" vote="-" value="Nay" state="WY"/>
-  <voter id="S411" vote="-" value="Nay" state="KS"/>
   <voter id="S174" vote="-" value="Nay" state="KY"/>
   <voter id="S347" vote="-" value="Nay" state="KS"/>
   <voter id="S419" vote="-" value="Nay" state="OK"/>
@@ -104,6 +103,7 @@
   <voter id="S418" vote="0" value="Not Voting" state="PA"/>
   <voter id="S407" vote="0" value="Not Voting" state="TN"/>
   <voter id="S338" vote="0" value="Not Voting" state="WV"/>
+  <voter id="S411" vote="0" value="Not Voting" state="KS"/>
   <voter id="S401" vote="0" value="Not Voting" state="UT"/>
   <voter id="S350" vote="0" value="Not Voting" state="FL"/>
   <voter id="S403" vote="0" value="Not Voting" state="AZ"/>

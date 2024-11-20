@@ -4,20 +4,20 @@
   "congress": 118,
   "date": "2024-11-18T20:41:00-05:00",
   "nomination": {
-    "number": "1577",
-    "title": "Brian Edward Murphy, of Massachusetts, to be United States District Judge for the District of Massachusetts"
+    "number": "1463",
+    "title": "Sparkle L. Sooknanan, of the District of Columbia, to be United States District Judge for the District of Columbia"
   },
   "number": 270,
-  "question": "On the Motion (Motion to Proceed to Executive Session to Consider Calendar No. 650): Brian Edward Murphy, of Massachusetts, to be United States District Judge for the District of Massachusetts",
-  "record_modified": "2024-11-18T21:31:00-05:00",
+  "question": "On the Motion to Proceed PN1463: Sparkle L. Sooknanan, of the District of Columbia, to be United States District Judge for the District of Columbia",
+  "record_modified": "2024-11-18T22:43:00-05:00",
   "requires": "1/2",
-  "result": "Motion Agreed to",
-  "result_text": "Motion Agreed to (46-42)",
+  "result": "Motion to Proceed Agreed to",
+  "result_text": "Motion to Proceed Agreed to (46-42)",
   "session": "2024",
   "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00270.xml",
   "subject": "Motion to Proceed to Executive Session to Consider Calendar No. 650",
-  "type": "On the Motion to Proceed to Executive Session to Consider Calendar No. 650",
-  "updated_at": "2024-11-19T03:11:27-05:00",
+  "type": "On the Motion to Proceed",
+  "updated_at": "2024-11-20T03:10:48-05:00",
   "vote_id": "s270-118.2024",
   "votes": {
     "Nay": [

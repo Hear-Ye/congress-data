@@ -2,19 +2,23 @@
   "category": "procedural",
   "chamber": "s",
   "congress": 118,
-  "date": "2024-11-18T20:29:00-05:00",
-  "number": 269,
-  "question": "Motion to Proceed to Legislative Session",
-  "record_modified": "2024-11-18T22:42:00-05:00",
+  "date": "2024-11-18T21:11:00-05:00",
+  "nomination": {
+    "number": "1577",
+    "title": "Brian Edward Murphy, of Massachusetts, to be United States District Judge for the District of Massachusetts"
+  },
+  "number": 272,
+  "question": "On the Motion to Proceed PN1577: Brian Edward Murphy, of Massachusetts, to be United States District Judge for the District of Massachusetts",
+  "record_modified": "2024-11-18T23:01:00-05:00",
   "requires": "1/2",
   "result": "Motion to Proceed Agreed to",
-  "result_text": "Motion to Proceed Agreed to (46-40)",
+  "result_text": "Motion to Proceed Agreed to (46-41)",
   "session": "2024",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00269.xml",
-  "subject": "On the Motion to Proceed PN1463",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00272.xml",
+  "subject": "Motion to Proceed to Executive Session to Consider Calendar No. 707",
   "type": "On the Motion to Proceed",
-  "updated_at": "2024-11-20T03:10:49-05:00",
-  "vote_id": "s269-118.2024",
+  "updated_at": "2024-11-20T03:10:47-05:00",
+  "vote_id": "s272-118.2024",
   "votes": {
     "Nay": [
       {
@@ -96,6 +100,14 @@
         "last_name": "Cotton",
         "party": "R",
         "state": "AR"
+      },
+      {
+        "display_name": "Cramer (R-ND)",
+        "first_name": "Kevin",
+        "id": "S398",
+        "last_name": "Cramer",
+        "party": "R",
+        "state": "ND"
       },
       {
         "display_name": "Crapo (R-ID)",
@@ -266,6 +278,14 @@
         "state": "ID"
       },
       {
+        "display_name": "Rounds (R-SD)",
+        "first_name": "Mike",
+        "id": "S381",
+        "last_name": "Rounds",
+        "party": "R",
+        "state": "SD"
+      },
+      {
         "display_name": "Schmitt (R-MO)",
         "first_name": "Eric ",
         "id": "S420",
@@ -314,14 +334,6 @@
         "state": "NC"
       },
       {
-        "display_name": "Tuberville (R-AL)",
-        "first_name": "Tommy",
-        "id": "S412",
-        "last_name": "Tuberville",
-        "party": "R",
-        "state": "AL"
-      },
-      {
         "display_name": "Wicker (R-MS)",
         "first_name": "Roger",
         "id": "S318",
@@ -346,14 +358,6 @@
         "last_name": "Braun",
         "party": "R",
         "state": "IN"
-      },
-      {
-        "display_name": "Cramer (R-ND)",
-        "first_name": "Kevin",
-        "id": "S398",
-        "last_name": "Cramer",
-        "party": "R",
-        "state": "ND"
       },
       {
         "display_name": "Daines (R-MT)",
@@ -404,14 +408,6 @@
         "state": "UT"
       },
       {
-        "display_name": "Rounds (R-SD)",
-        "first_name": "Mike",
-        "id": "S381",
-        "last_name": "Rounds",
-        "party": "R",
-        "state": "SD"
-      },
-      {
         "display_name": "Rubio (R-FL)",
         "first_name": "Marco",
         "id": "S350",
@@ -434,6 +430,14 @@
         "last_name": "Tester",
         "party": "D",
         "state": "MT"
+      },
+      {
+        "display_name": "Tuberville (R-AL)",
+        "first_name": "Tommy",
+        "id": "S412",
+        "last_name": "Tuberville",
+        "party": "R",
+        "state": "AL"
       },
       {
         "display_name": "Van Hollen (D-MD)",
