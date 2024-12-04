@@ -2,23 +2,23 @@
   "category": "nomination",
   "chamber": "s",
   "congress": 118,
-  "date": "2024-12-02T18:34:00-05:00",
+  "date": "2024-12-03T17:25:00-05:00",
   "nomination": {
-    "number": "1577",
-    "title": "Brian Edward Murphy, of Massachusetts, to be United States District Judge for the District of Massachusetts"
+    "number": "1905",
+    "title": "Gail A. Weilheimer, of Pennsylvania, to be United States District Judge for the Eastern District of Pennsylvania"
   },
-  "number": 305,
-  "question": "On the Nomination PN1577: Brian Edward Murphy, of Massachusetts, to be United States District Judge for the District of Massachusetts",
-  "record_modified": "2024-12-03T15:14:00-05:00",
+  "number": 308,
+  "question": "On the Nomination PN1905: Gail A. Weilheimer, of Pennsylvania, to be United States District Judge for the Eastern District of Pennsylvania",
+  "record_modified": "2024-12-03T18:50:00-05:00",
   "requires": "1/2",
   "result": "Nomination Confirmed",
-  "result_text": "Nomination Confirmed (47-45)",
+  "result_text": "Nomination Confirmed (50-48)",
   "session": "2024",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00305.xml",
-  "subject": "Confirmation: Brian Edward Murphy, of Massachusetts, to be U.S. District Judge for the District of Massachusetts",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00308.xml",
+  "subject": "Confirmation: Gail A. Weilheimer, of Pennsylvania, to be U.S. District Judge for the Eastern District of Pennsylvania",
   "type": "On the Nomination",
-  "updated_at": "2024-12-04T03:16:54-05:00",
-  "vote_id": "s305-118.2024",
+  "updated_at": "2024-12-04T03:16:52-05:00",
+  "vote_id": "s308-118.2024",
   "votes": {
     "Nay": [
       {
@@ -108,6 +108,14 @@
         "last_name": "Cotton",
         "party": "R",
         "state": "AR"
+      },
+      {
+        "display_name": "Cramer (R-ND)",
+        "first_name": "Kevin",
+        "id": "S398",
+        "last_name": "Cramer",
+        "party": "R",
+        "state": "ND"
       },
       {
         "display_name": "Crapo (R-ID)",
@@ -294,6 +302,14 @@
         "state": "NE"
       },
       {
+        "display_name": "Risch (R-ID)",
+        "first_name": "James ",
+        "id": "S323",
+        "last_name": "Risch",
+        "party": "R",
+        "state": "ID"
+      },
+      {
         "display_name": "Romney (R-UT)",
         "first_name": "Mitt",
         "id": "S401",
@@ -308,6 +324,14 @@
         "last_name": "Rounds",
         "party": "R",
         "state": "SD"
+      },
+      {
+        "display_name": "Rubio (R-FL)",
+        "first_name": "Marco",
+        "id": "S350",
+        "last_name": "Rubio",
+        "party": "R",
+        "state": "FL"
       },
       {
         "display_name": "Schmitt (R-MO)",
@@ -383,54 +407,6 @@
       }
     ],
     "Not Voting": [
-      {
-        "display_name": "Cramer (R-ND)",
-        "first_name": "Kevin",
-        "id": "S398",
-        "last_name": "Cramer",
-        "party": "R",
-        "state": "ND"
-      },
-      {
-        "display_name": "Fetterman (D-PA)",
-        "first_name": "John",
-        "id": "S418",
-        "last_name": "Fetterman",
-        "party": "D",
-        "state": "PA"
-      },
-      {
-        "display_name": "King (I-ME)",
-        "first_name": "Angus",
-        "id": "S363",
-        "last_name": "King",
-        "party": "I",
-        "state": "ME"
-      },
-      {
-        "display_name": "Manchin (I-WV)",
-        "first_name": "Joseph",
-        "id": "S338",
-        "last_name": "Manchin",
-        "party": "I",
-        "state": "WV"
-      },
-      {
-        "display_name": "Risch (R-ID)",
-        "first_name": "James ",
-        "id": "S323",
-        "last_name": "Risch",
-        "party": "R",
-        "state": "ID"
-      },
-      {
-        "display_name": "Rubio (R-FL)",
-        "first_name": "Marco",
-        "id": "S350",
-        "last_name": "Rubio",
-        "party": "R",
-        "state": "FL"
-      },
       {
         "display_name": "Sinema (I-AZ)",
         "first_name": "Kyrsten",
@@ -563,6 +539,14 @@
         "state": "IL"
       },
       {
+        "display_name": "Fetterman (D-PA)",
+        "first_name": "John",
+        "id": "S418",
+        "last_name": "Fetterman",
+        "party": "D",
+        "state": "PA"
+      },
+      {
         "display_name": "Gillibrand (D-NY)",
         "first_name": "Kirsten",
         "id": "S331",
@@ -627,6 +611,14 @@
         "state": "AZ"
       },
       {
+        "display_name": "King (I-ME)",
+        "first_name": "Angus",
+        "id": "S363",
+        "last_name": "King",
+        "party": "I",
+        "state": "ME"
+      },
+      {
         "display_name": "Klobuchar (D-MN)",
         "first_name": "Amy",
         "id": "S311",
@@ -641,6 +633,14 @@
         "last_name": "Lujan",
         "party": "D",
         "state": "NM"
+      },
+      {
+        "display_name": "Manchin (I-WV)",
+        "first_name": "Joseph",
+        "id": "S338",
+        "last_name": "Manchin",
+        "party": "I",
+        "state": "WV"
       },
       {
         "display_name": "Markey (D-MA)",
