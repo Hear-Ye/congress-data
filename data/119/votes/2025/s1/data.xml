@@ -1,11 +1,11 @@
 <roll where="senate" session="119" year="2025" roll="1" source="senate.gov"
-  datetime="2025-01-09T14:54:00-05:00" updated="2025-01-10T03:03:10-05:00"
+  datetime="2025-01-09T14:54:00-05:00" updated="2025-01-11T03:00:25-05:00"
   aye="84" nay="9" nv="6" present="0">
   <category>cloture</category>
   <type>On the Cloture Motion</type>
   <question>Motion to Invoke Cloture: Motion to Proceed to S. 5</question>
   <required>3/5</required>
-  <result>Cloture Motion Agreed to</result>
+  <result>Cloture on the Motion to Proceed Agreed to</result>
   <bill session="119" type="s" number="5"/>
   <option key="+">Yea</option>
   <option key="-">Nay</option>
