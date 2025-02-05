@@ -2,25 +2,41 @@
   "category": "nomination",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-01-30T18:15:00-05:00",
+  "date": "2025-02-04T12:07:00-05:00",
   "nomination": {
-    "number": "11-3",
-    "title": "Douglas Burgum, of North Dakota, to be Secretary of the Interior"
+    "number": "11-5",
+    "title": "Douglas Collins, of Georgia, to be Secretary of Veterans Affairs"
   },
-  "number": 26,
-  "question": "On the Nomination PN11-3: Douglas Burgum, of North Dakota, to be Secretary of the Interior",
-  "record_modified": "2025-02-04T15:15:00-05:00",
+  "number": 32,
+  "question": "On the Nomination PN11-5: Douglas Collins, of Georgia, to be Secretary of Veterans Affairs",
+  "record_modified": "2025-02-04T13:18:00-05:00",
   "requires": "1/2",
   "result": "Nomination Confirmed",
-  "result_text": "Nomination Confirmed (80-17)",
+  "result_text": "Nomination Confirmed (77-23)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00026.xml",
-  "subject": "Confirmation: Douglas Burgum, of N.D., to be Secretary of the Interior",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00032.xml",
+  "subject": "Confirmation: Douglas Collins, of Georgia, to be Secretary of Veterans Affairs",
   "type": "On the Nomination",
-  "updated_at": "2025-02-05T02:58:06-05:00",
-  "vote_id": "s26-119.2025",
+  "updated_at": "2025-02-05T02:58:02-05:00",
+  "vote_id": "s32-119.2025",
   "votes": {
     "Nay": [
+      {
+        "display_name": "Alsobrooks (D-MD)",
+        "first_name": "Angela",
+        "id": "S428",
+        "last_name": "Alsobrooks",
+        "party": "D",
+        "state": "MD"
+      },
+      {
+        "display_name": "Baldwin (D-WI)",
+        "first_name": "Tammy",
+        "id": "S354",
+        "last_name": "Baldwin",
+        "party": "D",
+        "state": "WI"
+      },
       {
         "display_name": "Blunt Rochester (D-DE)",
         "first_name": "Lisa",
@@ -28,6 +44,22 @@
         "last_name": "Blunt Rochester",
         "party": "D",
         "state": "DE"
+      },
+      {
+        "display_name": "Booker (D-NJ)",
+        "first_name": "Cory",
+        "id": "S370",
+        "last_name": "Booker",
+        "party": "D",
+        "state": "NJ"
+      },
+      {
+        "display_name": "Cantwell (D-WA)",
+        "first_name": "Maria",
+        "id": "S275",
+        "last_name": "Cantwell",
+        "party": "D",
+        "state": "WA"
       },
       {
         "display_name": "Coons (D-DE)",
@@ -94,12 +126,12 @@
         "state": "WA"
       },
       {
-        "display_name": "Peters (D-MI)",
-        "first_name": "Gary",
-        "id": "S380",
-        "last_name": "Peters",
+        "display_name": "Padilla (D-CA)",
+        "first_name": "Alex",
+        "id": "S413",
+        "last_name": "Padilla",
         "party": "D",
-        "state": "MI"
+        "state": "CA"
       },
       {
         "display_name": "Reed (D-RI)",
@@ -110,20 +142,12 @@
         "state": "RI"
       },
       {
-        "display_name": "Sanders (I-VT)",
-        "first_name": "Bernie",
-        "id": "S313",
-        "last_name": "Sanders",
-        "party": "I",
-        "state": "VT"
-      },
-      {
-        "display_name": "Schiff (D-CA)",
-        "first_name": "Adam",
-        "id": "S427",
-        "last_name": "Schiff",
+        "display_name": "Schatz (D-HI)",
+        "first_name": "Brian",
+        "id": "S353",
+        "last_name": "Schatz",
         "party": "D",
-        "state": "CA"
+        "state": "HI"
       },
       {
         "display_name": "Schumer (D-NY)",
@@ -134,12 +158,28 @@
         "state": "NY"
       },
       {
+        "display_name": "Smith (D-MN)",
+        "first_name": "Tina",
+        "id": "S394",
+        "last_name": "Smith",
+        "party": "D",
+        "state": "MN"
+      },
+      {
         "display_name": "Van Hollen (D-MD)",
         "first_name": "Chris",
         "id": "S390",
         "last_name": "Van Hollen",
         "party": "D",
         "state": "MD"
+      },
+      {
+        "display_name": "Warner (D-VA)",
+        "first_name": "Mark",
+        "id": "S327",
+        "last_name": "Warner",
+        "party": "D",
+        "state": "VA"
       },
       {
         "display_name": "Warren (D-MA)",
@@ -150,6 +190,14 @@
         "state": "MA"
       },
       {
+        "display_name": "Whitehouse (D-RI)",
+        "first_name": "Sheldon",
+        "id": "S316",
+        "last_name": "Whitehouse",
+        "party": "D",
+        "state": "RI"
+      },
+      {
         "display_name": "Wyden (D-OR)",
         "first_name": "Ron",
         "id": "S247",
@@ -158,50 +206,9 @@
         "state": "OR"
       }
     ],
-    "Not Voting": [
-      {
-        "display_name": "Booker (D-NJ)",
-        "first_name": "Cory",
-        "id": "S370",
-        "last_name": "Booker",
-        "party": "D",
-        "state": "NJ"
-      },
-      {
-        "display_name": "Fetterman (D-PA)",
-        "first_name": "John",
-        "id": "S418",
-        "last_name": "Fetterman",
-        "party": "D",
-        "state": "PA"
-      },
-      {
-        "display_name": "Ossoff (D-GA)",
-        "first_name": "Jon",
-        "id": "S414",
-        "last_name": "Ossoff",
-        "party": "D",
-        "state": "GA"
-      }
-    ],
+    "Not Voting": [],
     "Present": [],
     "Yea": [
-      {
-        "display_name": "Alsobrooks (D-MD)",
-        "first_name": "Angela",
-        "id": "S428",
-        "last_name": "Alsobrooks",
-        "party": "D",
-        "state": "MD"
-      },
-      {
-        "display_name": "Baldwin (D-WI)",
-        "first_name": "Tammy",
-        "id": "S354",
-        "last_name": "Baldwin",
-        "party": "D",
-        "state": "WI"
-      },
       {
         "display_name": "Banks (R-IN)",
         "first_name": "Jim",
@@ -265,14 +272,6 @@
         "last_name": "Budd",
         "party": "R",
         "state": "NC"
-      },
-      {
-        "display_name": "Cantwell (D-WA)",
-        "first_name": "Maria",
-        "id": "S275",
-        "last_name": "Cantwell",
-        "party": "D",
-        "state": "WA"
       },
       {
         "display_name": "Capito (R-WV)",
@@ -377,6 +376,14 @@
         "last_name": "Ernst",
         "party": "R",
         "state": "IA"
+      },
+      {
+        "display_name": "Fetterman (D-PA)",
+        "first_name": "John",
+        "id": "S418",
+        "last_name": "Fetterman",
+        "party": "D",
+        "state": "PA"
       },
       {
         "display_name": "Fischer (R-NE)",
@@ -635,12 +642,12 @@
         "state": "AK"
       },
       {
-        "display_name": "Padilla (D-CA)",
-        "first_name": "Alex",
-        "id": "S413",
-        "last_name": "Padilla",
+        "display_name": "Ossoff (D-GA)",
+        "first_name": "Jon",
+        "id": "S414",
+        "last_name": "Ossoff",
         "party": "D",
-        "state": "CA"
+        "state": "GA"
       },
       {
         "display_name": "Paul (R-KY)",
@@ -649,6 +656,14 @@
         "last_name": "Paul",
         "party": "R",
         "state": "KY"
+      },
+      {
+        "display_name": "Peters (D-MI)",
+        "first_name": "Gary",
+        "id": "S380",
+        "last_name": "Peters",
+        "party": "D",
+        "state": "MI"
       },
       {
         "display_name": "Ricketts (R-NE)",
@@ -683,12 +698,20 @@
         "state": "SD"
       },
       {
-        "display_name": "Schatz (D-HI)",
-        "first_name": "Brian",
-        "id": "S353",
-        "last_name": "Schatz",
+        "display_name": "Sanders (I-VT)",
+        "first_name": "Bernie",
+        "id": "S313",
+        "last_name": "Sanders",
+        "party": "I",
+        "state": "VT"
+      },
+      {
+        "display_name": "Schiff (D-CA)",
+        "first_name": "Adam",
+        "id": "S427",
+        "last_name": "Schiff",
         "party": "D",
-        "state": "HI"
+        "state": "CA"
       },
       {
         "display_name": "Schmitt (R-MO)",
@@ -739,14 +762,6 @@
         "state": "MI"
       },
       {
-        "display_name": "Smith (D-MN)",
-        "first_name": "Tina",
-        "id": "S394",
-        "last_name": "Smith",
-        "party": "D",
-        "state": "MN"
-      },
-      {
         "display_name": "Sullivan (R-AK)",
         "first_name": "Dan",
         "id": "S383",
@@ -779,14 +794,6 @@
         "state": "AL"
       },
       {
-        "display_name": "Warner (D-VA)",
-        "first_name": "Mark",
-        "id": "S327",
-        "last_name": "Warner",
-        "party": "D",
-        "state": "VA"
-      },
-      {
         "display_name": "Warnock (D-GA)",
         "first_name": "Raphael",
         "id": "S415",
@@ -801,14 +808,6 @@
         "last_name": "Welch",
         "party": "D",
         "state": "VT"
-      },
-      {
-        "display_name": "Whitehouse (D-RI)",
-        "first_name": "Sheldon",
-        "id": "S316",
-        "last_name": "Whitehouse",
-        "party": "D",
-        "state": "RI"
       },
       {
         "display_name": "Wicker (R-MS)",
