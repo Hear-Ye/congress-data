@@ -2,23 +2,19 @@
   "category": "procedural",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-02-06T20:02:00-05:00",
-  "nomination": {
-    "number": "11-16",
-    "title": "Tulsi Gabbard, of Hawaii, to be Director of National Intelligence"
-  },
-  "number": 40,
-  "question": "On the Motion to Proceed PN11-16: Tulsi Gabbard, of Hawaii, to be Director of National Intelligence",
-  "record_modified": "2025-02-06T21:40:00-05:00",
+  "date": "2025-02-06T21:32:00-05:00",
+  "number": 47,
+  "question": "Motion to Proceed to Legislative Session",
+  "record_modified": "2025-02-06T22:16:00-05:00",
   "requires": "1/2",
   "result": "Motion to Proceed Agreed to",
-  "result_text": "Motion to Proceed Agreed to (52-46)",
+  "result_text": "Motion to Proceed Agreed to (53-46)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00040.xml",
-  "subject": "Motion to Proceed to Executive Session to Consider the Nomination of Tulsi Gabbard",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00047.xml",
+  "subject": "On the Motion to Proceed PN11-12",
   "type": "On the Motion to Proceed",
-  "updated_at": "2025-02-08T02:54:48-05:00",
-  "vote_id": "s40-119.2025",
+  "updated_at": "2025-02-08T02:54:44-05:00",
+  "vote_id": "s47-119.2025",
   "votes": {
     "Nay": [
       {
@@ -108,14 +104,6 @@
         "last_name": "Durbin",
         "party": "D",
         "state": "IL"
-      },
-      {
-        "display_name": "Fetterman (D-PA)",
-        "first_name": "John",
-        "id": "S418",
-        "last_name": "Fetterman",
-        "party": "D",
-        "state": "PA"
       },
       {
         "display_name": "Gallego (D-AZ)",
@@ -220,6 +208,14 @@
         "last_name": "Markey",
         "party": "D",
         "state": "MA"
+      },
+      {
+        "display_name": "Merkley (D-OR)",
+        "first_name": "Jeff",
+        "id": "S322",
+        "last_name": "Merkley",
+        "party": "D",
+        "state": "OR"
       },
       {
         "display_name": "Murphy (D-CT)",
@@ -392,20 +388,12 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Cruz (R-TX)",
-        "first_name": "Ted",
-        "id": "S355",
-        "last_name": "Cruz",
-        "party": "R",
-        "state": "TX"
-      },
-      {
-        "display_name": "Merkley (D-OR)",
-        "first_name": "Jeff",
-        "id": "S322",
-        "last_name": "Merkley",
+        "display_name": "Fetterman (D-PA)",
+        "first_name": "John",
+        "id": "S418",
+        "last_name": "Fetterman",
         "party": "D",
-        "state": "OR"
+        "state": "PA"
       }
     ],
     "Present": [],
@@ -513,6 +501,14 @@
         "last_name": "Crapo",
         "party": "R",
         "state": "ID"
+      },
+      {
+        "display_name": "Cruz (R-TX)",
+        "first_name": "Ted",
+        "id": "S355",
+        "last_name": "Cruz",
+        "party": "R",
+        "state": "TX"
       },
       {
         "display_name": "Curtis (R-UT)",
