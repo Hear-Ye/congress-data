@@ -1,24 +1,26 @@
 {
-  "category": "cloture",
+  "bill": {
+    "congress": 119,
+    "number": 12,
+    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"Waste Emissions Charge for Petroleum and Natural Gas Systems: Procedures for Facilitating Compliance, Including Netting and Exemptions\".",
+    "type": "sjres"
+  },
+  "category": "procedural",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-02-24T18:20:00-05:00",
-  "nomination": {
-    "number": "11-17",
-    "title": "Jamieson Greer, of Maryland, to be United States Trade Representative, with the rank of Ambassador"
-  },
-  "number": 89,
-  "question": "Motion to Invoke Cloture: Jamieson Greer to be United States Trade Representative: Jamieson Greer, of Maryland, to be United States Trade Representative, with the rank of Ambassador",
-  "record_modified": "2025-02-26T16:09:00-05:00",
+  "date": "2025-02-26T18:10:00-05:00",
+  "number": 96,
+  "question": "On the Motion to Proceed S.J.Res. 12",
+  "record_modified": "2025-02-26T19:14:00-05:00",
   "requires": "1/2",
-  "result": "Cloture Motion Agreed to",
-  "result_text": "Cloture Motion Agreed to (54-43)",
+  "result": "Motion to Proceed Agreed to",
+  "result_text": "Motion to Proceed Agreed to (52-47)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00089.xml",
-  "subject": "On the Cloture Motion PN11-17",
-  "type": "On the Cloture Motion",
-  "updated_at": "2025-02-27T03:04:03-05:00",
-  "vote_id": "s89-119.2025",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00096.xml",
+  "subject": "Motion to Proceed to S. J. Res. 12",
+  "type": "On the Motion to Proceed",
+  "updated_at": "2025-02-27T03:04:00-05:00",
+  "vote_id": "s96-119.2025",
   "votes": {
     "Nay": [
       {
@@ -110,6 +112,14 @@
         "state": "IL"
       },
       {
+        "display_name": "Fetterman (D-PA)",
+        "first_name": "John",
+        "id": "S418",
+        "last_name": "Fetterman",
+        "party": "D",
+        "state": "PA"
+      },
+      {
         "display_name": "Gallego (D-AZ)",
         "first_name": "Ruben",
         "id": "S432",
@@ -142,12 +152,28 @@
         "state": "NM"
       },
       {
+        "display_name": "Hickenlooper (D-CO)",
+        "first_name": "John",
+        "id": "S408",
+        "last_name": "Hickenlooper",
+        "party": "D",
+        "state": "CO"
+      },
+      {
         "display_name": "Hirono (D-HI)",
         "first_name": "Mazie",
         "id": "S361",
         "last_name": "Hirono",
         "party": "D",
         "state": "HI"
+      },
+      {
+        "display_name": "Kaine (D-VA)",
+        "first_name": "Timothy",
+        "id": "S362",
+        "last_name": "Kaine",
+        "party": "D",
+        "state": "VA"
       },
       {
         "display_name": "Kelly (D-AZ)",
@@ -358,6 +384,14 @@
         "state": "VT"
       },
       {
+        "display_name": "Whitehouse (D-RI)",
+        "first_name": "Sheldon",
+        "id": "S316",
+        "last_name": "Whitehouse",
+        "party": "D",
+        "state": "RI"
+      },
+      {
         "display_name": "Wyden (D-OR)",
         "first_name": "Ron",
         "id": "S247",
@@ -374,22 +408,6 @@
         "last_name": "Cramer",
         "party": "R",
         "state": "ND"
-      },
-      {
-        "display_name": "Kaine (D-VA)",
-        "first_name": "Timothy",
-        "id": "S362",
-        "last_name": "Kaine",
-        "party": "D",
-        "state": "VA"
-      },
-      {
-        "display_name": "Young (R-IN)",
-        "first_name": "Todd",
-        "id": "S391",
-        "last_name": "Young",
-        "party": "R",
-        "state": "IN"
       }
     ],
     "Present": [],
@@ -523,14 +541,6 @@
         "state": "IA"
       },
       {
-        "display_name": "Fetterman (D-PA)",
-        "first_name": "John",
-        "id": "S418",
-        "last_name": "Fetterman",
-        "party": "D",
-        "state": "PA"
-      },
-      {
         "display_name": "Fischer (R-NE)",
         "first_name": "Deb",
         "id": "S357",
@@ -569,14 +579,6 @@
         "last_name": "Hawley",
         "party": "R",
         "state": "MO"
-      },
-      {
-        "display_name": "Hickenlooper (D-CO)",
-        "first_name": "John",
-        "id": "S408",
-        "last_name": "Hickenlooper",
-        "party": "D",
-        "state": "CO"
       },
       {
         "display_name": "Hoeven (R-ND)",
@@ -811,20 +813,20 @@
         "state": "AL"
       },
       {
-        "display_name": "Whitehouse (D-RI)",
-        "first_name": "Sheldon",
-        "id": "S316",
-        "last_name": "Whitehouse",
-        "party": "D",
-        "state": "RI"
-      },
-      {
         "display_name": "Wicker (R-MS)",
         "first_name": "Roger",
         "id": "S318",
         "last_name": "Wicker",
         "party": "R",
         "state": "MS"
+      },
+      {
+        "display_name": "Young (R-IN)",
+        "first_name": "Todd",
+        "id": "S391",
+        "last_name": "Young",
+        "party": "R",
+        "state": "IN"
       }
     ]
   }
