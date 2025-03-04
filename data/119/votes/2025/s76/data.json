@@ -13,10 +13,10 @@
   "category": "amendment",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-02-21T12:36:00-05:00",
+  "date": "2025-02-21T00:36:00-05:00",
   "number": 76,
   "question": "On the Amendment S.Amdt. 299 to S.Con.Res. 7 (No short title on file)",
-  "record_modified": "2025-02-21T01:04:00-05:00",
+  "record_modified": "2025-03-03T18:59:00-05:00",
   "requires": "1/2",
   "result": "Amendment Rejected",
   "result_text": "Amendment Rejected (47-53)",
@@ -24,7 +24,7 @@
   "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00076.xml",
   "subject": "Reed Amdt. No. 299",
   "type": "On the Amendment",
-  "updated_at": "2025-02-22T02:57:12-05:00",
+  "updated_at": "2025-03-04T03:06:28-05:00",
   "vote_id": "s76-119.2025",
   "votes": {
     "Nay": [

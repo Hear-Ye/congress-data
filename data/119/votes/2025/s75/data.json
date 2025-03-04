@@ -13,10 +13,10 @@
   "category": "procedural",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-02-21T12:12:00-05:00",
+  "date": "2025-02-21T00:12:00-05:00",
   "number": 75,
   "question": "On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Reed Amdt. No. 172)",
-  "record_modified": "2025-02-21T00:58:00-05:00",
+  "record_modified": "2025-03-03T18:59:00-05:00",
   "requires": "3/5",
   "result": "Motion Rejected",
   "result_text": "Motion Rejected (49-51, 3/5 majority required)",
@@ -24,7 +24,7 @@
   "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00075.xml",
   "subject": "Motion to Waive All Applicable Budgetary Discipline Re: Reed Amdt. No. 172",
   "type": "On the Motion to Waive All Applicable Budgetary Discipline Re: Reed Amdt. No. 172",
-  "updated_at": "2025-02-22T02:57:13-05:00",
+  "updated_at": "2025-03-04T03:06:29-05:00",
   "vote_id": "s75-119.2025",
   "votes": {
     "Nay": [
