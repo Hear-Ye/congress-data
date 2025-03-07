@@ -11,7 +11,7 @@
   "date": "2025-03-03T18:27:00-05:00",
   "number": 100,
   "question": "Motion to Invoke Cloture: Motion to Proceed to S. 9",
-  "record_modified": "2025-03-03T19:18:00-05:00",
+  "record_modified": "2025-03-06T15:13:00-05:00",
   "requires": "3/5",
   "result": "Cloture on the Motion to Proceed Rejected",
   "result_text": "Cloture on the Motion to Proceed Rejected (51-45, 3/5 majority required)",
@@ -19,7 +19,7 @@
   "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00100.xml",
   "subject": "On Cloture on the Motion to Proceed S. 9",
   "type": "On the Cloture Motion",
-  "updated_at": "2025-03-04T03:06:17-05:00",
+  "updated_at": "2025-03-07T03:06:29-05:00",
   "vote_id": "s100-119.2025",
   "votes": {
     "Nay": [
