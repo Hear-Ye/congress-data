@@ -1,24 +1,24 @@
 {
-  "category": "nomination",
+  "category": "cloture",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-03-12T17:19:00-04:00",
+  "date": "2025-03-13T13:34:00-04:00",
   "nomination": {
-    "number": "12-42",
-    "title": "Keith Sonderling, of Florida, to be Deputy Secretary of Labor"
+    "number": "22-12",
+    "title": "Jeffrey Kessler, of Virginia, to be Under Secretary of Commerce for Industry and Security"
   },
-  "number": 119,
-  "question": "On the Nomination PN12-42: Keith Sonderling, of Florida, to be Deputy Secretary of Labor",
-  "record_modified": "2025-03-13T13:25:00-04:00",
+  "number": 122,
+  "question": "Motion to Invoke Cloture: Jeffrey Kessler to be Under Secretary of Commerce for Industry and Security: Jeffrey Kessler, of Virginia, to be Under Secretary of Commerce for Industry and Security",
+  "record_modified": "2025-03-13T15:23:00-04:00",
   "requires": "1/2",
-  "result": "Nomination Confirmed",
-  "result_text": "Nomination Confirmed (53-46)",
+  "result": "Cloture Motion Agreed to",
+  "result_text": "Cloture Motion Agreed to (54-45)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00119.xml",
-  "subject": "Confirmation: Keith Sonderling, of Florida, to be Deputy Secretary of Labor",
-  "type": "On the Nomination",
-  "updated_at": "2025-03-14T03:05:50-04:00",
-  "vote_id": "s119-119.2025",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00122.xml",
+  "subject": "On the Cloture Motion PN22-12",
+  "type": "On the Cloture Motion",
+  "updated_at": "2025-03-14T03:05:49-04:00",
+  "vote_id": "s122-119.2025",
   "votes": {
     "Nay": [
       {
@@ -316,14 +316,6 @@
         "last_name": "Shaheen",
         "party": "D",
         "state": "NH"
-      },
-      {
-        "display_name": "Slotkin (D-MI)",
-        "first_name": "Elissa",
-        "id": "S436",
-        "last_name": "Slotkin",
-        "party": "D",
-        "state": "MI"
       },
       {
         "display_name": "Smith (D-MN)",
@@ -777,6 +769,14 @@
         "last_name": "Sheehy",
         "party": "R",
         "state": "MT"
+      },
+      {
+        "display_name": "Slotkin (D-MI)",
+        "first_name": "Elissa",
+        "id": "S436",
+        "last_name": "Slotkin",
+        "party": "D",
+        "state": "MI"
       },
       {
         "display_name": "Sullivan (R-AK)",

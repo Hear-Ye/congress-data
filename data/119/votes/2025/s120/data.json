@@ -1,34 +1,26 @@
 {
-  "category": "nomination",
+  "category": "cloture",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-03-12T17:19:00-04:00",
+  "date": "2025-03-13T10:45:00-04:00",
   "nomination": {
-    "number": "12-42",
-    "title": "Keith Sonderling, of Florida, to be Deputy Secretary of Labor"
+    "number": "13-12",
+    "title": "William Pulte, of Florida, to be Director of the Federal Housing Finance Agency for a term of five years"
   },
-  "number": 119,
-  "question": "On the Nomination PN12-42: Keith Sonderling, of Florida, to be Deputy Secretary of Labor",
-  "record_modified": "2025-03-13T13:25:00-04:00",
+  "number": 120,
+  "question": "Motion to Invoke Cloture: William Pulte to be Director of the Federal Housing Finance Agency: William Pulte, of Florida, to be Director of the Federal Housing Finance Agency for a term of five years",
+  "record_modified": "2025-03-13T11:43:00-04:00",
   "requires": "1/2",
-  "result": "Nomination Confirmed",
-  "result_text": "Nomination Confirmed (53-46)",
+  "result": "Cloture Motion Agreed to",
+  "result_text": "Cloture Motion Agreed to (57-41)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00119.xml",
-  "subject": "Confirmation: Keith Sonderling, of Florida, to be Deputy Secretary of Labor",
-  "type": "On the Nomination",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00120.xml",
+  "subject": "On the Cloture Motion PN13-12",
+  "type": "On the Cloture Motion",
   "updated_at": "2025-03-14T03:05:50-04:00",
-  "vote_id": "s119-119.2025",
+  "vote_id": "s120-119.2025",
   "votes": {
     "Nay": [
-      {
-        "display_name": "Alsobrooks (D-MD)",
-        "first_name": "Angela",
-        "id": "S428",
-        "last_name": "Alsobrooks",
-        "party": "D",
-        "state": "MD"
-      },
       {
         "display_name": "Baldwin (D-WI)",
         "first_name": "Tammy",
@@ -108,14 +100,6 @@
         "last_name": "Fetterman",
         "party": "D",
         "state": "PA"
-      },
-      {
-        "display_name": "Gallego (D-AZ)",
-        "first_name": "Ruben",
-        "id": "S432",
-        "last_name": "Gallego",
-        "party": "D",
-        "state": "AZ"
       },
       {
         "display_name": "Gillibrand (D-NY)",
@@ -254,14 +238,6 @@
         "state": "CA"
       },
       {
-        "display_name": "Peters (D-MI)",
-        "first_name": "Gary",
-        "id": "S380",
-        "last_name": "Peters",
-        "party": "D",
-        "state": "MI"
-      },
-      {
         "display_name": "Reed (D-RI)",
         "first_name": "John",
         "id": "S259",
@@ -276,14 +252,6 @@
         "last_name": "Rosen",
         "party": "D",
         "state": "NV"
-      },
-      {
-        "display_name": "Sanders (I-VT)",
-        "first_name": "Bernie",
-        "id": "S313",
-        "last_name": "Sanders",
-        "party": "I",
-        "state": "VT"
       },
       {
         "display_name": "Schatz (D-HI)",
@@ -316,14 +284,6 @@
         "last_name": "Shaheen",
         "party": "D",
         "state": "NH"
-      },
-      {
-        "display_name": "Slotkin (D-MI)",
-        "first_name": "Elissa",
-        "id": "S436",
-        "last_name": "Slotkin",
-        "party": "D",
-        "state": "MI"
       },
       {
         "display_name": "Smith (D-MN)",
@@ -398,10 +358,26 @@
         "last_name": "Duckworth",
         "party": "D",
         "state": "IL"
+      },
+      {
+        "display_name": "Sanders (I-VT)",
+        "first_name": "Bernie",
+        "id": "S313",
+        "last_name": "Sanders",
+        "party": "I",
+        "state": "VT"
       }
     ],
     "Present": [],
     "Yea": [
+      {
+        "display_name": "Alsobrooks (D-MD)",
+        "first_name": "Angela",
+        "id": "S428",
+        "last_name": "Alsobrooks",
+        "party": "D",
+        "state": "MD"
+      },
       {
         "display_name": "Banks (R-IN)",
         "first_name": "Jim",
@@ -545,6 +521,14 @@
         "last_name": "Fischer",
         "party": "R",
         "state": "NE"
+      },
+      {
+        "display_name": "Gallego (D-AZ)",
+        "first_name": "Ruben",
+        "id": "S432",
+        "last_name": "Gallego",
+        "party": "D",
+        "state": "AZ"
       },
       {
         "display_name": "Graham (R-SC)",
@@ -723,6 +707,14 @@
         "state": "KY"
       },
       {
+        "display_name": "Peters (D-MI)",
+        "first_name": "Gary",
+        "id": "S380",
+        "last_name": "Peters",
+        "party": "D",
+        "state": "MI"
+      },
+      {
         "display_name": "Ricketts (R-NE)",
         "first_name": "Pete",
         "id": "S423",
@@ -777,6 +769,14 @@
         "last_name": "Sheehy",
         "party": "R",
         "state": "MT"
+      },
+      {
+        "display_name": "Slotkin (D-MI)",
+        "first_name": "Elissa",
+        "id": "S436",
+        "last_name": "Slotkin",
+        "party": "D",
+        "state": "MI"
       },
       {
         "display_name": "Sullivan (R-AK)",
