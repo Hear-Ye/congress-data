@@ -1,9 +1,9 @@
 <roll where="senate" session="119" year="2025" roll="125" source="senate.gov"
-  datetime="2025-03-14T10:49:00-04:00" updated="2025-03-15T03:04:16-04:00"
+  datetime="2025-03-14T10:49:00-04:00" updated="2025-03-19T03:08:25-04:00"
   aye="56" nay="39" nv="5" present="0">
   <category>cloture</category>
   <type>On the Cloture Motion</type>
-  <question>Motion to Invoke Cloture: Steven Feinberg to be Deputy Secretary of Defense: Stephen Feinberg, of New York, to be Deputy Secretary of Defense</question>
+  <question>Motion to Invoke Cloture: Stephen Feinberg to be Deputy Secretary of Defense: Stephen Feinberg, of New York, to be Deputy Secretary of Defense</question>
   <required>1/2</required>
   <result>Cloture Motion Agreed to</result>
   <option key="+">Yea</option>
