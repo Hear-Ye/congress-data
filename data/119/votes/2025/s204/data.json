@@ -1,24 +1,24 @@
 {
-  "category": "cloture",
+  "category": "nomination",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-04-08T17:56:00-04:00",
+  "date": "2025-04-09T15:19:00-04:00",
   "nomination": {
-    "number": "25-22",
-    "title": "Ronald Johnson, of Florida, to be Ambassador to the United Mexican States"
+    "number": "25-6",
+    "title": "Kevin Cabrera, of Florida, to be Ambassador to the Republic of Panama"
   },
-  "number": 198,
-  "question": "Motion to Invoke Cloture: Ronald Johnson  to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the United Mexican States: Ronald Johnson, of Florida, to be Ambassador to the United Mexican States",
-  "record_modified": "2025-04-09T15:32:00-04:00",
+  "number": 204,
+  "question": "On the Nomination PN25-6: Kevin Cabrera, of Florida, to be Ambassador to the Republic of Panama",
+  "record_modified": "2025-04-09T16:15:00-04:00",
   "requires": "1/2",
-  "result": "Cloture Motion Agreed to",
-  "result_text": "Cloture Motion Agreed to (52-44)",
+  "result": "Nomination Confirmed",
+  "result_text": "Nomination Confirmed (51-45)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00198.xml",
-  "subject": "On the Cloture Motion PN25-22",
-  "type": "On the Cloture Motion",
-  "updated_at": "2025-04-10T03:12:57-04:00",
-  "vote_id": "s198-119.2025",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00204.xml",
+  "subject": "Confirmation: Kevin Cabrera, of Florida, to be Ambassador Extrodinary and Plenipotentiary of the United States of America to the Republic of Panama",
+  "type": "On the Nomination",
+  "updated_at": "2025-04-10T03:12:54-04:00",
+  "vote_id": "s204-119.2025",
   "votes": {
     "Nay": [
       {
@@ -94,6 +94,14 @@
         "state": "NV"
       },
       {
+        "display_name": "Duckworth (D-IL)",
+        "first_name": "Tammy",
+        "id": "S386",
+        "last_name": "Duckworth",
+        "party": "D",
+        "state": "IL"
+      },
+      {
         "display_name": "Durbin (D-IL)",
         "first_name": "Richard",
         "id": "S253",
@@ -124,6 +132,14 @@
         "last_name": "Gillibrand",
         "party": "D",
         "state": "NY"
+      },
+      {
+        "display_name": "Hassan (D-NH)",
+        "first_name": "Maggie",
+        "id": "S388",
+        "last_name": "Hassan",
+        "party": "D",
+        "state": "NH"
       },
       {
         "display_name": "Heinrich (D-NM)",
@@ -270,14 +286,6 @@
         "state": "NV"
       },
       {
-        "display_name": "Sanders (I-VT)",
-        "first_name": "Bernie",
-        "id": "S313",
-        "last_name": "Sanders",
-        "party": "I",
-        "state": "VT"
-      },
-      {
         "display_name": "Schatz (D-HI)",
         "first_name": "Brian",
         "id": "S353",
@@ -300,14 +308,6 @@
         "last_name": "Schumer",
         "party": "D",
         "state": "NY"
-      },
-      {
-        "display_name": "Shaheen (D-NH)",
-        "first_name": "Jeanne",
-        "id": "S324",
-        "last_name": "Shaheen",
-        "party": "D",
-        "state": "NH"
       },
       {
         "display_name": "Slotkin (D-MI)",
@@ -372,32 +372,6 @@
         "last_name": "Whitehouse",
         "party": "D",
         "state": "RI"
-      }
-    ],
-    "Not Voting": [
-      {
-        "display_name": "Duckworth (D-IL)",
-        "first_name": "Tammy",
-        "id": "S386",
-        "last_name": "Duckworth",
-        "party": "D",
-        "state": "IL"
-      },
-      {
-        "display_name": "Hassan (D-NH)",
-        "first_name": "Maggie",
-        "id": "S388",
-        "last_name": "Hassan",
-        "party": "D",
-        "state": "NH"
-      },
-      {
-        "display_name": "McCormick (R-PA)",
-        "first_name": "David",
-        "id": "S433",
-        "last_name": "McCormick",
-        "party": "R",
-        "state": "PA"
       },
       {
         "display_name": "Wyden (D-OR)",
@@ -406,6 +380,40 @@
         "last_name": "Wyden",
         "party": "D",
         "state": "OR"
+      }
+    ],
+    "Not Voting": [
+      {
+        "display_name": "Hawley (R-MO)",
+        "first_name": "Josh",
+        "id": "S399",
+        "last_name": "Hawley",
+        "party": "R",
+        "state": "MO"
+      },
+      {
+        "display_name": "Mullin (R-OK)",
+        "first_name": "Markwayne",
+        "id": "S419",
+        "last_name": "Mullin",
+        "party": "R",
+        "state": "OK"
+      },
+      {
+        "display_name": "Sanders (I-VT)",
+        "first_name": "Bernie",
+        "id": "S313",
+        "last_name": "Sanders",
+        "party": "I",
+        "state": "VT"
+      },
+      {
+        "display_name": "Tuberville (R-AL)",
+        "first_name": "Tommy",
+        "id": "S412",
+        "last_name": "Tuberville",
+        "party": "R",
+        "state": "AL"
       }
     ],
     "Present": [],
@@ -579,14 +587,6 @@
         "state": "TN"
       },
       {
-        "display_name": "Hawley (R-MO)",
-        "first_name": "Josh",
-        "id": "S399",
-        "last_name": "Hawley",
-        "party": "R",
-        "state": "MO"
-      },
-      {
         "display_name": "Hoeven (R-ND)",
         "first_name": "John",
         "id": "S344",
@@ -675,6 +675,14 @@
         "state": "KY"
       },
       {
+        "display_name": "McCormick (R-PA)",
+        "first_name": "David",
+        "id": "S433",
+        "last_name": "McCormick",
+        "party": "R",
+        "state": "PA"
+      },
+      {
         "display_name": "Moody (R-FL)",
         "first_name": "Ashley",
         "id": "S439",
@@ -697,14 +705,6 @@
         "last_name": "Moreno",
         "party": "R",
         "state": "OH"
-      },
-      {
-        "display_name": "Mullin (R-OK)",
-        "first_name": "Markwayne",
-        "id": "S419",
-        "last_name": "Mullin",
-        "party": "R",
-        "state": "OK"
       },
       {
         "display_name": "Murkowski (R-AK)",
@@ -771,6 +771,14 @@
         "state": "SC"
       },
       {
+        "display_name": "Shaheen (D-NH)",
+        "first_name": "Jeanne",
+        "id": "S324",
+        "last_name": "Shaheen",
+        "party": "D",
+        "state": "NH"
+      },
+      {
         "display_name": "Sheehy (R-MT)",
         "first_name": "Tim",
         "id": "S435",
@@ -801,14 +809,6 @@
         "last_name": "Tillis",
         "party": "R",
         "state": "NC"
-      },
-      {
-        "display_name": "Tuberville (R-AL)",
-        "first_name": "Tommy",
-        "id": "S412",
-        "last_name": "Tuberville",
-        "party": "R",
-        "state": "AL"
       },
       {
         "display_name": "Wicker (R-MS)",

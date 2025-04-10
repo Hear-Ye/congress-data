@@ -2,23 +2,23 @@
   "category": "cloture",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-04-08T17:56:00-04:00",
+  "date": "2025-04-09T11:30:00-04:00",
   "nomination": {
-    "number": "25-22",
-    "title": "Ronald Johnson, of Florida, to be Ambassador to the United Mexican States"
+    "number": "12-18",
+    "title": "Paul Atkins, of Virginia, to be a Member of the Securities and Exchange Commission for the remainder of the term expiring June 5, 2026"
   },
-  "number": 198,
-  "question": "Motion to Invoke Cloture: Ronald Johnson  to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the United Mexican States: Ronald Johnson, of Florida, to be Ambassador to the United Mexican States",
-  "record_modified": "2025-04-09T15:32:00-04:00",
+  "number": 200,
+  "question": "Motion to Invoke Cloture: Paul Atkins to be a Member of the Securities and Exchange Commission: Paul Atkins, of Virginia, to be a Member of the Securities and Exchange Commission for the remainder of the term expiring June 5, 2026",
+  "record_modified": "2025-04-09T12:30:00-04:00",
   "requires": "1/2",
   "result": "Cloture Motion Agreed to",
-  "result_text": "Cloture Motion Agreed to (52-44)",
+  "result_text": "Cloture Motion Agreed to (51-45)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00198.xml",
-  "subject": "On the Cloture Motion PN25-22",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00200.xml",
+  "subject": "On the Cloture Motion PN12-18",
   "type": "On the Cloture Motion",
-  "updated_at": "2025-04-10T03:12:57-04:00",
-  "vote_id": "s198-119.2025",
+  "updated_at": "2025-04-10T03:12:56-04:00",
+  "vote_id": "s200-119.2025",
   "votes": {
     "Nay": [
       {
@@ -94,6 +94,14 @@
         "state": "NV"
       },
       {
+        "display_name": "Duckworth (D-IL)",
+        "first_name": "Tammy",
+        "id": "S386",
+        "last_name": "Duckworth",
+        "party": "D",
+        "state": "IL"
+      },
+      {
         "display_name": "Durbin (D-IL)",
         "first_name": "Richard",
         "id": "S253",
@@ -118,12 +126,12 @@
         "state": "AZ"
       },
       {
-        "display_name": "Gillibrand (D-NY)",
-        "first_name": "Kirsten",
-        "id": "S331",
-        "last_name": "Gillibrand",
+        "display_name": "Hassan (D-NH)",
+        "first_name": "Maggie",
+        "id": "S388",
+        "last_name": "Hassan",
         "party": "D",
-        "state": "NY"
+        "state": "NH"
       },
       {
         "display_name": "Heinrich (D-NM)",
@@ -270,14 +278,6 @@
         "state": "NV"
       },
       {
-        "display_name": "Sanders (I-VT)",
-        "first_name": "Bernie",
-        "id": "S313",
-        "last_name": "Sanders",
-        "party": "I",
-        "state": "VT"
-      },
-      {
         "display_name": "Schatz (D-HI)",
         "first_name": "Brian",
         "id": "S353",
@@ -372,32 +372,6 @@
         "last_name": "Whitehouse",
         "party": "D",
         "state": "RI"
-      }
-    ],
-    "Not Voting": [
-      {
-        "display_name": "Duckworth (D-IL)",
-        "first_name": "Tammy",
-        "id": "S386",
-        "last_name": "Duckworth",
-        "party": "D",
-        "state": "IL"
-      },
-      {
-        "display_name": "Hassan (D-NH)",
-        "first_name": "Maggie",
-        "id": "S388",
-        "last_name": "Hassan",
-        "party": "D",
-        "state": "NH"
-      },
-      {
-        "display_name": "McCormick (R-PA)",
-        "first_name": "David",
-        "id": "S433",
-        "last_name": "McCormick",
-        "party": "R",
-        "state": "PA"
       },
       {
         "display_name": "Wyden (D-OR)",
@@ -406,6 +380,40 @@
         "last_name": "Wyden",
         "party": "D",
         "state": "OR"
+      }
+    ],
+    "Not Voting": [
+      {
+        "display_name": "Gillibrand (D-NY)",
+        "first_name": "Kirsten",
+        "id": "S331",
+        "last_name": "Gillibrand",
+        "party": "D",
+        "state": "NY"
+      },
+      {
+        "display_name": "Mullin (R-OK)",
+        "first_name": "Markwayne",
+        "id": "S419",
+        "last_name": "Mullin",
+        "party": "R",
+        "state": "OK"
+      },
+      {
+        "display_name": "Sanders (I-VT)",
+        "first_name": "Bernie",
+        "id": "S313",
+        "last_name": "Sanders",
+        "party": "I",
+        "state": "VT"
+      },
+      {
+        "display_name": "Thune (R-SD)",
+        "first_name": "John",
+        "id": "S303",
+        "last_name": "Thune",
+        "party": "R",
+        "state": "SD"
       }
     ],
     "Present": [],
@@ -675,6 +683,14 @@
         "state": "KY"
       },
       {
+        "display_name": "McCormick (R-PA)",
+        "first_name": "David",
+        "id": "S433",
+        "last_name": "McCormick",
+        "party": "R",
+        "state": "PA"
+      },
+      {
         "display_name": "Moody (R-FL)",
         "first_name": "Ashley",
         "id": "S439",
@@ -697,14 +713,6 @@
         "last_name": "Moreno",
         "party": "R",
         "state": "OH"
-      },
-      {
-        "display_name": "Mullin (R-OK)",
-        "first_name": "Markwayne",
-        "id": "S419",
-        "last_name": "Mullin",
-        "party": "R",
-        "state": "OK"
       },
       {
         "display_name": "Murkowski (R-AK)",
@@ -785,14 +793,6 @@
         "last_name": "Sullivan",
         "party": "R",
         "state": "AK"
-      },
-      {
-        "display_name": "Thune (R-SD)",
-        "first_name": "John",
-        "id": "S303",
-        "last_name": "Thune",
-        "party": "R",
-        "state": "SD"
       },
       {
         "display_name": "Tillis (R-NC)",

@@ -1,11 +1,11 @@
-<roll where="senate" session="119" year="2025" roll="198" source="senate.gov"
-  datetime="2025-04-08T17:56:00-04:00" updated="2025-04-10T03:12:57-04:00"
-  aye="52" nay="44" nv="4" present="0">
-  <category>cloture</category>
-  <type>On the Cloture Motion</type>
-  <question>Motion to Invoke Cloture: Ronald Johnson  to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the United Mexican States: Ronald Johnson, of Florida, to be Ambassador to the United Mexican States</question>
+<roll where="senate" session="119" year="2025" roll="201" source="senate.gov"
+  datetime="2025-04-09T12:15:00-04:00" updated="2025-04-10T03:12:56-04:00"
+  aye="53" nay="46" nv="1" present="0">
+  <category>nomination</category>
+  <type>On the Nomination</type>
+  <question>On the Nomination PN25-20: Mike Huckabee, of Arkansas, to be Ambassador to the State of Israel</question>
   <required>1/2</required>
-  <result>Cloture Motion Agreed to</result>
+  <result>Nomination Confirmed</result>
   <option key="+">Yea</option>
   <option key="-">Nay</option>
   <option key="P">Present</option>
@@ -27,6 +27,7 @@
   <voter id="S431" vote="+" value="Yea" state="UT"/>
   <voter id="S375" vote="+" value="Yea" state="MT"/>
   <voter id="S376" vote="+" value="Yea" state="IA"/>
+  <voter id="S418" vote="+" value="Yea" state="PA"/>
   <voter id="S357" vote="+" value="Yea" state="NE"/>
   <voter id="S293" vote="+" value="Yea" state="SC"/>
   <voter id="S153" vote="+" value="Yea" state="IA"/>
@@ -43,10 +44,10 @@
   <voter id="S410" vote="+" value="Yea" state="WY"/>
   <voter id="S411" vote="+" value="Yea" state="KS"/>
   <voter id="S174" vote="+" value="Yea" state="KY"/>
+  <voter id="S433" vote="+" value="Yea" state="PA"/>
   <voter id="S439" vote="+" value="Yea" state="FL"/>
   <voter id="S347" vote="+" value="Yea" state="KS"/>
   <voter id="S434" vote="+" value="Yea" state="OH"/>
-  <voter id="S419" vote="+" value="Yea" state="OK"/>
   <voter id="S288" vote="+" value="Yea" state="AK"/>
   <voter id="S348" vote="+" value="Yea" state="KY"/>
   <voter id="S423" vote="+" value="Yea" state="NE"/>
@@ -71,10 +72,11 @@
   <voter id="S275" vote="-" value="Nay" state="WA"/>
   <voter id="S337" vote="-" value="Nay" state="DE"/>
   <voter id="S385" vote="-" value="Nay" state="NV"/>
+  <voter id="S386" vote="-" value="Nay" state="IL"/>
   <voter id="S253" vote="-" value="Nay" state="IL"/>
-  <voter id="S418" vote="-" value="Nay" state="PA"/>
   <voter id="S432" vote="-" value="Nay" state="AZ"/>
   <voter id="S331" vote="-" value="Nay" state="NY"/>
+  <voter id="S388" vote="-" value="Nay" state="NH"/>
   <voter id="S359" vote="-" value="Nay" state="NM"/>
   <voter id="S408" vote="-" value="Nay" state="CO"/>
   <voter id="S361" vote="-" value="Nay" state="HI"/>
@@ -106,8 +108,6 @@
   <voter id="S366" vote="-" value="Nay" state="MA"/>
   <voter id="S422" vote="-" value="Nay" state="VT"/>
   <voter id="S316" vote="-" value="Nay" state="RI"/>
-  <voter id="S386" vote="0" value="Not Voting" state="IL"/>
-  <voter id="S388" vote="0" value="Not Voting" state="NH"/>
-  <voter id="S433" vote="0" value="Not Voting" state="PA"/>
-  <voter id="S247" vote="0" value="Not Voting" state="OR"/>
+  <voter id="S247" vote="-" value="Nay" state="OR"/>
+  <voter id="S419" vote="0" value="Not Voting" state="OK"/>
 </roll>
