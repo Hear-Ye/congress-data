@@ -4,20 +4,20 @@
   "congress": 119,
   "date": "2025-04-11T01:38:00-04:00",
   "nomination": {
-    "number": "28",
-    "title": "Lt. Gen. John D. Caine (Retired), in the Air Force, to be Major General"
+    "number": "27",
+    "title": "Lt. Gen. John D. Caine (Retired), in the Air Force, to be General"
   },
   "number": 212,
-  "question": "Motion to Invoke Cloture: Lt. Gen. John D. Caine (Retired) to be General and Chairman of the Joint Chiefs of Staff: Lt. Gen. John D. Caine (Retired), in the Air Force, to be Major General",
-  "record_modified": "2025-04-11T02:23:00-04:00",
+  "question": "Motion to Invoke Cloture: Lt. Gen. John D. Caine (Retired) to be General and Chairman of the Joint Chiefs of Staff: Lt. Gen. John D. Caine (Retired), in the Air Force, to be General",
+  "record_modified": "2025-04-14T14:39:00-04:00",
   "requires": "1/2",
   "result": "Cloture Motion Agreed to",
   "result_text": "Cloture Motion Agreed to (60-25)",
   "session": "2025",
   "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00212.xml",
-  "subject": "On the Cloture Motion PN28",
+  "subject": "On the Cloture Motion PN27",
   "type": "On the Cloture Motion",
-  "updated_at": "2025-04-12T03:10:27-04:00",
+  "updated_at": "2025-04-15T03:16:23-04:00",
   "vote_id": "s212-119.2025",
   "votes": {
     "Nay": [

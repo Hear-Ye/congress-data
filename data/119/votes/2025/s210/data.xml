@@ -1,9 +1,9 @@
 <roll where="senate" session="119" year="2025" roll="210" source="senate.gov"
-  datetime="2025-04-11T01:00:00-04:00" updated="2025-04-12T03:10:28-04:00"
+  datetime="2025-04-11T01:00:00-04:00" updated="2025-04-15T03:16:24-04:00"
   aye="59" nay="25" nv="16" present="0">
   <category>cloture</category>
   <type>On the Cloture Motion</type>
-  <question>Motion to Invoke Cloture: Lt. Gen. John D. Caine (Retired) to be Major General in the Regular Air Force: Lt. Gen. John D. Caine (Retired), in the Air Force, to be General</question>
+  <question>Motion to Invoke Cloture: Lt. Gen. John D. Caine (Retired) to be Major General in the Regular Air Force: Lt. Gen. John D. Caine (Retired), in the Air Force, to be Major General</question>
   <required>1/2</required>
   <result>Cloture Motion Agreed to</result>
   <option key="+">Yea</option>

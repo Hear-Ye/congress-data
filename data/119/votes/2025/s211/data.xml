@@ -1,9 +1,9 @@
 <roll where="senate" session="119" year="2025" roll="211" source="senate.gov"
-  datetime="2025-04-11T01:25:00-04:00" updated="2025-04-12T03:10:27-04:00"
+  datetime="2025-04-11T01:25:00-04:00" updated="2025-04-15T03:16:23-04:00"
   aye="59" nay="26" nv="15" present="0">
   <category>nomination</category>
   <type>On the Nomination</type>
-  <question>On the Nomination PN27: Lt. Gen. John D. Caine (Retired), in the Air Force, to be General</question>
+  <question>On the Nomination PN28: Lt. Gen. John D. Caine (Retired), in the Air Force, to be Major General</question>
   <required>1/2</required>
   <result>Nomination Confirmed</result>
   <option key="+">Yea</option>
