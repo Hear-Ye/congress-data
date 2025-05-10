@@ -1,11 +1,11 @@
 <roll where="senate" session="119" year="2025" roll="240" source="senate.gov"
-  datetime="2025-05-08T13:51:00-04:00" updated="2025-05-09T03:27:32-04:00"
+  datetime="2025-05-08T13:51:00-04:00" updated="2025-05-10T03:16:10-04:00"
   aye="48" nay="49" nv="3" present="0">
   <category>cloture</category>
   <type>On the Cloture Motion</type>
   <question>Motion to Invoke Cloture: Motion to proceed to S. 1582</question>
   <required>3/5</required>
-  <result>Cloture Motion Rejected</result>
+  <result>Cloture on the Motion to Proceed Rejected</result>
   <bill session="119" type="s" number="1582"/>
   <option key="+">Yea</option>
   <option key="-">Nay</option>
