@@ -1,11 +1,11 @@
-<roll where="senate" session="119" year="2025" roll="243" source="senate.gov"
-  datetime="2025-05-12T20:38:00-04:00" updated="2025-05-14T03:28:16-04:00"
-  aye="52" nay="45" nv="3" present="0">
-  <category>cloture</category>
-  <type>On the Cloture Motion</type>
-  <question>Motion to Invoke Cloture: Reed Rubinstein to be Legal Adviser of the Department of State: Reed Rubinstein, of Maryland, to be Legal Adviser of the Department of State</question>
+<roll where="senate" session="119" year="2025" roll="244" source="senate.gov"
+  datetime="2025-05-13T11:27:00-04:00" updated="2025-05-14T03:28:16-04:00"
+  aye="52" nay="46" nv="2" present="0">
+  <category>nomination</category>
+  <type>On the Nomination</type>
+  <question>On the Nomination PN25-50: Reed Rubinstein, of Maryland, to be Legal Adviser of the Department of State</question>
   <required>1/2</required>
-  <result>Cloture Motion Agreed to</result>
+  <result>Nomination Confirmed</result>
   <option key="+">Yea</option>
   <option key="-">Nay</option>
   <option key="P">Present</option>
@@ -67,7 +67,6 @@
   <voter id="S330" vote="-" value="Nay" state="CO"/>
   <voter id="S341" vote="-" value="Nay" state="CT"/>
   <voter id="S430" vote="-" value="Nay" state="DE"/>
-  <voter id="S370" vote="-" value="Nay" state="NJ"/>
   <voter id="S275" vote="-" value="Nay" state="WA"/>
   <voter id="S337" vote="-" value="Nay" state="DE"/>
   <voter id="S385" vote="-" value="Nay" state="NV"/>
@@ -75,6 +74,7 @@
   <voter id="S253" vote="-" value="Nay" state="IL"/>
   <voter id="S418" vote="-" value="Nay" state="PA"/>
   <voter id="S432" vote="-" value="Nay" state="AZ"/>
+  <voter id="S331" vote="-" value="Nay" state="NY"/>
   <voter id="S388" vote="-" value="Nay" state="NH"/>
   <voter id="S359" vote="-" value="Nay" state="NM"/>
   <voter id="S408" vote="-" value="Nay" state="CO"/>
@@ -87,6 +87,7 @@
   <voter id="S409" vote="-" value="Nay" state="NM"/>
   <voter id="S369" vote="-" value="Nay" state="MA"/>
   <voter id="S322" vote="-" value="Nay" state="OR"/>
+  <voter id="S364" vote="-" value="Nay" state="CT"/>
   <voter id="S229" vote="-" value="Nay" state="WA"/>
   <voter id="S414" vote="-" value="Nay" state="GA"/>
   <voter id="S413" vote="-" value="Nay" state="CA"/>
@@ -107,7 +108,6 @@
   <voter id="S422" vote="-" value="Nay" state="VT"/>
   <voter id="S316" vote="-" value="Nay" state="RI"/>
   <voter id="S247" vote="-" value="Nay" state="OR"/>
-  <voter id="S331" vote="0" value="Not Voting" state="NY"/>
+  <voter id="S370" vote="0" value="Not Voting" state="NJ"/>
   <voter id="S293" vote="0" value="Not Voting" state="SC"/>
-  <voter id="S364" vote="0" value="Not Voting" state="CT"/>
 </roll>

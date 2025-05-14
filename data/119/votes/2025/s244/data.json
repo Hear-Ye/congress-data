@@ -1,24 +1,24 @@
 {
-  "category": "cloture",
+  "category": "nomination",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-05-12T20:38:00-04:00",
+  "date": "2025-05-13T11:27:00-04:00",
   "nomination": {
     "number": "25-50",
     "title": "Reed Rubinstein, of Maryland, to be Legal Adviser of the Department of State"
   },
-  "number": 243,
-  "question": "Motion to Invoke Cloture: Reed Rubinstein to be Legal Adviser of the Department of State: Reed Rubinstein, of Maryland, to be Legal Adviser of the Department of State",
-  "record_modified": "2025-05-13T12:53:00-04:00",
+  "number": 244,
+  "question": "On the Nomination PN25-50: Reed Rubinstein, of Maryland, to be Legal Adviser of the Department of State",
+  "record_modified": "2025-05-13T13:01:00-04:00",
   "requires": "1/2",
-  "result": "Cloture Motion Agreed to",
-  "result_text": "Cloture Motion Agreed to (52-45)",
+  "result": "Nomination Confirmed",
+  "result_text": "Nomination Confirmed (52-46)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00243.xml",
-  "subject": "On the Cloture Motion PN25-50",
-  "type": "On the Cloture Motion",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00244.xml",
+  "subject": "Confirmation: Reed Rubinstein, of Maryland, to be Legal Adviser of the Department of State",
+  "type": "On the Nomination",
   "updated_at": "2025-05-14T03:28:16-04:00",
-  "vote_id": "s243-119.2025",
+  "vote_id": "s244-119.2025",
   "votes": {
     "Nay": [
       {
@@ -60,14 +60,6 @@
         "last_name": "Blunt Rochester",
         "party": "D",
         "state": "DE"
-      },
-      {
-        "display_name": "Booker (D-NJ)",
-        "first_name": "Cory",
-        "id": "S370",
-        "last_name": "Booker",
-        "party": "D",
-        "state": "NJ"
       },
       {
         "display_name": "Cantwell (D-WA)",
@@ -124,6 +116,14 @@
         "last_name": "Gallego",
         "party": "D",
         "state": "AZ"
+      },
+      {
+        "display_name": "Gillibrand (D-NY)",
+        "first_name": "Kirsten",
+        "id": "S331",
+        "last_name": "Gillibrand",
+        "party": "D",
+        "state": "NY"
       },
       {
         "display_name": "Hassan (D-NH)",
@@ -220,6 +220,14 @@
         "last_name": "Merkley",
         "party": "D",
         "state": "OR"
+      },
+      {
+        "display_name": "Murphy (D-CT)",
+        "first_name": "Christopher",
+        "id": "S364",
+        "last_name": "Murphy",
+        "party": "D",
+        "state": "CT"
       },
       {
         "display_name": "Murray (D-WA)",
@@ -384,12 +392,12 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Gillibrand (D-NY)",
-        "first_name": "Kirsten",
-        "id": "S331",
-        "last_name": "Gillibrand",
+        "display_name": "Booker (D-NJ)",
+        "first_name": "Cory",
+        "id": "S370",
+        "last_name": "Booker",
         "party": "D",
-        "state": "NY"
+        "state": "NJ"
       },
       {
         "display_name": "Graham (R-SC)",
@@ -398,14 +406,6 @@
         "last_name": "Graham",
         "party": "R",
         "state": "SC"
-      },
-      {
-        "display_name": "Murphy (D-CT)",
-        "first_name": "Christopher",
-        "id": "S364",
-        "last_name": "Murphy",
-        "party": "D",
-        "state": "CT"
       }
     ],
     "Present": [],

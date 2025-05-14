@@ -1,24 +1,24 @@
 {
-  "category": "cloture",
+  "category": "nomination",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-05-12T20:38:00-04:00",
+  "date": "2025-05-13T17:15:00-04:00",
   "nomination": {
-    "number": "25-50",
-    "title": "Reed Rubinstein, of Maryland, to be Legal Adviser of the Department of State"
+    "number": "13-4",
+    "title": "James Danly, of Tennessee, to be Deputy Secretary of Energy"
   },
-  "number": 243,
-  "question": "Motion to Invoke Cloture: Reed Rubinstein to be Legal Adviser of the Department of State: Reed Rubinstein, of Maryland, to be Legal Adviser of the Department of State",
-  "record_modified": "2025-05-13T12:53:00-04:00",
+  "number": 248,
+  "question": "On the Nomination PN13-4: James Danly, of Tennessee, to be Deputy Secretary of Energy",
+  "record_modified": "2025-05-13T18:16:00-04:00",
   "requires": "1/2",
-  "result": "Cloture Motion Agreed to",
-  "result_text": "Cloture Motion Agreed to (52-45)",
+  "result": "Nomination Confirmed",
+  "result_text": "Nomination Confirmed (52-44)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00243.xml",
-  "subject": "On the Cloture Motion PN25-50",
-  "type": "On the Cloture Motion",
-  "updated_at": "2025-05-14T03:28:16-04:00",
-  "vote_id": "s243-119.2025",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00248.xml",
+  "subject": "Confirmation: James Danly, of Tennessee, to be Deputy Secretary of Energy",
+  "type": "On the Nomination",
+  "updated_at": "2025-05-14T03:28:14-04:00",
+  "vote_id": "s248-119.2025",
   "votes": {
     "Nay": [
       {
@@ -126,20 +126,20 @@
         "state": "AZ"
       },
       {
+        "display_name": "Gillibrand (D-NY)",
+        "first_name": "Kirsten",
+        "id": "S331",
+        "last_name": "Gillibrand",
+        "party": "D",
+        "state": "NY"
+      },
+      {
         "display_name": "Hassan (D-NH)",
         "first_name": "Maggie",
         "id": "S388",
         "last_name": "Hassan",
         "party": "D",
         "state": "NH"
-      },
-      {
-        "display_name": "Heinrich (D-NM)",
-        "first_name": "Martin",
-        "id": "S359",
-        "last_name": "Heinrich",
-        "party": "D",
-        "state": "NM"
       },
       {
         "display_name": "Hickenlooper (D-CO)",
@@ -182,14 +182,6 @@
         "state": "NJ"
       },
       {
-        "display_name": "King (I-ME)",
-        "first_name": "Angus",
-        "id": "S363",
-        "last_name": "King",
-        "party": "I",
-        "state": "ME"
-      },
-      {
         "display_name": "Klobuchar (D-MN)",
         "first_name": "Amy",
         "id": "S311",
@@ -220,6 +212,14 @@
         "last_name": "Merkley",
         "party": "D",
         "state": "OR"
+      },
+      {
+        "display_name": "Murphy (D-CT)",
+        "first_name": "Christopher",
+        "id": "S364",
+        "last_name": "Murphy",
+        "party": "D",
+        "state": "CT"
       },
       {
         "display_name": "Murray (D-WA)",
@@ -366,14 +366,6 @@
         "state": "VT"
       },
       {
-        "display_name": "Whitehouse (D-RI)",
-        "first_name": "Sheldon",
-        "id": "S316",
-        "last_name": "Whitehouse",
-        "party": "D",
-        "state": "RI"
-      },
-      {
         "display_name": "Wyden (D-OR)",
         "first_name": "Ron",
         "id": "S247",
@@ -384,14 +376,6 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Gillibrand (D-NY)",
-        "first_name": "Kirsten",
-        "id": "S331",
-        "last_name": "Gillibrand",
-        "party": "D",
-        "state": "NY"
-      },
-      {
         "display_name": "Graham (R-SC)",
         "first_name": "Lindsey",
         "id": "S293",
@@ -400,12 +384,28 @@
         "state": "SC"
       },
       {
-        "display_name": "Murphy (D-CT)",
-        "first_name": "Christopher",
-        "id": "S364",
-        "last_name": "Murphy",
+        "display_name": "Hagerty (R-TN)",
+        "first_name": "Bill",
+        "id": "S407",
+        "last_name": "Hagerty",
+        "party": "R",
+        "state": "TN"
+      },
+      {
+        "display_name": "Heinrich (D-NM)",
+        "first_name": "Martin",
+        "id": "S359",
+        "last_name": "Heinrich",
         "party": "D",
-        "state": "CT"
+        "state": "NM"
+      },
+      {
+        "display_name": "Whitehouse (D-RI)",
+        "first_name": "Sheldon",
+        "id": "S316",
+        "last_name": "Whitehouse",
+        "party": "D",
+        "state": "RI"
       }
     ],
     "Present": [],
@@ -563,14 +563,6 @@
         "state": "IA"
       },
       {
-        "display_name": "Hagerty (R-TN)",
-        "first_name": "Bill",
-        "id": "S407",
-        "last_name": "Hagerty",
-        "party": "R",
-        "state": "TN"
-      },
-      {
         "display_name": "Hawley (R-MO)",
         "first_name": "Josh",
         "id": "S399",
@@ -625,6 +617,14 @@
         "last_name": "Kennedy",
         "party": "R",
         "state": "LA"
+      },
+      {
+        "display_name": "King (I-ME)",
+        "first_name": "Angus",
+        "id": "S363",
+        "last_name": "King",
+        "party": "I",
+        "state": "ME"
       },
       {
         "display_name": "Lankford (R-OK)",

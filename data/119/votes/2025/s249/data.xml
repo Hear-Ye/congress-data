@@ -1,9 +1,9 @@
-<roll where="senate" session="119" year="2025" roll="243" source="senate.gov"
-  datetime="2025-05-12T20:38:00-04:00" updated="2025-05-14T03:28:16-04:00"
-  aye="52" nay="45" nv="3" present="0">
+<roll where="senate" session="119" year="2025" roll="249" source="senate.gov"
+  datetime="2025-05-13T17:52:00-04:00" updated="2025-05-14T03:28:13-04:00"
+  aye="57" nay="41" nv="2" present="0">
   <category>cloture</category>
   <type>On the Cloture Motion</type>
-  <question>Motion to Invoke Cloture: Reed Rubinstein to be Legal Adviser of the Department of State: Reed Rubinstein, of Maryland, to be Legal Adviser of the Department of State</question>
+  <question>Motion to Invoke Cloture: Katharine MacGregor to be Deputy Secretary of the Interior: Katharine MacGregor, of Florida, to be Deputy Secretary of the Interior</question>
   <required>1/2</required>
   <result>Cloture Motion Agreed to</result>
   <option key="+">Yea</option>
@@ -27,16 +27,21 @@
   <voter id="S431" vote="+" value="Yea" state="UT"/>
   <voter id="S375" vote="+" value="Yea" state="MT"/>
   <voter id="S376" vote="+" value="Yea" state="IA"/>
+  <voter id="S418" vote="+" value="Yea" state="PA"/>
   <voter id="S357" vote="+" value="Yea" state="NE"/>
+  <voter id="S432" vote="+" value="Yea" state="AZ"/>
   <voter id="S153" vote="+" value="Yea" state="IA"/>
   <voter id="S407" vote="+" value="Yea" state="TN"/>
   <voter id="S399" vote="+" value="Yea" state="MO"/>
+  <voter id="S359" vote="+" value="Yea" state="NM"/>
   <voter id="S344" vote="+" value="Yea" state="ND"/>
   <voter id="S438" vote="+" value="Yea" state="OH"/>
   <voter id="S395" vote="+" value="Yea" state="MS"/>
   <voter id="S345" vote="+" value="Yea" state="WI"/>
   <voter id="S437" vote="+" value="Yea" state="WV"/>
+  <voter id="S406" vote="+" value="Yea" state="AZ"/>
   <voter id="S389" vote="+" value="Yea" state="LA"/>
+  <voter id="S363" vote="+" value="Yea" state="ME"/>
   <voter id="S378" vote="+" value="Yea" state="OK"/>
   <voter id="S346" vote="+" value="Yea" state="UT"/>
   <voter id="S410" vote="+" value="Yea" state="WY"/>
@@ -73,20 +78,17 @@
   <voter id="S385" vote="-" value="Nay" state="NV"/>
   <voter id="S386" vote="-" value="Nay" state="IL"/>
   <voter id="S253" vote="-" value="Nay" state="IL"/>
-  <voter id="S418" vote="-" value="Nay" state="PA"/>
-  <voter id="S432" vote="-" value="Nay" state="AZ"/>
+  <voter id="S331" vote="-" value="Nay" state="NY"/>
   <voter id="S388" vote="-" value="Nay" state="NH"/>
-  <voter id="S359" vote="-" value="Nay" state="NM"/>
   <voter id="S408" vote="-" value="Nay" state="CO"/>
   <voter id="S361" vote="-" value="Nay" state="HI"/>
   <voter id="S362" vote="-" value="Nay" state="VA"/>
-  <voter id="S406" vote="-" value="Nay" state="AZ"/>
   <voter id="S426" vote="-" value="Nay" state="NJ"/>
-  <voter id="S363" vote="-" value="Nay" state="ME"/>
   <voter id="S311" vote="-" value="Nay" state="MN"/>
   <voter id="S409" vote="-" value="Nay" state="NM"/>
   <voter id="S369" vote="-" value="Nay" state="MA"/>
   <voter id="S322" vote="-" value="Nay" state="OR"/>
+  <voter id="S364" vote="-" value="Nay" state="CT"/>
   <voter id="S229" vote="-" value="Nay" state="WA"/>
   <voter id="S414" vote="-" value="Nay" state="GA"/>
   <voter id="S413" vote="-" value="Nay" state="CA"/>
@@ -101,13 +103,11 @@
   <voter id="S436" vote="-" value="Nay" state="MI"/>
   <voter id="S394" vote="-" value="Nay" state="MN"/>
   <voter id="S390" vote="-" value="Nay" state="MD"/>
-  <voter id="S327" vote="-" value="Nay" state="VA"/>
   <voter id="S415" vote="-" value="Nay" state="GA"/>
   <voter id="S366" vote="-" value="Nay" state="MA"/>
   <voter id="S422" vote="-" value="Nay" state="VT"/>
   <voter id="S316" vote="-" value="Nay" state="RI"/>
   <voter id="S247" vote="-" value="Nay" state="OR"/>
-  <voter id="S331" vote="0" value="Not Voting" state="NY"/>
   <voter id="S293" vote="0" value="Not Voting" state="SC"/>
-  <voter id="S364" vote="0" value="Not Voting" state="CT"/>
+  <voter id="S327" vote="0" value="Not Voting" state="VA"/>
 </roll>

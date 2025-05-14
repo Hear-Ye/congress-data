@@ -2,23 +2,23 @@
   "category": "cloture",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-05-12T20:38:00-04:00",
+  "date": "2025-05-13T17:52:00-04:00",
   "nomination": {
-    "number": "25-50",
-    "title": "Reed Rubinstein, of Maryland, to be Legal Adviser of the Department of State"
+    "number": "13-10",
+    "title": "Katharine MacGregor, of Florida, to be Deputy Secretary of the Interior"
   },
-  "number": 243,
-  "question": "Motion to Invoke Cloture: Reed Rubinstein to be Legal Adviser of the Department of State: Reed Rubinstein, of Maryland, to be Legal Adviser of the Department of State",
-  "record_modified": "2025-05-13T12:53:00-04:00",
+  "number": 249,
+  "question": "Motion to Invoke Cloture: Katharine MacGregor to be Deputy Secretary of the Interior: Katharine MacGregor, of Florida, to be Deputy Secretary of the Interior",
+  "record_modified": "2025-05-13T18:36:00-04:00",
   "requires": "1/2",
   "result": "Cloture Motion Agreed to",
-  "result_text": "Cloture Motion Agreed to (52-45)",
+  "result_text": "Cloture Motion Agreed to (57-41)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00243.xml",
-  "subject": "On the Cloture Motion PN25-50",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00249.xml",
+  "subject": "On the Cloture Motion PN13-10",
   "type": "On the Cloture Motion",
-  "updated_at": "2025-05-14T03:28:16-04:00",
-  "vote_id": "s243-119.2025",
+  "updated_at": "2025-05-14T03:28:13-04:00",
+  "vote_id": "s249-119.2025",
   "votes": {
     "Nay": [
       {
@@ -110,20 +110,12 @@
         "state": "IL"
       },
       {
-        "display_name": "Fetterman (D-PA)",
-        "first_name": "John",
-        "id": "S418",
-        "last_name": "Fetterman",
+        "display_name": "Gillibrand (D-NY)",
+        "first_name": "Kirsten",
+        "id": "S331",
+        "last_name": "Gillibrand",
         "party": "D",
-        "state": "PA"
-      },
-      {
-        "display_name": "Gallego (D-AZ)",
-        "first_name": "Ruben",
-        "id": "S432",
-        "last_name": "Gallego",
-        "party": "D",
-        "state": "AZ"
+        "state": "NY"
       },
       {
         "display_name": "Hassan (D-NH)",
@@ -132,14 +124,6 @@
         "last_name": "Hassan",
         "party": "D",
         "state": "NH"
-      },
-      {
-        "display_name": "Heinrich (D-NM)",
-        "first_name": "Martin",
-        "id": "S359",
-        "last_name": "Heinrich",
-        "party": "D",
-        "state": "NM"
       },
       {
         "display_name": "Hickenlooper (D-CO)",
@@ -166,28 +150,12 @@
         "state": "VA"
       },
       {
-        "display_name": "Kelly (D-AZ)",
-        "first_name": "Mark",
-        "id": "S406",
-        "last_name": "Kelly",
-        "party": "D",
-        "state": "AZ"
-      },
-      {
         "display_name": "Kim (D-NJ)",
         "first_name": "Andy",
         "id": "S426",
         "last_name": "Kim",
         "party": "D",
         "state": "NJ"
-      },
-      {
-        "display_name": "King (I-ME)",
-        "first_name": "Angus",
-        "id": "S363",
-        "last_name": "King",
-        "party": "I",
-        "state": "ME"
       },
       {
         "display_name": "Klobuchar (D-MN)",
@@ -220,6 +188,14 @@
         "last_name": "Merkley",
         "party": "D",
         "state": "OR"
+      },
+      {
+        "display_name": "Murphy (D-CT)",
+        "first_name": "Christopher",
+        "id": "S364",
+        "last_name": "Murphy",
+        "party": "D",
+        "state": "CT"
       },
       {
         "display_name": "Murray (D-WA)",
@@ -334,14 +310,6 @@
         "state": "MD"
       },
       {
-        "display_name": "Warner (D-VA)",
-        "first_name": "Mark",
-        "id": "S327",
-        "last_name": "Warner",
-        "party": "D",
-        "state": "VA"
-      },
-      {
         "display_name": "Warnock (D-GA)",
         "first_name": "Raphael",
         "id": "S415",
@@ -384,14 +352,6 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Gillibrand (D-NY)",
-        "first_name": "Kirsten",
-        "id": "S331",
-        "last_name": "Gillibrand",
-        "party": "D",
-        "state": "NY"
-      },
-      {
         "display_name": "Graham (R-SC)",
         "first_name": "Lindsey",
         "id": "S293",
@@ -400,12 +360,12 @@
         "state": "SC"
       },
       {
-        "display_name": "Murphy (D-CT)",
-        "first_name": "Christopher",
-        "id": "S364",
-        "last_name": "Murphy",
+        "display_name": "Warner (D-VA)",
+        "first_name": "Mark",
+        "id": "S327",
+        "last_name": "Warner",
         "party": "D",
-        "state": "CT"
+        "state": "VA"
       }
     ],
     "Present": [],
@@ -547,12 +507,28 @@
         "state": "IA"
       },
       {
+        "display_name": "Fetterman (D-PA)",
+        "first_name": "John",
+        "id": "S418",
+        "last_name": "Fetterman",
+        "party": "D",
+        "state": "PA"
+      },
+      {
         "display_name": "Fischer (R-NE)",
         "first_name": "Deb",
         "id": "S357",
         "last_name": "Fischer",
         "party": "R",
         "state": "NE"
+      },
+      {
+        "display_name": "Gallego (D-AZ)",
+        "first_name": "Ruben",
+        "id": "S432",
+        "last_name": "Gallego",
+        "party": "D",
+        "state": "AZ"
       },
       {
         "display_name": "Grassley (R-IA)",
@@ -577,6 +553,14 @@
         "last_name": "Hawley",
         "party": "R",
         "state": "MO"
+      },
+      {
+        "display_name": "Heinrich (D-NM)",
+        "first_name": "Martin",
+        "id": "S359",
+        "last_name": "Heinrich",
+        "party": "D",
+        "state": "NM"
       },
       {
         "display_name": "Hoeven (R-ND)",
@@ -619,12 +603,28 @@
         "state": "WV"
       },
       {
+        "display_name": "Kelly (D-AZ)",
+        "first_name": "Mark",
+        "id": "S406",
+        "last_name": "Kelly",
+        "party": "D",
+        "state": "AZ"
+      },
+      {
         "display_name": "Kennedy (R-LA)",
         "first_name": "John",
         "id": "S389",
         "last_name": "Kennedy",
         "party": "R",
         "state": "LA"
+      },
+      {
+        "display_name": "King (I-ME)",
+        "first_name": "Angus",
+        "id": "S363",
+        "last_name": "King",
+        "party": "I",
+        "state": "ME"
       },
       {
         "display_name": "Lankford (R-OK)",
