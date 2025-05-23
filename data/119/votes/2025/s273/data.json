@@ -1,26 +1,36 @@
 {
-  "category": "nomination",
+  "bill": {
+    "congress": 119,
+    "number": 55,
+    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the National Highway Traffic Safety Administration relating to \"Federal Motor Vehicle Safety Standards; Fuel System Integrity of Hydrogen Vehicles; Compressed Hydrogen Storage System Integrity; Incorporation by Reference\".",
+    "type": "sjres"
+  },
+  "category": "procedural",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-05-14T20:30:00-04:00",
-  "nomination": {
-    "number": "26-46",
-    "title": "Eric Matthew Ueland, of Virginia, to be Deputy Director for Management, Office of Management and Budget"
-  },
-  "number": 256,
-  "question": "On the Nomination PN26-46: Eric Matthew Ueland, of Virginia, to be Deputy Director for Management, Office of Management and Budget",
-  "record_modified": "2025-05-22T13:47:00-04:00",
+  "date": "2025-05-21T22:32:00-04:00",
+  "number": 273,
+  "question": "On the Point of Order S.J.Res. 55",
+  "record_modified": "2025-05-21T23:03:00-04:00",
   "requires": "1/2",
-  "result": "Nomination Confirmed",
-  "result_text": "Nomination Confirmed (52-45)",
+  "result": "Point of Order Sustained",
+  "result_text": "Point of Order Sustained (51-46)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00256.xml",
-  "subject": "Confirmation: Eric Matthew Ueland, of Virginia, to be Deputy Director for Management, Office of Management and Budget",
-  "type": "On the Nomination",
-  "updated_at": "2025-05-23T03:29:14-04:00",
-  "vote_id": "s256-119.2025",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00273.xml",
+  "subject": "Shall Points of Order be in Order under the Congressional Review Act?",
+  "type": "On the Point of Order S.J.Res. 55",
+  "updated_at": "2025-05-23T03:29:05-04:00",
+  "vote_id": "s273-119.2025",
   "votes": {
     "Nay": [
+      {
+        "display_name": "Alsobrooks (D-MD)",
+        "first_name": "Angela",
+        "id": "S428",
+        "last_name": "Alsobrooks",
+        "party": "D",
+        "state": "MD"
+      },
       {
         "display_name": "Baldwin (D-WI)",
         "first_name": "Tammy",
@@ -110,6 +120,14 @@
         "state": "PA"
       },
       {
+        "display_name": "Gallego (D-AZ)",
+        "first_name": "Ruben",
+        "id": "S432",
+        "last_name": "Gallego",
+        "party": "D",
+        "state": "AZ"
+      },
+      {
         "display_name": "Gillibrand (D-NY)",
         "first_name": "Kirsten",
         "id": "S331",
@@ -124,14 +142,6 @@
         "last_name": "Hassan",
         "party": "D",
         "state": "NH"
-      },
-      {
-        "display_name": "Heinrich (D-NM)",
-        "first_name": "Martin",
-        "id": "S359",
-        "last_name": "Heinrich",
-        "party": "D",
-        "state": "NM"
       },
       {
         "display_name": "Hickenlooper (D-CO)",
@@ -384,28 +394,28 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Alsobrooks (D-MD)",
-        "first_name": "Angela",
-        "id": "S428",
-        "last_name": "Alsobrooks",
-        "party": "D",
-        "state": "MD"
-      },
-      {
-        "display_name": "Gallego (D-AZ)",
-        "first_name": "Ruben",
-        "id": "S432",
-        "last_name": "Gallego",
-        "party": "D",
-        "state": "AZ"
-      },
-      {
-        "display_name": "Graham (R-SC)",
-        "first_name": "Lindsey",
-        "id": "S293",
-        "last_name": "Graham",
+        "display_name": "Blackburn (R-TN)",
+        "first_name": "Marsha",
+        "id": "S396",
+        "last_name": "Blackburn",
         "party": "R",
-        "state": "SC"
+        "state": "TN"
+      },
+      {
+        "display_name": "Budd (R-NC)",
+        "first_name": "Ted",
+        "id": "S417",
+        "last_name": "Budd",
+        "party": "R",
+        "state": "NC"
+      },
+      {
+        "display_name": "Heinrich (D-NM)",
+        "first_name": "Martin",
+        "id": "S359",
+        "last_name": "Heinrich",
+        "party": "D",
+        "state": "NM"
       }
     ],
     "Present": [],
@@ -427,14 +437,6 @@
         "state": "WY"
       },
       {
-        "display_name": "Blackburn (R-TN)",
-        "first_name": "Marsha",
-        "id": "S396",
-        "last_name": "Blackburn",
-        "party": "R",
-        "state": "TN"
-      },
-      {
         "display_name": "Boozman (R-AR)",
         "first_name": "John",
         "id": "S343",
@@ -449,14 +451,6 @@
         "last_name": "Britt",
         "party": "R",
         "state": "AL"
-      },
-      {
-        "display_name": "Budd (R-NC)",
-        "first_name": "Ted",
-        "id": "S417",
-        "last_name": "Budd",
-        "party": "R",
-        "state": "NC"
       },
       {
         "display_name": "Capito (R-WV)",
@@ -553,6 +547,14 @@
         "last_name": "Fischer",
         "party": "R",
         "state": "NE"
+      },
+      {
+        "display_name": "Graham (R-SC)",
+        "first_name": "Lindsey",
+        "id": "S293",
+        "last_name": "Graham",
+        "party": "R",
+        "state": "SC"
       },
       {
         "display_name": "Grassley (R-IA)",
