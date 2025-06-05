@@ -2,23 +2,23 @@
   "category": "nomination",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-06-03T14:15:00-04:00",
+  "date": "2025-06-04T18:42:00-04:00",
   "nomination": {
-    "number": "25-19",
-    "title": "Allison Hooker, of Georgia, to be an Under Secretary of State (Political Affairs)"
+    "number": "55-47",
+    "title": "Edward Walsh, of New Jersey, to be Ambassador to Ireland"
   },
-  "number": 285,
-  "question": "On the Nomination PN25-19: Allison Hooker, of Georgia, to be an Under Secretary of State (Political Affairs)",
-  "record_modified": "2025-06-04T13:32:00-04:00",
+  "number": 292,
+  "question": "On the Nomination PN55-47: Edward Walsh, of New Jersey, to be Ambassador to Ireland",
+  "record_modified": "2025-06-04T19:24:00-04:00",
   "requires": "1/2",
   "result": "Nomination Confirmed",
-  "result_text": "Nomination Confirmed (59-36)",
+  "result_text": "Nomination Confirmed (57-38)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00285.xml",
-  "subject": "Confirmation: Allison Hooker, of Georgia, to be an Under Secretary of State (Political Affairs)",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00292.xml",
+  "subject": "Confirmation: Edward Walsh, of New Jersey, to be Ambassador of the United States of America to Ireland",
   "type": "On the Nomination",
-  "updated_at": "2025-06-05T03:33:40-04:00",
-  "vote_id": "s285-119.2025",
+  "updated_at": "2025-06-05T03:33:37-04:00",
+  "vote_id": "s292-119.2025",
   "votes": {
     "Nay": [
       {
@@ -78,6 +78,14 @@
         "state": "WA"
       },
       {
+        "display_name": "Coons (D-DE)",
+        "first_name": "Christopher",
+        "id": "S337",
+        "last_name": "Coons",
+        "party": "D",
+        "state": "DE"
+      },
+      {
         "display_name": "Cortez Masto (D-NV)",
         "first_name": "Catherine",
         "id": "S385",
@@ -102,12 +110,28 @@
         "state": "IL"
       },
       {
+        "display_name": "Gallego (D-AZ)",
+        "first_name": "Ruben",
+        "id": "S432",
+        "last_name": "Gallego",
+        "party": "D",
+        "state": "AZ"
+      },
+      {
         "display_name": "Gillibrand (D-NY)",
         "first_name": "Kirsten",
         "id": "S331",
         "last_name": "Gillibrand",
         "party": "D",
         "state": "NY"
+      },
+      {
+        "display_name": "Hassan (D-NH)",
+        "first_name": "Maggie",
+        "id": "S388",
+        "last_name": "Hassan",
+        "party": "D",
+        "state": "NH"
       },
       {
         "display_name": "Heinrich (D-NM)",
@@ -134,20 +158,20 @@
         "state": "HI"
       },
       {
+        "display_name": "Kelly (D-AZ)",
+        "first_name": "Mark",
+        "id": "S406",
+        "last_name": "Kelly",
+        "party": "D",
+        "state": "AZ"
+      },
+      {
         "display_name": "Kim (D-NJ)",
         "first_name": "Andy",
         "id": "S426",
         "last_name": "Kim",
         "party": "D",
         "state": "NJ"
-      },
-      {
-        "display_name": "Klobuchar (D-MN)",
-        "first_name": "Amy",
-        "id": "S311",
-        "last_name": "Klobuchar",
-        "party": "D",
-        "state": "MN"
       },
       {
         "display_name": "Lujan (D-NM)",
@@ -206,14 +230,6 @@
         "state": "MI"
       },
       {
-        "display_name": "Reed (D-RI)",
-        "first_name": "John",
-        "id": "S259",
-        "last_name": "Reed",
-        "party": "D",
-        "state": "RI"
-      },
-      {
         "display_name": "Rosen (D-NV)",
         "first_name": "Jacky",
         "id": "S402",
@@ -254,6 +270,14 @@
         "state": "NY"
       },
       {
+        "display_name": "Slotkin (D-MI)",
+        "first_name": "Elissa",
+        "id": "S436",
+        "last_name": "Slotkin",
+        "party": "D",
+        "state": "MI"
+      },
+      {
         "display_name": "Smith (D-MN)",
         "first_name": "Tina",
         "id": "S394",
@@ -286,14 +310,6 @@
         "state": "MA"
       },
       {
-        "display_name": "Welch (D-VT)",
-        "first_name": "Peter",
-        "id": "S422",
-        "last_name": "Welch",
-        "party": "D",
-        "state": "VT"
-      },
-      {
         "display_name": "Whitehouse (D-RI)",
         "first_name": "Sheldon",
         "id": "S316",
@@ -312,28 +328,28 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Daines (R-MT)",
-        "first_name": "Steve",
-        "id": "S375",
-        "last_name": "Daines",
+        "display_name": "Capito (R-WV)",
+        "first_name": "Shelley",
+        "id": "S372",
+        "last_name": "Capito",
         "party": "R",
-        "state": "MT"
+        "state": "WV"
       },
       {
-        "display_name": "Graham (R-SC)",
-        "first_name": "Lindsey",
-        "id": "S293",
-        "last_name": "Graham",
+        "display_name": "Cotton (R-AR)",
+        "first_name": "Tom",
+        "id": "S374",
+        "last_name": "Cotton",
         "party": "R",
-        "state": "SC"
+        "state": "AR"
       },
       {
-        "display_name": "Lee (R-UT)",
-        "first_name": "Mike",
-        "id": "S346",
-        "last_name": "Lee",
+        "display_name": "Lummis (R-WY)",
+        "first_name": "Cynthia",
+        "id": "S410",
+        "last_name": "Lummis",
         "party": "R",
-        "state": "UT"
+        "state": "WY"
       },
       {
         "display_name": "Ossoff (D-GA)",
@@ -344,12 +360,12 @@
         "state": "GA"
       },
       {
-        "display_name": "Sullivan (R-AK)",
-        "first_name": "Dan",
-        "id": "S383",
-        "last_name": "Sullivan",
+        "display_name": "Sheehy (R-MT)",
+        "first_name": "Tim",
+        "id": "S435",
+        "last_name": "Sheehy",
         "party": "R",
-        "state": "AK"
+        "state": "MT"
       }
     ],
     "Present": [],
@@ -403,14 +419,6 @@
         "state": "NC"
       },
       {
-        "display_name": "Capito (R-WV)",
-        "first_name": "Shelley",
-        "id": "S372",
-        "last_name": "Capito",
-        "party": "R",
-        "state": "WV"
-      },
-      {
         "display_name": "Cassidy (R-LA)",
         "first_name": "Bill",
         "id": "S373",
@@ -427,28 +435,12 @@
         "state": "ME"
       },
       {
-        "display_name": "Coons (D-DE)",
-        "first_name": "Christopher",
-        "id": "S337",
-        "last_name": "Coons",
-        "party": "D",
-        "state": "DE"
-      },
-      {
         "display_name": "Cornyn (R-TX)",
         "first_name": "John",
         "id": "S287",
         "last_name": "Cornyn",
         "party": "R",
         "state": "TX"
-      },
-      {
-        "display_name": "Cotton (R-AR)",
-        "first_name": "Tom",
-        "id": "S374",
-        "last_name": "Cotton",
-        "party": "R",
-        "state": "AR"
       },
       {
         "display_name": "Cramer (R-ND)",
@@ -483,6 +475,14 @@
         "state": "UT"
       },
       {
+        "display_name": "Daines (R-MT)",
+        "first_name": "Steve",
+        "id": "S375",
+        "last_name": "Daines",
+        "party": "R",
+        "state": "MT"
+      },
+      {
         "display_name": "Ernst (R-IA)",
         "first_name": "Joni",
         "id": "S376",
@@ -507,12 +507,12 @@
         "state": "NE"
       },
       {
-        "display_name": "Gallego (D-AZ)",
-        "first_name": "Ruben",
-        "id": "S432",
-        "last_name": "Gallego",
-        "party": "D",
-        "state": "AZ"
+        "display_name": "Graham (R-SC)",
+        "first_name": "Lindsey",
+        "id": "S293",
+        "last_name": "Graham",
+        "party": "R",
+        "state": "SC"
       },
       {
         "display_name": "Grassley (R-IA)",
@@ -529,14 +529,6 @@
         "last_name": "Hagerty",
         "party": "R",
         "state": "TN"
-      },
-      {
-        "display_name": "Hassan (D-NH)",
-        "first_name": "Maggie",
-        "id": "S388",
-        "last_name": "Hassan",
-        "party": "D",
-        "state": "NH"
       },
       {
         "display_name": "Hawley (R-MO)",
@@ -595,14 +587,6 @@
         "state": "VA"
       },
       {
-        "display_name": "Kelly (D-AZ)",
-        "first_name": "Mark",
-        "id": "S406",
-        "last_name": "Kelly",
-        "party": "D",
-        "state": "AZ"
-      },
-      {
         "display_name": "Kennedy (R-LA)",
         "first_name": "John",
         "id": "S389",
@@ -619,6 +603,14 @@
         "state": "ME"
       },
       {
+        "display_name": "Klobuchar (D-MN)",
+        "first_name": "Amy",
+        "id": "S311",
+        "last_name": "Klobuchar",
+        "party": "D",
+        "state": "MN"
+      },
+      {
         "display_name": "Lankford (R-OK)",
         "first_name": "James",
         "id": "S378",
@@ -627,12 +619,12 @@
         "state": "OK"
       },
       {
-        "display_name": "Lummis (R-WY)",
-        "first_name": "Cynthia",
-        "id": "S410",
-        "last_name": "Lummis",
+        "display_name": "Lee (R-UT)",
+        "first_name": "Mike",
+        "id": "S346",
+        "last_name": "Lee",
         "party": "R",
-        "state": "WY"
+        "state": "UT"
       },
       {
         "display_name": "Marshall (R-KS)",
@@ -707,6 +699,14 @@
         "state": "KY"
       },
       {
+        "display_name": "Reed (D-RI)",
+        "first_name": "John",
+        "id": "S259",
+        "last_name": "Reed",
+        "party": "D",
+        "state": "RI"
+      },
+      {
         "display_name": "Ricketts (R-NE)",
         "first_name": "Pete",
         "id": "S423",
@@ -763,20 +763,12 @@
         "state": "NH"
       },
       {
-        "display_name": "Sheehy (R-MT)",
-        "first_name": "Tim",
-        "id": "S435",
-        "last_name": "Sheehy",
+        "display_name": "Sullivan (R-AK)",
+        "first_name": "Dan",
+        "id": "S383",
+        "last_name": "Sullivan",
         "party": "R",
-        "state": "MT"
-      },
-      {
-        "display_name": "Slotkin (D-MI)",
-        "first_name": "Elissa",
-        "id": "S436",
-        "last_name": "Slotkin",
-        "party": "D",
-        "state": "MI"
+        "state": "AK"
       },
       {
         "display_name": "Thune (R-SD)",
@@ -809,6 +801,14 @@
         "last_name": "Warner",
         "party": "D",
         "state": "VA"
+      },
+      {
+        "display_name": "Welch (D-VT)",
+        "first_name": "Peter",
+        "id": "S422",
+        "last_name": "Welch",
+        "party": "D",
+        "state": "VT"
       },
       {
         "display_name": "Wicker (R-MS)",
