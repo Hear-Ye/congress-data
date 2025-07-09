@@ -1,26 +1,24 @@
 {
-  "bill": {
-    "congress": 119,
-    "number": 1,
-    "title": "A bill to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
-    "type": "hr"
-  },
-  "category": "procedural",
+  "category": "cloture",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-06-30T23:35:00-04:00",
-  "number": 334,
-  "question": "On the Motion (Motion to Waive Section 425(a)(2) of the CBA re: H.R. 1)",
-  "record_modified": "2025-07-08T16:43:00-04:00",
-  "requires": "3/5",
-  "result": "Motion Agreed to",
-  "result_text": "Motion Agreed to (51-48, 3/5 majority required)",
+  "date": "2025-07-08T18:10:00-04:00",
+  "nomination": {
+    "number": "55-6",
+    "title": "Bryan Bedford, of Indiana, to be Administrator of the Federal Aviation Administration for the term of five years"
+  },
+  "number": 374,
+  "question": "Motion to Invoke Cloture: Bryan Bedford to be Administrator of the Federal Aviation Administration: Bryan Bedford, of Indiana, to be Administrator of the Federal Aviation Administration for the term of five years",
+  "record_modified": "2025-07-08T19:02:00-04:00",
+  "requires": "1/2",
+  "result": "Cloture Motion Agreed to",
+  "result_text": "Cloture Motion Agreed to (47-42)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00334.xml",
-  "subject": "Motion to Waive Section 425(a)(2) of the CBA re: H.R. 1",
-  "type": "On the Motion to Waive Section 425(a)(2) of the CBA re: H.R. 1",
-  "updated_at": "2025-07-09T03:40:28-04:00",
-  "vote_id": "s334-119.2025",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00374.xml",
+  "subject": "On the Cloture Motion PN55-6",
+  "type": "On the Cloture Motion",
+  "updated_at": "2025-07-09T03:40:08-04:00",
+  "vote_id": "s374-119.2025",
   "votes": {
     "Nay": [
       {
@@ -144,14 +142,6 @@
         "state": "NH"
       },
       {
-        "display_name": "Heinrich (D-NM)",
-        "first_name": "Martin",
-        "id": "S359",
-        "last_name": "Heinrich",
-        "party": "D",
-        "state": "NM"
-      },
-      {
         "display_name": "Hickenlooper (D-CO)",
         "first_name": "John",
         "id": "S408",
@@ -232,28 +222,12 @@
         "state": "OR"
       },
       {
-        "display_name": "Murkowski (R-AK)",
-        "first_name": "Lisa",
-        "id": "S288",
-        "last_name": "Murkowski",
-        "party": "R",
-        "state": "AK"
-      },
-      {
         "display_name": "Murphy (D-CT)",
         "first_name": "Christopher",
         "id": "S364",
         "last_name": "Murphy",
         "party": "D",
         "state": "CT"
-      },
-      {
-        "display_name": "Murray (D-WA)",
-        "first_name": "Patty",
-        "id": "S229",
-        "last_name": "Murray",
-        "party": "D",
-        "state": "WA"
       },
       {
         "display_name": "Ossoff (D-GA)",
@@ -288,14 +262,6 @@
         "state": "RI"
       },
       {
-        "display_name": "Rosen (D-NV)",
-        "first_name": "Jacky",
-        "id": "S402",
-        "last_name": "Rosen",
-        "party": "D",
-        "state": "NV"
-      },
-      {
         "display_name": "Sanders (I-VT)",
         "first_name": "Bernie",
         "id": "S313",
@@ -328,14 +294,6 @@
         "state": "NY"
       },
       {
-        "display_name": "Shaheen (D-NH)",
-        "first_name": "Jeanne",
-        "id": "S324",
-        "last_name": "Shaheen",
-        "party": "D",
-        "state": "NH"
-      },
-      {
         "display_name": "Slotkin (D-MI)",
         "first_name": "Elissa",
         "id": "S436",
@@ -366,14 +324,6 @@
         "last_name": "Warner",
         "party": "D",
         "state": "VA"
-      },
-      {
-        "display_name": "Warnock (D-GA)",
-        "first_name": "Raphael",
-        "id": "S415",
-        "last_name": "Warnock",
-        "party": "D",
-        "state": "GA"
       },
       {
         "display_name": "Warren (D-MA)",
@@ -410,12 +360,92 @@
     ],
     "Not Voting": [
       {
+        "display_name": "Hagerty (R-TN)",
+        "first_name": "Bill",
+        "id": "S407",
+        "last_name": "Hagerty",
+        "party": "R",
+        "state": "TN"
+      },
+      {
+        "display_name": "Hawley (R-MO)",
+        "first_name": "Josh",
+        "id": "S399",
+        "last_name": "Hawley",
+        "party": "R",
+        "state": "MO"
+      },
+      {
+        "display_name": "Heinrich (D-NM)",
+        "first_name": "Martin",
+        "id": "S359",
+        "last_name": "Heinrich",
+        "party": "D",
+        "state": "NM"
+      },
+      {
+        "display_name": "Hoeven (R-ND)",
+        "first_name": "John",
+        "id": "S344",
+        "last_name": "Hoeven",
+        "party": "R",
+        "state": "ND"
+      },
+      {
+        "display_name": "Lee (R-UT)",
+        "first_name": "Mike",
+        "id": "S346",
+        "last_name": "Lee",
+        "party": "R",
+        "state": "UT"
+      },
+      {
+        "display_name": "Murkowski (R-AK)",
+        "first_name": "Lisa",
+        "id": "S288",
+        "last_name": "Murkowski",
+        "party": "R",
+        "state": "AK"
+      },
+      {
+        "display_name": "Murray (D-WA)",
+        "first_name": "Patty",
+        "id": "S229",
+        "last_name": "Murray",
+        "party": "D",
+        "state": "WA"
+      },
+      {
+        "display_name": "Rosen (D-NV)",
+        "first_name": "Jacky",
+        "id": "S402",
+        "last_name": "Rosen",
+        "party": "D",
+        "state": "NV"
+      },
+      {
+        "display_name": "Schmitt (R-MO)",
+        "first_name": "Eric ",
+        "id": "S420",
+        "last_name": "Schmitt",
+        "party": "R",
+        "state": "MO"
+      },
+      {
         "display_name": "Scott (R-SC)",
         "first_name": "Tim",
         "id": "S365",
         "last_name": "Scott",
         "party": "R",
         "state": "SC"
+      },
+      {
+        "display_name": "Warnock (D-GA)",
+        "first_name": "Raphael",
+        "id": "S415",
+        "last_name": "Warnock",
+        "party": "D",
+        "state": "GA"
       }
     ],
     "Present": [],
@@ -581,30 +611,6 @@
         "state": "IA"
       },
       {
-        "display_name": "Hagerty (R-TN)",
-        "first_name": "Bill",
-        "id": "S407",
-        "last_name": "Hagerty",
-        "party": "R",
-        "state": "TN"
-      },
-      {
-        "display_name": "Hawley (R-MO)",
-        "first_name": "Josh",
-        "id": "S399",
-        "last_name": "Hawley",
-        "party": "R",
-        "state": "MO"
-      },
-      {
-        "display_name": "Hoeven (R-ND)",
-        "first_name": "John",
-        "id": "S344",
-        "last_name": "Hoeven",
-        "party": "R",
-        "state": "ND"
-      },
-      {
         "display_name": "Husted (R-OH)",
         "first_name": "Jon",
         "id": "S438",
@@ -651,14 +657,6 @@
         "last_name": "Lankford",
         "party": "R",
         "state": "OK"
-      },
-      {
-        "display_name": "Lee (R-UT)",
-        "first_name": "Mike",
-        "id": "S346",
-        "last_name": "Lee",
-        "party": "R",
-        "state": "UT"
       },
       {
         "display_name": "Lummis (R-WY)",
@@ -757,20 +755,20 @@
         "state": "SD"
       },
       {
-        "display_name": "Schmitt (R-MO)",
-        "first_name": "Eric ",
-        "id": "S420",
-        "last_name": "Schmitt",
-        "party": "R",
-        "state": "MO"
-      },
-      {
         "display_name": "Scott (R-FL)",
         "first_name": "Rick",
         "id": "S404",
         "last_name": "Scott",
         "party": "R",
         "state": "FL"
+      },
+      {
+        "display_name": "Shaheen (D-NH)",
+        "first_name": "Jeanne",
+        "id": "S324",
+        "last_name": "Shaheen",
+        "party": "D",
+        "state": "NH"
       },
       {
         "display_name": "Sheehy (R-MT)",

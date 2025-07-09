@@ -1,10 +1,10 @@
 <roll where="senate" session="119" year="2025" roll="343" source="senate.gov"
-  datetime="2025-06-30T16:08:00-04:00" updated="2025-07-01T03:48:10-04:00"
+  datetime="2025-06-30T16:08:00-04:00" updated="2025-07-09T03:40:24-04:00"
   aye="47" nay="53" nv="0" present="0">
   <category>procedural</category>
   <type>On the Motion to Waive Section 313(b)(1)(D) of the Congressional Budget Act Re: Merkley Amdt. No. 2446</type>
   <question>On the Motion (Motion to Waive Section 313(b)(1)(D) of the Congressional Budget Act Re: Merkley Amdt. No. 2446)</question>
-  <required>1/2</required>
+  <required>3/5</required>
   <result>Motion Rejected</result>
   <bill session="119" type="h" number="1"/>
   <amendment ref="regular" session="119" number="s2446"/>
