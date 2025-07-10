@@ -2,23 +2,23 @@
   "category": "nomination",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-06-10T14:15:00-04:00",
+  "date": "2025-07-09T18:01:00-04:00",
   "nomination": {
-    "number": "12-43",
-    "title": "Stephen Vaden, of Tennessee, to be Deputy Secretary of Agriculture"
+    "number": "12-24",
+    "title": "Scott Kupor, of California, to be Director of the Office of Personnel Management for a term of four years"
   },
-  "number": 301,
-  "question": "On the Nomination PN12-43: Stephen Vaden, of Tennessee, to be Deputy Secretary of Agriculture",
-  "record_modified": "2025-07-09T19:38:00-04:00",
+  "number": 379,
+  "question": "On the Nomination PN12-24: Scott Kupor, of California, to be Director of the Office of Personnel Management for a term of four years",
+  "record_modified": "2025-07-09T18:55:00-04:00",
   "requires": "1/2",
   "result": "Nomination Confirmed",
-  "result_text": "Nomination Confirmed (51-44)",
+  "result_text": "Nomination Confirmed (49-46)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00301.xml",
-  "subject": "Confirmation: Stephen Vaden, of Tennessee, to be Deputy Secretary of Agriculture",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00379.xml",
+  "subject": "Confirmation: Scott Kupor, of California, to be Director of the Office of Personnel Management",
   "type": "On the Nomination",
-  "updated_at": "2025-07-10T03:39:58-04:00",
-  "vote_id": "s301-119.2025",
+  "updated_at": "2025-07-10T03:39:19-04:00",
+  "vote_id": "s379-119.2025",
   "votes": {
     "Nay": [
       {
@@ -44,14 +44,6 @@
         "last_name": "Bennet",
         "party": "D",
         "state": "CO"
-      },
-      {
-        "display_name": "Blumenthal (D-CT)",
-        "first_name": "Richard",
-        "id": "S341",
-        "last_name": "Blumenthal",
-        "party": "D",
-        "state": "CT"
       },
       {
         "display_name": "Blunt Rochester (D-DE)",
@@ -116,6 +108,14 @@
         "last_name": "Fetterman",
         "party": "D",
         "state": "PA"
+      },
+      {
+        "display_name": "Gallego (D-AZ)",
+        "first_name": "Ruben",
+        "id": "S432",
+        "last_name": "Gallego",
+        "party": "D",
+        "state": "AZ"
       },
       {
         "display_name": "Gillibrand (D-NY)",
@@ -222,12 +222,12 @@
         "state": "OR"
       },
       {
-        "display_name": "Murphy (D-CT)",
-        "first_name": "Christopher",
-        "id": "S364",
-        "last_name": "Murphy",
-        "party": "D",
-        "state": "CT"
+        "display_name": "Murkowski (R-AK)",
+        "first_name": "Lisa",
+        "id": "S288",
+        "last_name": "Murkowski",
+        "party": "R",
+        "state": "AK"
       },
       {
         "display_name": "Murray (D-WA)",
@@ -236,6 +236,14 @@
         "last_name": "Murray",
         "party": "D",
         "state": "WA"
+      },
+      {
+        "display_name": "Ossoff (D-GA)",
+        "first_name": "Jon",
+        "id": "S414",
+        "last_name": "Ossoff",
+        "party": "D",
+        "state": "GA"
       },
       {
         "display_name": "Padilla (D-CA)",
@@ -252,6 +260,14 @@
         "last_name": "Peters",
         "party": "D",
         "state": "MI"
+      },
+      {
+        "display_name": "Reed (D-RI)",
+        "first_name": "John",
+        "id": "S259",
+        "last_name": "Reed",
+        "party": "D",
+        "state": "RI"
       },
       {
         "display_name": "Rosen (D-NV)",
@@ -376,36 +392,36 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Budd (R-NC)",
-        "first_name": "Ted",
-        "id": "S417",
-        "last_name": "Budd",
+        "display_name": "Blumenthal (D-CT)",
+        "first_name": "Richard",
+        "id": "S341",
+        "last_name": "Blumenthal",
+        "party": "D",
+        "state": "CT"
+      },
+      {
+        "display_name": "Graham (R-SC)",
+        "first_name": "Lindsey",
+        "id": "S293",
+        "last_name": "Graham",
         "party": "R",
-        "state": "NC"
+        "state": "SC"
       },
       {
-        "display_name": "Gallego (D-AZ)",
-        "first_name": "Ruben",
-        "id": "S432",
-        "last_name": "Gallego",
+        "display_name": "Murphy (D-CT)",
+        "first_name": "Christopher",
+        "id": "S364",
+        "last_name": "Murphy",
         "party": "D",
-        "state": "AZ"
+        "state": "CT"
       },
       {
-        "display_name": "Ossoff (D-GA)",
-        "first_name": "Jon",
-        "id": "S414",
-        "last_name": "Ossoff",
-        "party": "D",
-        "state": "GA"
-      },
-      {
-        "display_name": "Reed (D-RI)",
-        "first_name": "John",
-        "id": "S259",
-        "last_name": "Reed",
-        "party": "D",
-        "state": "RI"
+        "display_name": "Paul (R-KY)",
+        "first_name": "Rand",
+        "id": "S348",
+        "last_name": "Paul",
+        "party": "R",
+        "state": "KY"
       },
       {
         "display_name": "Tillis (R-NC)",
@@ -457,6 +473,14 @@
         "last_name": "Britt",
         "party": "R",
         "state": "AL"
+      },
+      {
+        "display_name": "Budd (R-NC)",
+        "first_name": "Ted",
+        "id": "S417",
+        "last_name": "Budd",
+        "party": "R",
+        "state": "NC"
       },
       {
         "display_name": "Capito (R-WV)",
@@ -553,14 +577,6 @@
         "last_name": "Fischer",
         "party": "R",
         "state": "NE"
-      },
-      {
-        "display_name": "Graham (R-SC)",
-        "first_name": "Lindsey",
-        "id": "S293",
-        "last_name": "Graham",
-        "party": "R",
-        "state": "SC"
       },
       {
         "display_name": "Grassley (R-IA)",
@@ -713,22 +729,6 @@
         "last_name": "Mullin",
         "party": "R",
         "state": "OK"
-      },
-      {
-        "display_name": "Murkowski (R-AK)",
-        "first_name": "Lisa",
-        "id": "S288",
-        "last_name": "Murkowski",
-        "party": "R",
-        "state": "AK"
-      },
-      {
-        "display_name": "Paul (R-KY)",
-        "first_name": "Rand",
-        "id": "S348",
-        "last_name": "Paul",
-        "party": "R",
-        "state": "KY"
       },
       {
         "display_name": "Ricketts (R-NE)",

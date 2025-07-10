@@ -2,23 +2,23 @@
   "category": "nomination",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-06-10T14:15:00-04:00",
+  "date": "2025-07-09T11:27:00-04:00",
   "nomination": {
-    "number": "12-43",
-    "title": "Stephen Vaden, of Tennessee, to be Deputy Secretary of Agriculture"
+    "number": "12-20",
+    "title": "Preston Griffith, of Virginia, to be Under Secretary of Energy"
   },
-  "number": 301,
-  "question": "On the Nomination PN12-43: Stephen Vaden, of Tennessee, to be Deputy Secretary of Agriculture",
-  "record_modified": "2025-07-09T19:38:00-04:00",
+  "number": 375,
+  "question": "On the Nomination PN12-20: Preston Griffith, of Virginia, to be Under Secretary of Energy",
+  "record_modified": "2025-07-09T19:39:00-04:00",
   "requires": "1/2",
   "result": "Nomination Confirmed",
-  "result_text": "Nomination Confirmed (51-44)",
+  "result_text": "Nomination Confirmed (54-43)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00301.xml",
-  "subject": "Confirmation: Stephen Vaden, of Tennessee, to be Deputy Secretary of Agriculture",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00375.xml",
+  "subject": "Confirmation: Preston Griffith, of Virginia, to be Under Secretary of Energy",
   "type": "On the Nomination",
-  "updated_at": "2025-07-10T03:39:58-04:00",
-  "vote_id": "s301-119.2025",
+  "updated_at": "2025-07-10T03:39:21-04:00",
+  "vote_id": "s375-119.2025",
   "votes": {
     "Nay": [
       {
@@ -142,14 +142,6 @@
         "state": "NM"
       },
       {
-        "display_name": "Hickenlooper (D-CO)",
-        "first_name": "John",
-        "id": "S408",
-        "last_name": "Hickenlooper",
-        "party": "D",
-        "state": "CO"
-      },
-      {
         "display_name": "Hirono (D-HI)",
         "first_name": "Mazie",
         "id": "S361",
@@ -180,14 +172,6 @@
         "last_name": "Kim",
         "party": "D",
         "state": "NJ"
-      },
-      {
-        "display_name": "King (I-ME)",
-        "first_name": "Angus",
-        "id": "S363",
-        "last_name": "King",
-        "party": "I",
-        "state": "ME"
       },
       {
         "display_name": "Klobuchar (D-MN)",
@@ -222,20 +206,20 @@
         "state": "OR"
       },
       {
-        "display_name": "Murphy (D-CT)",
-        "first_name": "Christopher",
-        "id": "S364",
-        "last_name": "Murphy",
-        "party": "D",
-        "state": "CT"
-      },
-      {
         "display_name": "Murray (D-WA)",
         "first_name": "Patty",
         "id": "S229",
         "last_name": "Murray",
         "party": "D",
         "state": "WA"
+      },
+      {
+        "display_name": "Ossoff (D-GA)",
+        "first_name": "Jon",
+        "id": "S414",
+        "last_name": "Ossoff",
+        "party": "D",
+        "state": "GA"
       },
       {
         "display_name": "Padilla (D-CA)",
@@ -252,6 +236,14 @@
         "last_name": "Peters",
         "party": "D",
         "state": "MI"
+      },
+      {
+        "display_name": "Reed (D-RI)",
+        "first_name": "John",
+        "id": "S259",
+        "last_name": "Reed",
+        "party": "D",
+        "state": "RI"
       },
       {
         "display_name": "Rosen (D-NV)",
@@ -376,14 +368,6 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Budd (R-NC)",
-        "first_name": "Ted",
-        "id": "S417",
-        "last_name": "Budd",
-        "party": "R",
-        "state": "NC"
-      },
-      {
         "display_name": "Gallego (D-AZ)",
         "first_name": "Ruben",
         "id": "S432",
@@ -392,28 +376,20 @@
         "state": "AZ"
       },
       {
-        "display_name": "Ossoff (D-GA)",
-        "first_name": "Jon",
-        "id": "S414",
-        "last_name": "Ossoff",
-        "party": "D",
-        "state": "GA"
-      },
-      {
-        "display_name": "Reed (D-RI)",
+        "display_name": "Hickenlooper (D-CO)",
         "first_name": "John",
-        "id": "S259",
-        "last_name": "Reed",
+        "id": "S408",
+        "last_name": "Hickenlooper",
         "party": "D",
-        "state": "RI"
+        "state": "CO"
       },
       {
-        "display_name": "Tillis (R-NC)",
-        "first_name": "Thomas",
-        "id": "S384",
-        "last_name": "Tillis",
-        "party": "R",
-        "state": "NC"
+        "display_name": "Murphy (D-CT)",
+        "first_name": "Christopher",
+        "id": "S364",
+        "last_name": "Murphy",
+        "party": "D",
+        "state": "CT"
       }
     ],
     "Present": [],
@@ -457,6 +433,14 @@
         "last_name": "Britt",
         "party": "R",
         "state": "AL"
+      },
+      {
+        "display_name": "Budd (R-NC)",
+        "first_name": "Ted",
+        "id": "S417",
+        "last_name": "Budd",
+        "party": "R",
+        "state": "NC"
       },
       {
         "display_name": "Capito (R-WV)",
@@ -635,6 +619,14 @@
         "state": "LA"
       },
       {
+        "display_name": "King (I-ME)",
+        "first_name": "Angus",
+        "id": "S363",
+        "last_name": "King",
+        "party": "I",
+        "state": "ME"
+      },
+      {
         "display_name": "Lankford (R-OK)",
         "first_name": "James",
         "id": "S378",
@@ -801,6 +793,14 @@
         "last_name": "Thune",
         "party": "R",
         "state": "SD"
+      },
+      {
+        "display_name": "Tillis (R-NC)",
+        "first_name": "Thomas",
+        "id": "S384",
+        "last_name": "Tillis",
+        "party": "R",
+        "state": "NC"
       },
       {
         "display_name": "Tuberville (R-AL)",
