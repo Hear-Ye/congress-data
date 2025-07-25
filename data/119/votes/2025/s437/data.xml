@@ -1,9 +1,9 @@
-<roll where="senate" session="119" year="2025" roll="433" source="senate.gov"
-  datetime="2025-07-23T20:42:00-04:00" updated="2025-07-25T03:48:11-04:00"
-  aye="49" nay="47" nv="4" present="0">
+<roll where="senate" session="119" year="2025" roll="437" source="senate.gov"
+  datetime="2025-07-24T13:57:00-04:00" updated="2025-07-25T03:48:09-04:00"
+  aye="50" nay="48" nv="2" present="0">
   <category>cloture</category>
   <type>On the Cloture Motion</type>
-  <question>Motion to Invoke Cloture: Matthew Lohmeier to be Under Secretary of the Air Force: Matthew Lohmeier, of Arizona, to be Under Secretary of the Air Force</question>
+  <question>Motion to Invoke Cloture: Emil J. Bove III to be U.S. Circuit Judge for the Third Circuit: Emil J. Bove III, of Pennsylvania, to be United States Circuit Judge for the Third Circuit</question>
   <required>1/2</required>
   <result>Cloture Motion Agreed to</result>
   <option key="+">Yea</option>
@@ -17,7 +17,6 @@
   <voter id="S417" vote="+" value="Yea" state="NC"/>
   <voter id="S372" vote="+" value="Yea" state="WV"/>
   <voter id="S373" vote="+" value="Yea" state="LA"/>
-  <voter id="S252" vote="+" value="Yea" state="ME"/>
   <voter id="S287" vote="+" value="Yea" state="TX"/>
   <voter id="S374" vote="+" value="Yea" state="AR"/>
   <voter id="S398" vote="+" value="Yea" state="ND"/>
@@ -41,11 +40,12 @@
   <voter id="S346" vote="+" value="Yea" state="UT"/>
   <voter id="S410" vote="+" value="Yea" state="WY"/>
   <voter id="S411" vote="+" value="Yea" state="KS"/>
+  <voter id="S174" vote="+" value="Yea" state="KY"/>
   <voter id="S433" vote="+" value="Yea" state="PA"/>
   <voter id="S439" vote="+" value="Yea" state="FL"/>
   <voter id="S347" vote="+" value="Yea" state="KS"/>
   <voter id="S434" vote="+" value="Yea" state="OH"/>
-  <voter id="S288" vote="+" value="Yea" state="AK"/>
+  <voter id="S419" vote="+" value="Yea" state="OK"/>
   <voter id="S348" vote="+" value="Yea" state="KY"/>
   <voter id="S423" vote="+" value="Yea" state="NE"/>
   <voter id="S323" vote="+" value="Yea" state="ID"/>
@@ -56,6 +56,7 @@
   <voter id="S435" vote="+" value="Yea" state="MT"/>
   <voter id="S383" vote="+" value="Yea" state="AK"/>
   <voter id="S303" vote="+" value="Yea" state="SD"/>
+  <voter id="S384" vote="+" value="Yea" state="NC"/>
   <voter id="S412" vote="+" value="Yea" state="AL"/>
   <voter id="S318" vote="+" value="Yea" state="MS"/>
   <voter id="S391" vote="+" value="Yea" state="IN"/>
@@ -66,12 +67,12 @@
   <voter id="S430" vote="-" value="Nay" state="DE"/>
   <voter id="S370" vote="-" value="Nay" state="NJ"/>
   <voter id="S275" vote="-" value="Nay" state="WA"/>
+  <voter id="S252" vote="-" value="Nay" state="ME"/>
   <voter id="S337" vote="-" value="Nay" state="DE"/>
   <voter id="S385" vote="-" value="Nay" state="NV"/>
   <voter id="S386" vote="-" value="Nay" state="IL"/>
   <voter id="S253" vote="-" value="Nay" state="IL"/>
   <voter id="S418" vote="-" value="Nay" state="PA"/>
-  <voter id="S432" vote="-" value="Nay" state="AZ"/>
   <voter id="S331" vote="-" value="Nay" state="NY"/>
   <voter id="S388" vote="-" value="Nay" state="NH"/>
   <voter id="S359" vote="-" value="Nay" state="NM"/>
@@ -85,6 +86,7 @@
   <voter id="S409" vote="-" value="Nay" state="NM"/>
   <voter id="S369" vote="-" value="Nay" state="MA"/>
   <voter id="S322" vote="-" value="Nay" state="OR"/>
+  <voter id="S288" vote="-" value="Nay" state="AK"/>
   <voter id="S364" vote="-" value="Nay" state="CT"/>
   <voter id="S229" vote="-" value="Nay" state="WA"/>
   <voter id="S414" vote="-" value="Nay" state="GA"/>
@@ -107,7 +109,5 @@
   <voter id="S316" vote="-" value="Nay" state="RI"/>
   <voter id="S247" vote="-" value="Nay" state="OR"/>
   <voter id="S416" vote="0" value="Not Voting" state="AL"/>
-  <voter id="S174" vote="0" value="Not Voting" state="KY"/>
-  <voter id="S419" vote="0" value="Not Voting" state="OK"/>
-  <voter id="S384" vote="0" value="Not Voting" state="NC"/>
+  <voter id="S432" vote="0" value="Not Voting" state="AZ"/>
 </roll>

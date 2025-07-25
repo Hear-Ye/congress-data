@@ -1,24 +1,24 @@
 {
-  "category": "cloture",
+  "category": "nomination",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-07-23T20:42:00-04:00",
+  "date": "2025-07-24T13:25:00-04:00",
   "nomination": {
-    "number": "22-15",
-    "title": "Matthew Lohmeier, of Arizona, to be Under Secretary of the Air Force"
+    "number": "25-54",
+    "title": "Richard Topping, of Ohio, to be Chief Financial Officer, Department of Veterans Affairs"
   },
-  "number": 433,
-  "question": "Motion to Invoke Cloture: Matthew Lohmeier to be Under Secretary of the Air Force: Matthew Lohmeier, of Arizona, to be Under Secretary of the Air Force",
-  "record_modified": "2025-07-24T13:02:00-04:00",
+  "number": 436,
+  "question": "On the Nomination PN25-54: Richard Topping, of Ohio, to be Chief Financial Officer, Department of Veterans Affairs",
+  "record_modified": "2025-07-24T14:19:00-04:00",
   "requires": "1/2",
-  "result": "Cloture Motion Agreed to",
-  "result_text": "Cloture Motion Agreed to (49-47)",
+  "result": "Nomination Confirmed",
+  "result_text": "Nomination Confirmed (51-47)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00433.xml",
-  "subject": "On the Cloture Motion PN22-15",
-  "type": "On the Cloture Motion",
-  "updated_at": "2025-07-25T03:48:11-04:00",
-  "vote_id": "s433-119.2025",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00436.xml",
+  "subject": "Confirmation: Richard Topping, of Ohio, to be Chief Financial Officer, Department of Veterans Affairs",
+  "type": "On the Nomination",
+  "updated_at": "2025-07-25T03:48:09-04:00",
+  "vote_id": "s436-119.2025",
   "votes": {
     "Nay": [
       {
@@ -408,28 +408,12 @@
         "state": "AL"
       },
       {
-        "display_name": "McConnell (R-KY)",
-        "first_name": "Mitch",
-        "id": "S174",
-        "last_name": "McConnell",
+        "display_name": "Cassidy (R-LA)",
+        "first_name": "Bill",
+        "id": "S373",
+        "last_name": "Cassidy",
         "party": "R",
-        "state": "KY"
-      },
-      {
-        "display_name": "Mullin (R-OK)",
-        "first_name": "Markwayne",
-        "id": "S419",
-        "last_name": "Mullin",
-        "party": "R",
-        "state": "OK"
-      },
-      {
-        "display_name": "Tillis (R-NC)",
-        "first_name": "Thomas",
-        "id": "S384",
-        "last_name": "Tillis",
-        "party": "R",
-        "state": "NC"
+        "state": "LA"
       }
     ],
     "Present": [],
@@ -481,14 +465,6 @@
         "last_name": "Capito",
         "party": "R",
         "state": "WV"
-      },
-      {
-        "display_name": "Cassidy (R-LA)",
-        "first_name": "Bill",
-        "id": "S373",
-        "last_name": "Cassidy",
-        "party": "R",
-        "state": "LA"
       },
       {
         "display_name": "Collins (R-ME)",
@@ -683,6 +659,14 @@
         "state": "KS"
       },
       {
+        "display_name": "McConnell (R-KY)",
+        "first_name": "Mitch",
+        "id": "S174",
+        "last_name": "McConnell",
+        "party": "R",
+        "state": "KY"
+      },
+      {
         "display_name": "McCormick (R-PA)",
         "first_name": "David",
         "id": "S433",
@@ -713,6 +697,14 @@
         "last_name": "Moreno",
         "party": "R",
         "state": "OH"
+      },
+      {
+        "display_name": "Mullin (R-OK)",
+        "first_name": "Markwayne",
+        "id": "S419",
+        "last_name": "Mullin",
+        "party": "R",
+        "state": "OK"
       },
       {
         "display_name": "Murkowski (R-AK)",
@@ -801,6 +793,14 @@
         "last_name": "Thune",
         "party": "R",
         "state": "SD"
+      },
+      {
+        "display_name": "Tillis (R-NC)",
+        "first_name": "Thomas",
+        "id": "S384",
+        "last_name": "Tillis",
+        "party": "R",
+        "state": "NC"
       },
       {
         "display_name": "Tuberville (R-AL)",

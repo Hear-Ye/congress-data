@@ -1,9 +1,9 @@
-<roll where="senate" session="119" year="2025" roll="433" source="senate.gov"
-  datetime="2025-07-23T20:42:00-04:00" updated="2025-07-25T03:48:11-04:00"
-  aye="49" nay="47" nv="4" present="0">
+<roll where="senate" session="119" year="2025" roll="435" source="senate.gov"
+  datetime="2025-07-24T12:07:00-04:00" updated="2025-07-25T03:48:10-04:00"
+  aye="52" nay="46" nv="2" present="0">
   <category>cloture</category>
   <type>On the Cloture Motion</type>
-  <question>Motion to Invoke Cloture: Matthew Lohmeier to be Under Secretary of the Air Force: Matthew Lohmeier, of Arizona, to be Under Secretary of the Air Force</question>
+  <question>Motion to Invoke Cloture: Richard Topping to be Chief Financial Officer, Department of Veterans Affairs: Richard Topping, of Ohio, to be Chief Financial Officer, Department of Veterans Affairs</question>
   <required>1/2</required>
   <result>Cloture Motion Agreed to</result>
   <option key="+">Yea</option>
@@ -41,10 +41,12 @@
   <voter id="S346" vote="+" value="Yea" state="UT"/>
   <voter id="S410" vote="+" value="Yea" state="WY"/>
   <voter id="S411" vote="+" value="Yea" state="KS"/>
+  <voter id="S174" vote="+" value="Yea" state="KY"/>
   <voter id="S433" vote="+" value="Yea" state="PA"/>
   <voter id="S439" vote="+" value="Yea" state="FL"/>
   <voter id="S347" vote="+" value="Yea" state="KS"/>
   <voter id="S434" vote="+" value="Yea" state="OH"/>
+  <voter id="S419" vote="+" value="Yea" state="OK"/>
   <voter id="S288" vote="+" value="Yea" state="AK"/>
   <voter id="S348" vote="+" value="Yea" state="KY"/>
   <voter id="S423" vote="+" value="Yea" state="NE"/>
@@ -56,6 +58,7 @@
   <voter id="S435" vote="+" value="Yea" state="MT"/>
   <voter id="S383" vote="+" value="Yea" state="AK"/>
   <voter id="S303" vote="+" value="Yea" state="SD"/>
+  <voter id="S384" vote="+" value="Yea" state="NC"/>
   <voter id="S412" vote="+" value="Yea" state="AL"/>
   <voter id="S318" vote="+" value="Yea" state="MS"/>
   <voter id="S391" vote="+" value="Yea" state="IN"/>
@@ -79,7 +82,6 @@
   <voter id="S361" vote="-" value="Nay" state="HI"/>
   <voter id="S362" vote="-" value="Nay" state="VA"/>
   <voter id="S406" vote="-" value="Nay" state="AZ"/>
-  <voter id="S426" vote="-" value="Nay" state="NJ"/>
   <voter id="S363" vote="-" value="Nay" state="ME"/>
   <voter id="S311" vote="-" value="Nay" state="MN"/>
   <voter id="S409" vote="-" value="Nay" state="NM"/>
@@ -107,7 +109,5 @@
   <voter id="S316" vote="-" value="Nay" state="RI"/>
   <voter id="S247" vote="-" value="Nay" state="OR"/>
   <voter id="S416" vote="0" value="Not Voting" state="AL"/>
-  <voter id="S174" vote="0" value="Not Voting" state="KY"/>
-  <voter id="S419" vote="0" value="Not Voting" state="OK"/>
-  <voter id="S384" vote="0" value="Not Voting" state="NC"/>
+  <voter id="S426" vote="0" value="Not Voting" state="NJ"/>
 </roll>

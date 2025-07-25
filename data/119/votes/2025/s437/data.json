@@ -2,23 +2,23 @@
   "category": "cloture",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-07-23T20:42:00-04:00",
+  "date": "2025-07-24T13:57:00-04:00",
   "nomination": {
-    "number": "22-15",
-    "title": "Matthew Lohmeier, of Arizona, to be Under Secretary of the Air Force"
+    "number": "346-2",
+    "title": "Emil J. Bove III, of Pennsylvania, to be United States Circuit Judge for the Third Circuit"
   },
-  "number": 433,
-  "question": "Motion to Invoke Cloture: Matthew Lohmeier to be Under Secretary of the Air Force: Matthew Lohmeier, of Arizona, to be Under Secretary of the Air Force",
-  "record_modified": "2025-07-24T13:02:00-04:00",
+  "number": 437,
+  "question": "Motion to Invoke Cloture: Emil J. Bove III to be U.S. Circuit Judge for the Third Circuit: Emil J. Bove III, of Pennsylvania, to be United States Circuit Judge for the Third Circuit",
+  "record_modified": "2025-07-24T15:06:00-04:00",
   "requires": "1/2",
   "result": "Cloture Motion Agreed to",
-  "result_text": "Cloture Motion Agreed to (49-47)",
+  "result_text": "Cloture Motion Agreed to (50-48)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00433.xml",
-  "subject": "On the Cloture Motion PN22-15",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00437.xml",
+  "subject": "On the Cloture Motion PN346-2",
   "type": "On the Cloture Motion",
-  "updated_at": "2025-07-25T03:48:11-04:00",
-  "vote_id": "s433-119.2025",
+  "updated_at": "2025-07-25T03:48:09-04:00",
+  "vote_id": "s437-119.2025",
   "votes": {
     "Nay": [
       {
@@ -78,6 +78,14 @@
         "state": "WA"
       },
       {
+        "display_name": "Collins (R-ME)",
+        "first_name": "Susan",
+        "id": "S252",
+        "last_name": "Collins",
+        "party": "R",
+        "state": "ME"
+      },
+      {
         "display_name": "Coons (D-DE)",
         "first_name": "Christopher",
         "id": "S337",
@@ -116,14 +124,6 @@
         "last_name": "Fetterman",
         "party": "D",
         "state": "PA"
-      },
-      {
-        "display_name": "Gallego (D-AZ)",
-        "first_name": "Ruben",
-        "id": "S432",
-        "last_name": "Gallego",
-        "party": "D",
-        "state": "AZ"
       },
       {
         "display_name": "Gillibrand (D-NY)",
@@ -228,6 +228,14 @@
         "last_name": "Merkley",
         "party": "D",
         "state": "OR"
+      },
+      {
+        "display_name": "Murkowski (R-AK)",
+        "first_name": "Lisa",
+        "id": "S288",
+        "last_name": "Murkowski",
+        "party": "R",
+        "state": "AK"
       },
       {
         "display_name": "Murphy (D-CT)",
@@ -408,28 +416,12 @@
         "state": "AL"
       },
       {
-        "display_name": "McConnell (R-KY)",
-        "first_name": "Mitch",
-        "id": "S174",
-        "last_name": "McConnell",
-        "party": "R",
-        "state": "KY"
-      },
-      {
-        "display_name": "Mullin (R-OK)",
-        "first_name": "Markwayne",
-        "id": "S419",
-        "last_name": "Mullin",
-        "party": "R",
-        "state": "OK"
-      },
-      {
-        "display_name": "Tillis (R-NC)",
-        "first_name": "Thomas",
-        "id": "S384",
-        "last_name": "Tillis",
-        "party": "R",
-        "state": "NC"
+        "display_name": "Gallego (D-AZ)",
+        "first_name": "Ruben",
+        "id": "S432",
+        "last_name": "Gallego",
+        "party": "D",
+        "state": "AZ"
       }
     ],
     "Present": [],
@@ -489,14 +481,6 @@
         "last_name": "Cassidy",
         "party": "R",
         "state": "LA"
-      },
-      {
-        "display_name": "Collins (R-ME)",
-        "first_name": "Susan",
-        "id": "S252",
-        "last_name": "Collins",
-        "party": "R",
-        "state": "ME"
       },
       {
         "display_name": "Cornyn (R-TX)",
@@ -683,6 +667,14 @@
         "state": "KS"
       },
       {
+        "display_name": "McConnell (R-KY)",
+        "first_name": "Mitch",
+        "id": "S174",
+        "last_name": "McConnell",
+        "party": "R",
+        "state": "KY"
+      },
+      {
         "display_name": "McCormick (R-PA)",
         "first_name": "David",
         "id": "S433",
@@ -715,12 +707,12 @@
         "state": "OH"
       },
       {
-        "display_name": "Murkowski (R-AK)",
-        "first_name": "Lisa",
-        "id": "S288",
-        "last_name": "Murkowski",
+        "display_name": "Mullin (R-OK)",
+        "first_name": "Markwayne",
+        "id": "S419",
+        "last_name": "Mullin",
         "party": "R",
-        "state": "AK"
+        "state": "OK"
       },
       {
         "display_name": "Paul (R-KY)",
@@ -801,6 +793,14 @@
         "last_name": "Thune",
         "party": "R",
         "state": "SD"
+      },
+      {
+        "display_name": "Tillis (R-NC)",
+        "first_name": "Thomas",
+        "id": "S384",
+        "last_name": "Tillis",
+        "party": "R",
+        "state": "NC"
       },
       {
         "display_name": "Tuberville (R-AL)",
