@@ -2,23 +2,23 @@
   "category": "cloture",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-07-24T13:57:00-04:00",
+  "date": "2025-07-28T19:42:00-04:00",
   "nomination": {
-    "number": "346-2",
-    "title": "Emil J. Bove III, of Pennsylvania, to be United States Circuit Judge for the Third Circuit"
+    "number": "22-17",
+    "title": "Earl Matthews, of Virginia, to be General Counsel of the Department of Defense"
   },
-  "number": 437,
-  "question": "Motion to Invoke Cloture: Emil J. Bove III to be U.S. Circuit Judge for the Third Circuit: Emil J. Bove III, of Pennsylvania, to be United States Circuit Judge for the Third Circuit",
-  "record_modified": "2025-07-28T16:06:00-04:00",
+  "number": 440,
+  "question": "Motion to Invoke Cloture: Earl Matthews to be General Counsel of the Department of Defense: Earl Matthews, of Virginia, to be General Counsel of the Department of Defense",
+  "record_modified": "2025-07-28T20:16:00-04:00",
   "requires": "1/2",
   "result": "Cloture Motion Agreed to",
-  "result_text": "Cloture Motion Agreed to (50-48)",
+  "result_text": "Cloture Motion Agreed to (50-45)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00437.xml",
-  "subject": "On the Cloture Motion PN346-2",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00440.xml",
+  "subject": "On the Cloture Motion PN22-17",
   "type": "On the Cloture Motion",
-  "updated_at": "2025-07-29T03:57:42-04:00",
-  "vote_id": "s437-119.2025",
+  "updated_at": "2025-07-29T03:57:40-04:00",
+  "vote_id": "s440-119.2025",
   "votes": {
     "Nay": [
       {
@@ -76,14 +76,6 @@
         "last_name": "Cantwell",
         "party": "D",
         "state": "WA"
-      },
-      {
-        "display_name": "Collins (R-ME)",
-        "first_name": "Susan",
-        "id": "S252",
-        "last_name": "Collins",
-        "party": "R",
-        "state": "ME"
       },
       {
         "display_name": "Coons (D-DE)",
@@ -230,14 +222,6 @@
         "state": "OR"
       },
       {
-        "display_name": "Murkowski (R-AK)",
-        "first_name": "Lisa",
-        "id": "S288",
-        "last_name": "Murkowski",
-        "party": "R",
-        "state": "AK"
-      },
-      {
         "display_name": "Murphy (D-CT)",
         "first_name": "Christopher",
         "id": "S364",
@@ -382,14 +366,6 @@
         "state": "MA"
       },
       {
-        "display_name": "Welch (D-VT)",
-        "first_name": "Peter",
-        "id": "S422",
-        "last_name": "Welch",
-        "party": "D",
-        "state": "VT"
-      },
-      {
         "display_name": "Whitehouse (D-RI)",
         "first_name": "Sheldon",
         "id": "S316",
@@ -408,12 +384,12 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Britt (R-AL)",
-        "first_name": "Katie",
-        "id": "S416",
-        "last_name": "Britt",
+        "display_name": "Cassidy (R-LA)",
+        "first_name": "Bill",
+        "id": "S373",
+        "last_name": "Cassidy",
         "party": "R",
-        "state": "AL"
+        "state": "LA"
       },
       {
         "display_name": "Gallego (D-AZ)",
@@ -422,6 +398,30 @@
         "last_name": "Gallego",
         "party": "D",
         "state": "AZ"
+      },
+      {
+        "display_name": "Murkowski (R-AK)",
+        "first_name": "Lisa",
+        "id": "S288",
+        "last_name": "Murkowski",
+        "party": "R",
+        "state": "AK"
+      },
+      {
+        "display_name": "Tillis (R-NC)",
+        "first_name": "Thomas",
+        "id": "S384",
+        "last_name": "Tillis",
+        "party": "R",
+        "state": "NC"
+      },
+      {
+        "display_name": "Welch (D-VT)",
+        "first_name": "Peter",
+        "id": "S422",
+        "last_name": "Welch",
+        "party": "D",
+        "state": "VT"
       }
     ],
     "Present": [],
@@ -459,6 +459,14 @@
         "state": "AR"
       },
       {
+        "display_name": "Britt (R-AL)",
+        "first_name": "Katie",
+        "id": "S416",
+        "last_name": "Britt",
+        "party": "R",
+        "state": "AL"
+      },
+      {
         "display_name": "Budd (R-NC)",
         "first_name": "Ted",
         "id": "S417",
@@ -475,12 +483,12 @@
         "state": "WV"
       },
       {
-        "display_name": "Cassidy (R-LA)",
-        "first_name": "Bill",
-        "id": "S373",
-        "last_name": "Cassidy",
+        "display_name": "Collins (R-ME)",
+        "first_name": "Susan",
+        "id": "S252",
+        "last_name": "Collins",
         "party": "R",
-        "state": "LA"
+        "state": "ME"
       },
       {
         "display_name": "Cornyn (R-TX)",
@@ -793,14 +801,6 @@
         "last_name": "Thune",
         "party": "R",
         "state": "SD"
-      },
-      {
-        "display_name": "Tillis (R-NC)",
-        "first_name": "Thomas",
-        "id": "S384",
-        "last_name": "Tillis",
-        "party": "R",
-        "state": "NC"
       },
       {
         "display_name": "Tuberville (R-AL)",

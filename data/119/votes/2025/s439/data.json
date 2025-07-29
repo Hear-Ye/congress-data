@@ -1,24 +1,24 @@
 {
-  "category": "cloture",
+  "category": "nomination",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-07-24T13:57:00-04:00",
+  "date": "2025-07-28T19:01:00-04:00",
   "nomination": {
-    "number": "346-2",
-    "title": "Emil J. Bove III, of Pennsylvania, to be United States Circuit Judge for the Third Circuit"
+    "number": "345-20",
+    "title": "David Wright, of South Carolina, to be a Member of the Nuclear Regulatory Commission for the term of five years expiring June 30, 2030"
   },
-  "number": 437,
-  "question": "Motion to Invoke Cloture: Emil J. Bove III to be U.S. Circuit Judge for the Third Circuit: Emil J. Bove III, of Pennsylvania, to be United States Circuit Judge for the Third Circuit",
-  "record_modified": "2025-07-28T16:06:00-04:00",
+  "number": 439,
+  "question": "On the Nomination PN345-20: David Wright, of South Carolina, to be a Member of the Nuclear Regulatory Commission for the term of five years expiring June 30, 2030",
+  "record_modified": "2025-07-28T19:59:00-04:00",
   "requires": "1/2",
-  "result": "Cloture Motion Agreed to",
-  "result_text": "Cloture Motion Agreed to (50-48)",
+  "result": "Nomination Confirmed",
+  "result_text": "Nomination Confirmed (50-39)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00437.xml",
-  "subject": "On the Cloture Motion PN346-2",
-  "type": "On the Cloture Motion",
-  "updated_at": "2025-07-29T03:57:42-04:00",
-  "vote_id": "s437-119.2025",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00439.xml",
+  "subject": "Confirmation: David Wright, of South Carolina, to be a Member of the Nuclear Regulatory Commission",
+  "type": "On the Nomination",
+  "updated_at": "2025-07-29T03:57:41-04:00",
+  "vote_id": "s439-119.2025",
   "votes": {
     "Nay": [
       {
@@ -78,14 +78,6 @@
         "state": "WA"
       },
       {
-        "display_name": "Collins (R-ME)",
-        "first_name": "Susan",
-        "id": "S252",
-        "last_name": "Collins",
-        "party": "R",
-        "state": "ME"
-      },
-      {
         "display_name": "Coons (D-DE)",
         "first_name": "Christopher",
         "id": "S337",
@@ -102,14 +94,6 @@
         "state": "NV"
       },
       {
-        "display_name": "Duckworth (D-IL)",
-        "first_name": "Tammy",
-        "id": "S386",
-        "last_name": "Duckworth",
-        "party": "D",
-        "state": "IL"
-      },
-      {
         "display_name": "Durbin (D-IL)",
         "first_name": "Richard",
         "id": "S253",
@@ -124,14 +108,6 @@
         "last_name": "Fetterman",
         "party": "D",
         "state": "PA"
-      },
-      {
-        "display_name": "Gillibrand (D-NY)",
-        "first_name": "Kirsten",
-        "id": "S331",
-        "last_name": "Gillibrand",
-        "party": "D",
-        "state": "NY"
       },
       {
         "display_name": "Hassan (D-NH)",
@@ -230,14 +206,6 @@
         "state": "OR"
       },
       {
-        "display_name": "Murkowski (R-AK)",
-        "first_name": "Lisa",
-        "id": "S288",
-        "last_name": "Murkowski",
-        "party": "R",
-        "state": "AK"
-      },
-      {
         "display_name": "Murphy (D-CT)",
         "first_name": "Christopher",
         "id": "S364",
@@ -278,28 +246,12 @@
         "state": "MI"
       },
       {
-        "display_name": "Reed (D-RI)",
-        "first_name": "John",
-        "id": "S259",
-        "last_name": "Reed",
-        "party": "D",
-        "state": "RI"
-      },
-      {
         "display_name": "Rosen (D-NV)",
         "first_name": "Jacky",
         "id": "S402",
         "last_name": "Rosen",
         "party": "D",
         "state": "NV"
-      },
-      {
-        "display_name": "Sanders (I-VT)",
-        "first_name": "Bernie",
-        "id": "S313",
-        "last_name": "Sanders",
-        "party": "I",
-        "state": "VT"
       },
       {
         "display_name": "Schatz (D-HI)",
@@ -366,6 +318,88 @@
         "state": "VA"
       },
       {
+        "display_name": "Whitehouse (D-RI)",
+        "first_name": "Sheldon",
+        "id": "S316",
+        "last_name": "Whitehouse",
+        "party": "D",
+        "state": "RI"
+      },
+      {
+        "display_name": "Wyden (D-OR)",
+        "first_name": "Ron",
+        "id": "S247",
+        "last_name": "Wyden",
+        "party": "D",
+        "state": "OR"
+      }
+    ],
+    "Not Voting": [
+      {
+        "display_name": "Cassidy (R-LA)",
+        "first_name": "Bill",
+        "id": "S373",
+        "last_name": "Cassidy",
+        "party": "R",
+        "state": "LA"
+      },
+      {
+        "display_name": "Duckworth (D-IL)",
+        "first_name": "Tammy",
+        "id": "S386",
+        "last_name": "Duckworth",
+        "party": "D",
+        "state": "IL"
+      },
+      {
+        "display_name": "Gallego (D-AZ)",
+        "first_name": "Ruben",
+        "id": "S432",
+        "last_name": "Gallego",
+        "party": "D",
+        "state": "AZ"
+      },
+      {
+        "display_name": "Gillibrand (D-NY)",
+        "first_name": "Kirsten",
+        "id": "S331",
+        "last_name": "Gillibrand",
+        "party": "D",
+        "state": "NY"
+      },
+      {
+        "display_name": "Murkowski (R-AK)",
+        "first_name": "Lisa",
+        "id": "S288",
+        "last_name": "Murkowski",
+        "party": "R",
+        "state": "AK"
+      },
+      {
+        "display_name": "Reed (D-RI)",
+        "first_name": "John",
+        "id": "S259",
+        "last_name": "Reed",
+        "party": "D",
+        "state": "RI"
+      },
+      {
+        "display_name": "Sanders (I-VT)",
+        "first_name": "Bernie",
+        "id": "S313",
+        "last_name": "Sanders",
+        "party": "I",
+        "state": "VT"
+      },
+      {
+        "display_name": "Tillis (R-NC)",
+        "first_name": "Thomas",
+        "id": "S384",
+        "last_name": "Tillis",
+        "party": "R",
+        "state": "NC"
+      },
+      {
         "display_name": "Warnock (D-GA)",
         "first_name": "Raphael",
         "id": "S415",
@@ -388,40 +422,6 @@
         "last_name": "Welch",
         "party": "D",
         "state": "VT"
-      },
-      {
-        "display_name": "Whitehouse (D-RI)",
-        "first_name": "Sheldon",
-        "id": "S316",
-        "last_name": "Whitehouse",
-        "party": "D",
-        "state": "RI"
-      },
-      {
-        "display_name": "Wyden (D-OR)",
-        "first_name": "Ron",
-        "id": "S247",
-        "last_name": "Wyden",
-        "party": "D",
-        "state": "OR"
-      }
-    ],
-    "Not Voting": [
-      {
-        "display_name": "Britt (R-AL)",
-        "first_name": "Katie",
-        "id": "S416",
-        "last_name": "Britt",
-        "party": "R",
-        "state": "AL"
-      },
-      {
-        "display_name": "Gallego (D-AZ)",
-        "first_name": "Ruben",
-        "id": "S432",
-        "last_name": "Gallego",
-        "party": "D",
-        "state": "AZ"
       }
     ],
     "Present": [],
@@ -459,6 +459,14 @@
         "state": "AR"
       },
       {
+        "display_name": "Britt (R-AL)",
+        "first_name": "Katie",
+        "id": "S416",
+        "last_name": "Britt",
+        "party": "R",
+        "state": "AL"
+      },
+      {
         "display_name": "Budd (R-NC)",
         "first_name": "Ted",
         "id": "S417",
@@ -475,12 +483,12 @@
         "state": "WV"
       },
       {
-        "display_name": "Cassidy (R-LA)",
-        "first_name": "Bill",
-        "id": "S373",
-        "last_name": "Cassidy",
+        "display_name": "Collins (R-ME)",
+        "first_name": "Susan",
+        "id": "S252",
+        "last_name": "Collins",
         "party": "R",
-        "state": "LA"
+        "state": "ME"
       },
       {
         "display_name": "Cornyn (R-TX)",
@@ -793,14 +801,6 @@
         "last_name": "Thune",
         "party": "R",
         "state": "SD"
-      },
-      {
-        "display_name": "Tillis (R-NC)",
-        "first_name": "Thomas",
-        "id": "S384",
-        "last_name": "Tillis",
-        "party": "R",
-        "state": "NC"
       },
       {
         "display_name": "Tuberville (R-AL)",
