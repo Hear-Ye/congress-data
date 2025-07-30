@@ -2,23 +2,23 @@
   "category": "cloture",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-07-28T19:42:00-04:00",
+  "date": "2025-07-29T12:13:00-04:00",
   "nomination": {
-    "number": "22-17",
-    "title": "Earl Matthews, of Virginia, to be General Counsel of the Department of Defense"
+    "number": "22-13",
+    "title": "William Kimmitt, of Virginia, to be Under Secretary of Commerce for International Trade"
   },
-  "number": 440,
-  "question": "Motion to Invoke Cloture: Earl Matthews to be General Counsel of the Department of Defense: Earl Matthews, of Virginia, to be General Counsel of the Department of Defense",
-  "record_modified": "2025-07-29T14:29:00-04:00",
+  "number": 442,
+  "question": "Motion to Invoke Cloture: William Kimmitt to be Under Secretary of Commerce for International Trade: William Kimmitt, of Virginia, to be Under Secretary of Commerce for International Trade",
+  "record_modified": "2025-07-29T12:55:00-04:00",
   "requires": "1/2",
   "result": "Cloture Motion Agreed to",
-  "result_text": "Cloture Motion Agreed to (50-45)",
+  "result_text": "Cloture Motion Agreed to (51-47)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00440.xml",
-  "subject": "On the Cloture Motion PN22-17",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00442.xml",
+  "subject": "On the Cloture Motion PN22-13",
   "type": "On the Cloture Motion",
-  "updated_at": "2025-07-30T03:53:07-04:00",
-  "vote_id": "s440-119.2025",
+  "updated_at": "2025-07-30T03:53:06-04:00",
+  "vote_id": "s442-119.2025",
   "votes": {
     "Nay": [
       {
@@ -116,6 +116,14 @@
         "last_name": "Fetterman",
         "party": "D",
         "state": "PA"
+      },
+      {
+        "display_name": "Gallego (D-AZ)",
+        "first_name": "Ruben",
+        "id": "S432",
+        "last_name": "Gallego",
+        "party": "D",
+        "state": "AZ"
       },
       {
         "display_name": "Gillibrand (D-NY)",
@@ -366,6 +374,14 @@
         "state": "MA"
       },
       {
+        "display_name": "Welch (D-VT)",
+        "first_name": "Peter",
+        "id": "S422",
+        "last_name": "Welch",
+        "party": "D",
+        "state": "VT"
+      },
+      {
         "display_name": "Whitehouse (D-RI)",
         "first_name": "Sheldon",
         "id": "S316",
@@ -392,36 +408,12 @@
         "state": "LA"
       },
       {
-        "display_name": "Gallego (D-AZ)",
-        "first_name": "Ruben",
-        "id": "S432",
-        "last_name": "Gallego",
-        "party": "D",
-        "state": "AZ"
-      },
-      {
-        "display_name": "Murkowski (R-AK)",
-        "first_name": "Lisa",
-        "id": "S288",
-        "last_name": "Murkowski",
+        "display_name": "Justice (R-WV)",
+        "first_name": "James",
+        "id": "S437",
+        "last_name": "Justice",
         "party": "R",
-        "state": "AK"
-      },
-      {
-        "display_name": "Tillis (R-NC)",
-        "first_name": "Thomas",
-        "id": "S384",
-        "last_name": "Tillis",
-        "party": "R",
-        "state": "NC"
-      },
-      {
-        "display_name": "Welch (D-VT)",
-        "first_name": "Peter",
-        "id": "S422",
-        "last_name": "Welch",
-        "party": "D",
-        "state": "VT"
+        "state": "WV"
       }
     ],
     "Present": [],
@@ -627,14 +619,6 @@
         "state": "WI"
       },
       {
-        "display_name": "Justice (R-WV)",
-        "first_name": "James",
-        "id": "S437",
-        "last_name": "Justice",
-        "party": "R",
-        "state": "WV"
-      },
-      {
         "display_name": "Kennedy (R-LA)",
         "first_name": "John",
         "id": "S389",
@@ -723,6 +707,14 @@
         "state": "OK"
       },
       {
+        "display_name": "Murkowski (R-AK)",
+        "first_name": "Lisa",
+        "id": "S288",
+        "last_name": "Murkowski",
+        "party": "R",
+        "state": "AK"
+      },
+      {
         "display_name": "Paul (R-KY)",
         "first_name": "Rand",
         "id": "S348",
@@ -801,6 +793,14 @@
         "last_name": "Thune",
         "party": "R",
         "state": "SD"
+      },
+      {
+        "display_name": "Tillis (R-NC)",
+        "first_name": "Thomas",
+        "id": "S384",
+        "last_name": "Tillis",
+        "party": "R",
+        "state": "NC"
       },
       {
         "display_name": "Tuberville (R-AL)",
