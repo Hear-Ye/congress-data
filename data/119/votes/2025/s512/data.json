@@ -1,24 +1,31 @@
 {
-  "category": "nomination",
+  "amendment": {
+    "number": 3849,
+    "purpose": "To direct the Attorney General to make publicly available documents related to Jeffrey Epstein.",
+    "type": "s"
+  },
+  "bill": {
+    "congress": 119,
+    "number": 2296,
+    "title": "No short title on file",
+    "type": "s"
+  },
+  "category": "procedural",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-09-09T17:24:00-04:00",
-  "nomination": {
-    "number": "346-3",
-    "title": "Kyle Christopher Dudek, of Florida, to be United States District Judge for the Middle District of Florida"
-  },
-  "number": 509,
-  "question": "On the Nomination PN346-3: Kyle Christopher Dudek, of Florida, to be United States District Judge for the Middle District of Florida",
-  "record_modified": "2025-09-10T19:03:00-04:00",
+  "date": "2025-09-10T17:20:00-04:00",
+  "number": 512,
+  "question": "On the Motion to Table S.Amdt. 3849 to S. 2296 (No short title on file)",
+  "record_modified": "2025-09-10T18:31:00-04:00",
   "requires": "1/2",
-  "result": "Nomination Confirmed",
-  "result_text": "Nomination Confirmed (53-45)",
+  "result": "Motion to Table Agreed to",
+  "result_text": "Motion to Table Agreed to (51-49)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00509.xml",
-  "subject": "Confirmation: Kyle Christopher Dudek, of Florida, to be U.S. District Judge for the Middle District of Florida",
-  "type": "On the Nomination",
-  "updated_at": "2025-09-11T03:13:02-04:00",
-  "vote_id": "s509-119.2025",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00512.xml",
+  "subject": "Motion to Table Schumer Amdt. No. 3849",
+  "type": "On the Motion to Table S.Amdt. 3849 to S. 2296 (No short title on file)",
+  "updated_at": "2025-09-11T03:13:01-04:00",
+  "vote_id": "s512-119.2025",
   "votes": {
     "Nay": [
       {
@@ -142,6 +149,14 @@
         "state": "NH"
       },
       {
+        "display_name": "Hawley (R-MO)",
+        "first_name": "Josh",
+        "id": "S399",
+        "last_name": "Hawley",
+        "party": "R",
+        "state": "MO"
+      },
+      {
         "display_name": "Heinrich (D-NM)",
         "first_name": "Martin",
         "id": "S359",
@@ -262,6 +277,14 @@
         "state": "CA"
       },
       {
+        "display_name": "Paul (R-KY)",
+        "first_name": "Rand",
+        "id": "S348",
+        "last_name": "Paul",
+        "party": "R",
+        "state": "KY"
+      },
+      {
         "display_name": "Peters (D-MI)",
         "first_name": "Gary",
         "id": "S380",
@@ -342,6 +365,14 @@
         "state": "MN"
       },
       {
+        "display_name": "Van Hollen (D-MD)",
+        "first_name": "Chris",
+        "id": "S390",
+        "last_name": "Van Hollen",
+        "party": "D",
+        "state": "MD"
+      },
+      {
         "display_name": "Warner (D-VA)",
         "first_name": "Mark",
         "id": "S327",
@@ -366,6 +397,14 @@
         "state": "MA"
       },
       {
+        "display_name": "Welch (D-VT)",
+        "first_name": "Peter",
+        "id": "S422",
+        "last_name": "Welch",
+        "party": "D",
+        "state": "VT"
+      },
+      {
         "display_name": "Whitehouse (D-RI)",
         "first_name": "Sheldon",
         "id": "S316",
@@ -382,24 +421,7 @@
         "state": "OR"
       }
     ],
-    "Not Voting": [
-      {
-        "display_name": "Hagerty (R-TN)",
-        "first_name": "Bill",
-        "id": "S407",
-        "last_name": "Hagerty",
-        "party": "R",
-        "state": "TN"
-      },
-      {
-        "display_name": "Van Hollen (D-MD)",
-        "first_name": "Chris",
-        "id": "S390",
-        "last_name": "Van Hollen",
-        "party": "D",
-        "state": "MD"
-      }
-    ],
+    "Not Voting": [],
     "Present": [],
     "Yea": [
       {
@@ -563,12 +585,12 @@
         "state": "IA"
       },
       {
-        "display_name": "Hawley (R-MO)",
-        "first_name": "Josh",
-        "id": "S399",
-        "last_name": "Hawley",
+        "display_name": "Hagerty (R-TN)",
+        "first_name": "Bill",
+        "id": "S407",
+        "last_name": "Hagerty",
         "party": "R",
-        "state": "MO"
+        "state": "TN"
       },
       {
         "display_name": "Hoeven (R-ND)",
@@ -707,14 +729,6 @@
         "state": "AK"
       },
       {
-        "display_name": "Paul (R-KY)",
-        "first_name": "Rand",
-        "id": "S348",
-        "last_name": "Paul",
-        "party": "R",
-        "state": "KY"
-      },
-      {
         "display_name": "Ricketts (R-NE)",
         "first_name": "Pete",
         "id": "S423",
@@ -801,14 +815,6 @@
         "last_name": "Tuberville",
         "party": "R",
         "state": "AL"
-      },
-      {
-        "display_name": "Welch (D-VT)",
-        "first_name": "Peter",
-        "id": "S422",
-        "last_name": "Welch",
-        "party": "D",
-        "state": "VT"
       },
       {
         "display_name": "Wicker (R-MS)",
