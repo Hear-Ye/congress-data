@@ -1,24 +1,26 @@
 {
-  "category": "nomination",
+  "bill": {
+    "congress": 119,
+    "number": 377,
+    "title": "An executive resolution authorizing the en bloc consideration in Executive Session of certain nominations on the Executive Calendar.",
+    "type": "sres"
+  },
+  "category": "procedural",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-07-31T14:43:00-04:00",
-  "nomination": {
-    "number": "141-30",
-    "title": "Cheryl Mason, of North Carolina, to be Inspector General, Department of Veterans Affairs"
-  },
-  "number": 461,
-  "question": "On the Nomination PN141-30: Cheryl Mason, of North Carolina, to be Inspector General, Department of Veterans Affairs",
-  "record_modified": "2025-09-11T18:04:00-04:00",
+  "date": "2025-09-11T16:12:00-04:00",
+  "number": 514,
+  "question": "On the Motion to Reconsider S.Res. 377",
+  "record_modified": "2025-09-11T17:20:00-04:00",
   "requires": "1/2",
-  "result": "Nomination Confirmed",
-  "result_text": "Nomination Confirmed (53-45)",
+  "result": "Motion to Reconsider Agreed to",
+  "result_text": "Motion to Reconsider Agreed to (52-45)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00461.xml",
-  "subject": "Confirmation: Cheryl Mason, of North Carolina, to be Inspector General, Department of Veterans Affairs",
-  "type": "On the Nomination",
-  "updated_at": "2025-09-12T03:08:16-04:00",
-  "vote_id": "s461-119.2025",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00514.xml",
+  "subject": "Motion to Reconsider the Vote by which the Motion to Invoke Cloture on S. Res. 377 was Not Agreed to",
+  "type": "On the Motion to Reconsider S.Res. 377",
+  "updated_at": "2025-09-12T03:07:49-04:00",
+  "vote_id": "s514-119.2025",
   "votes": {
     "Nay": [
       {
@@ -110,12 +112,12 @@
         "state": "IL"
       },
       {
-        "display_name": "Fetterman (D-PA)",
-        "first_name": "John",
-        "id": "S418",
-        "last_name": "Fetterman",
+        "display_name": "Gallego (D-AZ)",
+        "first_name": "Ruben",
+        "id": "S432",
+        "last_name": "Gallego",
         "party": "D",
-        "state": "PA"
+        "state": "AZ"
       },
       {
         "display_name": "Gillibrand (D-NY)",
@@ -124,14 +126,6 @@
         "last_name": "Gillibrand",
         "party": "D",
         "state": "NY"
-      },
-      {
-        "display_name": "Hassan (D-NH)",
-        "first_name": "Maggie",
-        "id": "S388",
-        "last_name": "Hassan",
-        "party": "D",
-        "state": "NH"
       },
       {
         "display_name": "Heinrich (D-NM)",
@@ -164,6 +158,14 @@
         "last_name": "Kaine",
         "party": "D",
         "state": "VA"
+      },
+      {
+        "display_name": "Kelly (D-AZ)",
+        "first_name": "Mark",
+        "id": "S406",
+        "last_name": "Kelly",
+        "party": "D",
+        "state": "AZ"
       },
       {
         "display_name": "Kim (D-NJ)",
@@ -384,20 +386,28 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Gallego (D-AZ)",
-        "first_name": "Ruben",
-        "id": "S432",
-        "last_name": "Gallego",
+        "display_name": "Fetterman (D-PA)",
+        "first_name": "John",
+        "id": "S418",
+        "last_name": "Fetterman",
         "party": "D",
-        "state": "AZ"
+        "state": "PA"
       },
       {
-        "display_name": "Kelly (D-AZ)",
-        "first_name": "Mark",
-        "id": "S406",
-        "last_name": "Kelly",
+        "display_name": "Hassan (D-NH)",
+        "first_name": "Maggie",
+        "id": "S388",
+        "last_name": "Hassan",
         "party": "D",
-        "state": "AZ"
+        "state": "NH"
+      },
+      {
+        "display_name": "Mullin (R-OK)",
+        "first_name": "Markwayne",
+        "id": "S419",
+        "last_name": "Mullin",
+        "party": "R",
+        "state": "OK"
       }
     ],
     "Present": [],
@@ -697,14 +707,6 @@
         "last_name": "Moreno",
         "party": "R",
         "state": "OH"
-      },
-      {
-        "display_name": "Mullin (R-OK)",
-        "first_name": "Markwayne",
-        "id": "S419",
-        "last_name": "Mullin",
-        "party": "R",
-        "state": "OK"
       },
       {
         "display_name": "Murkowski (R-AK)",

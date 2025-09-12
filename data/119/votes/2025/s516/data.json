@@ -1,24 +1,26 @@
 {
-  "category": "nomination",
+  "bill": {
+    "congress": 119,
+    "number": 377,
+    "title": "An executive resolution authorizing the en bloc consideration in Executive Session of certain nominations on the Executive Calendar.",
+    "type": "sres"
+  },
+  "category": "cloture",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-07-31T14:43:00-04:00",
-  "nomination": {
-    "number": "141-30",
-    "title": "Cheryl Mason, of North Carolina, to be Inspector General, Department of Veterans Affairs"
-  },
-  "number": 461,
-  "question": "On the Nomination PN141-30: Cheryl Mason, of North Carolina, to be Inspector General, Department of Veterans Affairs",
-  "record_modified": "2025-09-11T18:04:00-04:00",
+  "date": "2025-09-11T17:10:00-04:00",
+  "number": 516,
+  "question": "Motion to Invoke Cloture on Executive Calendar #1 S.Res. 377, Upon Reconsideration",
+  "record_modified": "2025-09-11T17:46:00-04:00",
   "requires": "1/2",
-  "result": "Nomination Confirmed",
-  "result_text": "Nomination Confirmed (53-45)",
+  "result": "Cloture Motion Agreed to",
+  "result_text": "Cloture Motion Agreed to (53-43)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00461.xml",
-  "subject": "Confirmation: Cheryl Mason, of North Carolina, to be Inspector General, Department of Veterans Affairs",
-  "type": "On the Nomination",
-  "updated_at": "2025-09-12T03:08:16-04:00",
-  "vote_id": "s461-119.2025",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00516.xml",
+  "subject": "On the Cloture Motion S.Res. 377",
+  "type": "On the Cloture Motion",
+  "updated_at": "2025-09-12T03:07:48-04:00",
+  "vote_id": "s516-119.2025",
   "votes": {
     "Nay": [
       {
@@ -110,12 +112,12 @@
         "state": "IL"
       },
       {
-        "display_name": "Fetterman (D-PA)",
-        "first_name": "John",
-        "id": "S418",
-        "last_name": "Fetterman",
+        "display_name": "Gallego (D-AZ)",
+        "first_name": "Ruben",
+        "id": "S432",
+        "last_name": "Gallego",
         "party": "D",
-        "state": "PA"
+        "state": "AZ"
       },
       {
         "display_name": "Gillibrand (D-NY)",
@@ -124,14 +126,6 @@
         "last_name": "Gillibrand",
         "party": "D",
         "state": "NY"
-      },
-      {
-        "display_name": "Hassan (D-NH)",
-        "first_name": "Maggie",
-        "id": "S388",
-        "last_name": "Hassan",
-        "party": "D",
-        "state": "NH"
       },
       {
         "display_name": "Heinrich (D-NM)",
@@ -244,14 +238,6 @@
         "last_name": "Padilla",
         "party": "D",
         "state": "CA"
-      },
-      {
-        "display_name": "Peters (D-MI)",
-        "first_name": "Gary",
-        "id": "S380",
-        "last_name": "Peters",
-        "party": "D",
-        "state": "MI"
       },
       {
         "display_name": "Reed (D-RI)",
@@ -384,12 +370,20 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Gallego (D-AZ)",
-        "first_name": "Ruben",
-        "id": "S432",
-        "last_name": "Gallego",
+        "display_name": "Fetterman (D-PA)",
+        "first_name": "John",
+        "id": "S418",
+        "last_name": "Fetterman",
         "party": "D",
-        "state": "AZ"
+        "state": "PA"
+      },
+      {
+        "display_name": "Hassan (D-NH)",
+        "first_name": "Maggie",
+        "id": "S388",
+        "last_name": "Hassan",
+        "party": "D",
+        "state": "NH"
       },
       {
         "display_name": "Kelly (D-AZ)",
@@ -398,6 +392,14 @@
         "last_name": "Kelly",
         "party": "D",
         "state": "AZ"
+      },
+      {
+        "display_name": "Peters (D-MI)",
+        "first_name": "Gary",
+        "id": "S380",
+        "last_name": "Peters",
+        "party": "D",
+        "state": "MI"
       }
     ],
     "Present": [],

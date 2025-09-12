@@ -1,24 +1,26 @@
 {
-  "category": "nomination",
+  "bill": {
+    "congress": 119,
+    "number": 377,
+    "title": "An executive resolution authorizing the en bloc consideration in Executive Session of certain nominations on the Executive Calendar.",
+    "type": "sres"
+  },
+  "category": "cloture",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-07-31T14:43:00-04:00",
-  "nomination": {
-    "number": "141-30",
-    "title": "Cheryl Mason, of North Carolina, to be Inspector General, Department of Veterans Affairs"
-  },
-  "number": 461,
-  "question": "On the Nomination PN141-30: Cheryl Mason, of North Carolina, to be Inspector General, Department of Veterans Affairs",
-  "record_modified": "2025-09-11T18:04:00-04:00",
-  "requires": "1/2",
-  "result": "Nomination Confirmed",
-  "result_text": "Nomination Confirmed (53-45)",
+  "date": "2025-09-11T11:01:00-04:00",
+  "number": 513,
+  "question": "Motion to Invoke Cloture: S. Res. 377",
+  "record_modified": "2025-09-11T16:10:00-04:00",
+  "requires": "3/5",
+  "result": "Cloture Motion Rejected",
+  "result_text": "Cloture Motion Rejected (52-47, 3/5 majority required)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00461.xml",
-  "subject": "Confirmation: Cheryl Mason, of North Carolina, to be Inspector General, Department of Veterans Affairs",
-  "type": "On the Nomination",
-  "updated_at": "2025-09-12T03:08:16-04:00",
-  "vote_id": "s461-119.2025",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00513.xml",
+  "subject": "On the Cloture Motion S.Res. 377",
+  "type": "On the Cloture Motion",
+  "updated_at": "2025-09-12T03:07:50-04:00",
+  "vote_id": "s513-119.2025",
   "votes": {
     "Nay": [
       {
@@ -118,20 +120,20 @@
         "state": "PA"
       },
       {
+        "display_name": "Gallego (D-AZ)",
+        "first_name": "Ruben",
+        "id": "S432",
+        "last_name": "Gallego",
+        "party": "D",
+        "state": "AZ"
+      },
+      {
         "display_name": "Gillibrand (D-NY)",
         "first_name": "Kirsten",
         "id": "S331",
         "last_name": "Gillibrand",
         "party": "D",
         "state": "NY"
-      },
-      {
-        "display_name": "Hassan (D-NH)",
-        "first_name": "Maggie",
-        "id": "S388",
-        "last_name": "Hassan",
-        "party": "D",
-        "state": "NH"
       },
       {
         "display_name": "Heinrich (D-NM)",
@@ -164,6 +166,14 @@
         "last_name": "Kaine",
         "party": "D",
         "state": "VA"
+      },
+      {
+        "display_name": "Kelly (D-AZ)",
+        "first_name": "Mark",
+        "id": "S406",
+        "last_name": "Kelly",
+        "party": "D",
+        "state": "AZ"
       },
       {
         "display_name": "Kim (D-NJ)",
@@ -326,6 +336,14 @@
         "state": "MN"
       },
       {
+        "display_name": "Thune (R-SD)",
+        "first_name": "John",
+        "id": "S303",
+        "last_name": "Thune",
+        "party": "R",
+        "state": "SD"
+      },
+      {
         "display_name": "Van Hollen (D-MD)",
         "first_name": "Chris",
         "id": "S390",
@@ -384,20 +402,12 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Gallego (D-AZ)",
-        "first_name": "Ruben",
-        "id": "S432",
-        "last_name": "Gallego",
+        "display_name": "Hassan (D-NH)",
+        "first_name": "Maggie",
+        "id": "S388",
+        "last_name": "Hassan",
         "party": "D",
-        "state": "AZ"
-      },
-      {
-        "display_name": "Kelly (D-AZ)",
-        "first_name": "Mark",
-        "id": "S406",
-        "last_name": "Kelly",
-        "party": "D",
-        "state": "AZ"
+        "state": "NH"
       }
     ],
     "Present": [],
@@ -785,14 +795,6 @@
         "last_name": "Sullivan",
         "party": "R",
         "state": "AK"
-      },
-      {
-        "display_name": "Thune (R-SD)",
-        "first_name": "John",
-        "id": "S303",
-        "last_name": "Thune",
-        "party": "R",
-        "state": "SD"
       },
       {
         "display_name": "Tillis (R-NC)",
