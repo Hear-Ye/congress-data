@@ -1,34 +1,28 @@
 {
-  "category": "procedural",
+  "bill": {
+    "congress": 119,
+    "number": 2882,
+    "title": "A bill making continuing appropriations for the fiscal year ending September 30, 2026, and for other purposes.",
+    "type": "s"
+  },
+  "category": "passage",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-09-17T12:29:00-04:00",
-  "nomination": {
-    "number": "55-25",
-    "title": "Peter Lamelas, of Florida, to be Ambassador to the Argentine Republic"
-  },
-  "number": 524,
-  "question": "On the Decision of the Chair PN12-19 and PN25-28 and PN12-45 and PN22-1 and PN22-2 and PN22-5 and PN22-27 and PN22-20 and PN22-21 and PN26-8 and PN26-34 and PN26-35 and PN55-41 and PN22-4 and PN22-8 and PN22-19 and PN26-1 and PN22-23 and PN25-40 and PN26-7 and PN26-19 and PN26-31 and PN60-3 and PN26-44 and PN25-2 and PN55-16 and PN60-9 and PN60-10 and PN129-8 and PN26-45 and PN141-37 and PN141-7 and PN141-28 and PN12-22 and PN25-21 and PN22-3 and PN26-22 and PN13-5 and PN22-24 and PN25-33 and PN141-18 and PN150-5 and PN345-16 and PN55-42 and PN54-6 and PN54-7 and PN55-45 and PN55-25: Peter Lamelas, of Florida, to be Ambassador to the Argentine Republic",
-  "record_modified": "2025-09-19T10:48:00-04:00",
-  "requires": "1/2",
-  "result": "Decision of Chair Not Sustained",
-  "result_text": "Decision of Chair Not Sustained (47-52)",
+  "date": "2025-09-19T12:20:00-04:00",
+  "number": 527,
+  "question": "On Passage of the Bill S. 2882",
+  "record_modified": "2025-09-19T13:13:00-04:00",
+  "requires": "3/5",
+  "result": "Bill Defeated",
+  "result_text": "Bill Defeated (47-45, 3/5 majority required)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00524.xml",
-  "subject": "Shall the Decision of the Chair stand as the Judgment of the Senate?",
-  "type": "On the Decision of the Chair PN12-19 and PN25-28 and PN12-45 and PN22-1 and PN22-2 and PN22-5 and PN22-27 and PN22-20 and PN22-21 and PN26-8 and PN26-34 and PN26-35 and PN55-41 and PN22-4 and PN22-8 and PN22-19 and PN26-1 and PN22-23 and PN25-40 and PN26-7 and PN26-19 and PN26-31 and PN60-3 and PN26-44 and PN25-2 and PN55-16 and PN60-9 and PN60-10 and PN129-8 and PN26-45 and PN141-37 and PN141-7 and PN141-28 and PN12-22 and PN25-21 and PN22-3 and PN26-22 and PN13-5 and PN22-24 and PN25-33 and PN141-18 and PN150-5 and PN345-16 and PN55-42 and PN54-6 and PN54-7 and PN55-45 and PN55-25",
-  "updated_at": "2025-09-20T03:08:10-04:00",
-  "vote_id": "s524-119.2025",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00527.xml",
+  "subject": "S. 2882",
+  "type": "On Passage of the Bill",
+  "updated_at": "2025-09-20T03:08:09-04:00",
+  "vote_id": "s527-119.2025",
   "votes": {
     "Nay": [
-      {
-        "display_name": "Banks (R-IN)",
-        "first_name": "Jim",
-        "id": "S429",
-        "last_name": "Banks",
-        "party": "R",
-        "state": "IN"
-      },
       {
         "display_name": "Barrasso (R-WY)",
         "first_name": "John",
@@ -36,14 +30,6 @@
         "last_name": "Barrasso",
         "party": "R",
         "state": "WY"
-      },
-      {
-        "display_name": "Blackburn (R-TN)",
-        "first_name": "Marsha",
-        "id": "S396",
-        "last_name": "Blackburn",
-        "party": "R",
-        "state": "TN"
       },
       {
         "display_name": "Boozman (R-AR)",
@@ -76,14 +62,6 @@
         "last_name": "Capito",
         "party": "R",
         "state": "WV"
-      },
-      {
-        "display_name": "Cassidy (R-LA)",
-        "first_name": "Bill",
-        "id": "S373",
-        "last_name": "Cassidy",
-        "party": "R",
-        "state": "LA"
       },
       {
         "display_name": "Collins (R-ME)",
@@ -222,14 +200,6 @@
         "state": "MS"
       },
       {
-        "display_name": "Johnson (R-WI)",
-        "first_name": "Ron",
-        "id": "S345",
-        "last_name": "Johnson",
-        "party": "R",
-        "state": "WI"
-      },
-      {
         "display_name": "Justice (R-WV)",
         "first_name": "James",
         "id": "S437",
@@ -310,14 +280,6 @@
         "state": "OH"
       },
       {
-        "display_name": "Mullin (R-OK)",
-        "first_name": "Markwayne",
-        "id": "S419",
-        "last_name": "Mullin",
-        "party": "R",
-        "state": "OK"
-      },
-      {
         "display_name": "Murkowski (R-AK)",
         "first_name": "Lisa",
         "id": "S288",
@@ -374,28 +336,12 @@
         "state": "FL"
       },
       {
-        "display_name": "Scott (R-SC)",
-        "first_name": "Tim",
-        "id": "S365",
-        "last_name": "Scott",
-        "party": "R",
-        "state": "SC"
-      },
-      {
         "display_name": "Sheehy (R-MT)",
         "first_name": "Tim",
         "id": "S435",
         "last_name": "Sheehy",
         "party": "R",
         "state": "MT"
-      },
-      {
-        "display_name": "Sullivan (R-AK)",
-        "first_name": "Dan",
-        "id": "S383",
-        "last_name": "Sullivan",
-        "party": "R",
-        "state": "AK"
       },
       {
         "display_name": "Thune (R-SD)",
@@ -440,12 +386,68 @@
     ],
     "Not Voting": [
       {
+        "display_name": "Banks (R-IN)",
+        "first_name": "Jim",
+        "id": "S429",
+        "last_name": "Banks",
+        "party": "R",
+        "state": "IN"
+      },
+      {
+        "display_name": "Blackburn (R-TN)",
+        "first_name": "Marsha",
+        "id": "S396",
+        "last_name": "Blackburn",
+        "party": "R",
+        "state": "TN"
+      },
+      {
+        "display_name": "Cassidy (R-LA)",
+        "first_name": "Bill",
+        "id": "S373",
+        "last_name": "Cassidy",
+        "party": "R",
+        "state": "LA"
+      },
+      {
+        "display_name": "Johnson (R-WI)",
+        "first_name": "Ron",
+        "id": "S345",
+        "last_name": "Johnson",
+        "party": "R",
+        "state": "WI"
+      },
+      {
         "display_name": "Lee (R-UT)",
         "first_name": "Mike",
         "id": "S346",
         "last_name": "Lee",
         "party": "R",
         "state": "UT"
+      },
+      {
+        "display_name": "Mullin (R-OK)",
+        "first_name": "Markwayne",
+        "id": "S419",
+        "last_name": "Mullin",
+        "party": "R",
+        "state": "OK"
+      },
+      {
+        "display_name": "Scott (R-SC)",
+        "first_name": "Tim",
+        "id": "S365",
+        "last_name": "Scott",
+        "party": "R",
+        "state": "SC"
+      },
+      {
+        "display_name": "Sullivan (R-AK)",
+        "first_name": "Dan",
+        "id": "S383",
+        "last_name": "Sullivan",
+        "party": "R",
+        "state": "AK"
       }
     ],
     "Present": [],
