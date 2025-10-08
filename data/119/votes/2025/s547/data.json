@@ -1,26 +1,24 @@
 {
-  "bill": {
-    "congress": 119,
-    "number": 5371,
-    "title": "A bill making continuing appropriations and extensions for fiscal year 2026, and for other purposes.",
-    "type": "hr"
-  },
-  "category": "cloture",
+  "category": "nomination",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-10-06T18:12:00-04:00",
-  "number": 545,
-  "question": "Motion to Invoke Cloture: Motion to Proceed to H.R. 5371",
-  "record_modified": "2025-10-07T12:45:00-04:00",
-  "requires": "3/5",
-  "result": "Cloture Motion Rejected",
-  "result_text": "Cloture Motion Rejected (52-42, 3/5 majority required)",
+  "date": "2025-10-07T17:01:00-04:00",
+  "nomination": {
+    "number": "22-9",
+    "title": "Neil Jacobs, of North Carolina, to be Under Secretary of Commerce for Oceans and Atmosphere"
+  },
+  "number": 547,
+  "question": "On the Nomination PN18 and PN25-3 and PN26-13 and PN26-9 and PN26-23 and PN55-33 and PN26-21 and PN25-30 and PN12-17 and PN22-6 and PN25-13 and PN22-28 and PN24-1 and PN25-38 and PN55-22 and PN55-35 and PN55-12 and PN129-16 and PN26-14 and PN25-25 and PN25-46 and PN60-5 and PN60-16 and PN60-1 and PN55-49 and PN129-12 and PN55-46 and PN141-17 and PN25-4 and PN25-34 and PN25-55 and PN129-3 and PN129-11 and PN25-47 and PN55-14 and PN55-40 and PN60-6 and PN141-6 and PN141-33 and PN13-1 and PN25-48 and PN55-17 and PN25-23 and PN55-4 and PN55-38 and PN246-17 and PN141-19 and PN55-1 and PN246-9 and PN141-23 and PN129-15 and PN26-48 and PN25-7 and PN25-52 and PN22-14 and PN246-15 and PN416-7 and PN379-5 and PN379-8 and PN379-14 and PN141-21 and PN141-32 and PN141-36 and PN379-24 and PN141-3 and PN141-13 and PN60-7 and PN26-32 and PN141-31 and PN60-15 and PN141-38 and PN60-18 and PN141-34 and PN26-17 and PN26-30 and PN26-41 and PN54-1 and PN54-2 and PN54-3 and PN54-4 and PN55-5 and PN55-8 and PN55-11 and PN55-19 and PN55-21 and PN55-23 and PN55-29 and PN55-32 and PN55-37 and PN55-48 and PN129-5 and PN129-14 and PN380-3 and PN380-4 and PN416-11 and PN465-3 and PN465-4 and PN465-5 and PN12-21 and PN25-5 and PN25-10 and PN25-24 and PN25-49 and PN55-15 and PN345-1 and PN345-19 and PN22-9: Neil Jacobs, of North Carolina, to be Under Secretary of Commerce for Oceans and Atmosphere",
+  "record_modified": "2025-10-07T18:14:00-04:00",
+  "requires": "1/2",
+  "result": "Nomination Confirmed",
+  "result_text": "Nomination Confirmed (51-47)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00545.xml",
-  "subject": "On the Cloture Motion H.R. 5371",
-  "type": "On the Cloture Motion",
-  "updated_at": "2025-10-08T03:10:53-04:00",
-  "vote_id": "s545-119.2025",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00547.xml",
+  "subject": "Confirmation: En bloc Nominations Provided for Under the Provisions of S. Res. 412",
+  "type": "On the Nomination",
+  "updated_at": "2025-10-08T03:10:52-04:00",
+  "vote_id": "s547-119.2025",
   "votes": {
     "Nay": [
       {
@@ -64,6 +62,14 @@
         "state": "DE"
       },
       {
+        "display_name": "Booker (D-NJ)",
+        "first_name": "Cory",
+        "id": "S370",
+        "last_name": "Booker",
+        "party": "D",
+        "state": "NJ"
+      },
+      {
         "display_name": "Cantwell (D-WA)",
         "first_name": "Maria",
         "id": "S275",
@@ -80,6 +86,14 @@
         "state": "DE"
       },
       {
+        "display_name": "Cortez Masto (D-NV)",
+        "first_name": "Catherine",
+        "id": "S385",
+        "last_name": "Cortez Masto",
+        "party": "D",
+        "state": "NV"
+      },
+      {
         "display_name": "Duckworth (D-IL)",
         "first_name": "Tammy",
         "id": "S386",
@@ -94,6 +108,14 @@
         "last_name": "Durbin",
         "party": "D",
         "state": "IL"
+      },
+      {
+        "display_name": "Fetterman (D-PA)",
+        "first_name": "John",
+        "id": "S418",
+        "last_name": "Fetterman",
+        "party": "D",
+        "state": "PA"
       },
       {
         "display_name": "Gallego (D-AZ)",
@@ -118,6 +140,14 @@
         "last_name": "Hassan",
         "party": "D",
         "state": "NH"
+      },
+      {
+        "display_name": "Heinrich (D-NM)",
+        "first_name": "Martin",
+        "id": "S359",
+        "last_name": "Heinrich",
+        "party": "D",
+        "state": "NM"
       },
       {
         "display_name": "Hickenlooper (D-CO)",
@@ -158,6 +188,14 @@
         "last_name": "Kim",
         "party": "D",
         "state": "NJ"
+      },
+      {
+        "display_name": "King (I-ME)",
+        "first_name": "Angus",
+        "id": "S363",
+        "last_name": "King",
+        "party": "I",
+        "state": "ME"
       },
       {
         "display_name": "Klobuchar (D-MN)",
@@ -224,14 +262,6 @@
         "state": "CA"
       },
       {
-        "display_name": "Paul (R-KY)",
-        "first_name": "Rand",
-        "id": "S348",
-        "last_name": "Paul",
-        "party": "R",
-        "state": "KY"
-      },
-      {
         "display_name": "Peters (D-MI)",
         "first_name": "Gary",
         "id": "S380",
@@ -246,6 +276,14 @@
         "last_name": "Reed",
         "party": "D",
         "state": "RI"
+      },
+      {
+        "display_name": "Rosen (D-NV)",
+        "first_name": "Jacky",
+        "id": "S402",
+        "last_name": "Rosen",
+        "party": "D",
+        "state": "NV"
       },
       {
         "display_name": "Sanders (I-VT)",
@@ -362,14 +400,6 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Booker (D-NJ)",
-        "first_name": "Cory",
-        "id": "S370",
-        "last_name": "Booker",
-        "party": "D",
-        "state": "NJ"
-      },
-      {
         "display_name": "Curtis (R-UT)",
         "first_name": "John ",
         "id": "S431",
@@ -378,36 +408,12 @@
         "state": "UT"
       },
       {
-        "display_name": "Heinrich (D-NM)",
-        "first_name": "Martin",
-        "id": "S359",
-        "last_name": "Heinrich",
-        "party": "D",
-        "state": "NM"
-      },
-      {
-        "display_name": "Kennedy (R-LA)",
-        "first_name": "John",
-        "id": "S389",
-        "last_name": "Kennedy",
+        "display_name": "Sheehy (R-MT)",
+        "first_name": "Tim",
+        "id": "S435",
+        "last_name": "Sheehy",
         "party": "R",
-        "state": "LA"
-      },
-      {
-        "display_name": "Rosen (D-NV)",
-        "first_name": "Jacky",
-        "id": "S402",
-        "last_name": "Rosen",
-        "party": "D",
-        "state": "NV"
-      },
-      {
-        "display_name": "Tillis (R-NC)",
-        "first_name": "Thomas",
-        "id": "S384",
-        "last_name": "Tillis",
-        "party": "R",
-        "state": "NC"
+        "state": "MT"
       }
     ],
     "Present": [],
@@ -493,14 +499,6 @@
         "state": "TX"
       },
       {
-        "display_name": "Cortez Masto (D-NV)",
-        "first_name": "Catherine",
-        "id": "S385",
-        "last_name": "Cortez Masto",
-        "party": "D",
-        "state": "NV"
-      },
-      {
         "display_name": "Cotton (R-AR)",
         "first_name": "Tom",
         "id": "S374",
@@ -547,14 +545,6 @@
         "last_name": "Ernst",
         "party": "R",
         "state": "IA"
-      },
-      {
-        "display_name": "Fetterman (D-PA)",
-        "first_name": "John",
-        "id": "S418",
-        "last_name": "Fetterman",
-        "party": "D",
-        "state": "PA"
       },
       {
         "display_name": "Fischer (R-NE)",
@@ -637,12 +627,12 @@
         "state": "WV"
       },
       {
-        "display_name": "King (I-ME)",
-        "first_name": "Angus",
-        "id": "S363",
-        "last_name": "King",
-        "party": "I",
-        "state": "ME"
+        "display_name": "Kennedy (R-LA)",
+        "first_name": "John",
+        "id": "S389",
+        "last_name": "Kennedy",
+        "party": "R",
+        "state": "LA"
       },
       {
         "display_name": "Lankford (R-OK)",
@@ -733,6 +723,14 @@
         "state": "AK"
       },
       {
+        "display_name": "Paul (R-KY)",
+        "first_name": "Rand",
+        "id": "S348",
+        "last_name": "Paul",
+        "party": "R",
+        "state": "KY"
+      },
+      {
         "display_name": "Ricketts (R-NE)",
         "first_name": "Pete",
         "id": "S423",
@@ -781,14 +779,6 @@
         "state": "SC"
       },
       {
-        "display_name": "Sheehy (R-MT)",
-        "first_name": "Tim",
-        "id": "S435",
-        "last_name": "Sheehy",
-        "party": "R",
-        "state": "MT"
-      },
-      {
         "display_name": "Sullivan (R-AK)",
         "first_name": "Dan",
         "id": "S383",
@@ -803,6 +793,14 @@
         "last_name": "Thune",
         "party": "R",
         "state": "SD"
+      },
+      {
+        "display_name": "Tillis (R-NC)",
+        "first_name": "Thomas",
+        "id": "S384",
+        "last_name": "Tillis",
+        "party": "R",
+        "state": "NC"
       },
       {
         "display_name": "Tuberville (R-AL)",

@@ -4,20 +4,20 @@
   "congress": 119,
   "date": "2025-10-06T18:48:00-04:00",
   "nomination": {
-    "number": "18",
-    "title": "Paul Atkins, of Virginia, to be a Member of the Securities and Exchange Commission for a term expiring June 5, 2031"
+    "number": "22-9",
+    "title": "Neil Jacobs, of North Carolina, to be Under Secretary of Commerce for Oceans and Atmosphere"
   },
   "number": 546,
-  "question": "Motion to Invoke Cloture: En bloc Nominations Provided for Under the Provisions of S.Res. 412: Paul Atkins, of Virginia, to be a Member of the Securities and Exchange Commission for a term expiring June 5, 2031",
-  "record_modified": "2025-10-06T19:50:00-04:00",
+  "question": "Motion to Invoke Cloture: En bloc Nominations Provided for Under the Provisions of S.Res. 412: Neil Jacobs, of North Carolina, to be Under Secretary of Commerce for Oceans and Atmosphere",
+  "record_modified": "2025-10-07T12:44:00-04:00",
   "requires": "1/2",
   "result": "Cloture Motion Agreed to",
   "result_text": "Cloture Motion Agreed to (50-45)",
   "session": "2025",
   "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00546.xml",
-  "subject": "On the Cloture Motion PN22-9 and PN345-19 and PN345-1 and PN55-15 and PN25-49 and PN25-24 and PN25-10 and PN25-5 and PN12-21 and PN465-5 and PN465-4 and PN465-3 and PN416-11 and PN380-4 and PN380-3 and PN129-14 and PN129-5 and PN55-48 and PN55-37 and PN55-32 and PN55-29 and PN55-23 and PN55-21 and PN55-19 and PN55-11 and PN55-8 and PN55-5 and PN54-4 and PN54-3 and PN54-2 and PN54-1 and PN26-41 and PN26-30 and PN26-17 and PN141-34 and PN60-18 and PN141-38 and PN60-15 and PN141-31 and PN26-32 and PN60-7 and PN141-13 and PN141-3 and PN379-24 and PN141-36 and PN141-32 and PN141-21 and PN379-14 and PN379-8 and PN379-5 and PN416-7 and PN246-15 and PN22-14 and PN25-52 and PN25-7 and PN26-48 and PN129-15 and PN141-23 and PN246-9 and PN55-1 and PN141-19 and PN246-17 and PN55-38 and PN55-4 and PN25-23 and PN55-17 and PN25-48 and PN13-1 and PN141-33 and PN141-6 and PN60-6 and PN55-40 and PN55-14 and PN25-47 and PN129-11 and PN129-3 and PN25-55 and PN25-34 and PN25-4 and PN141-17 and PN55-46 and PN129-12 and PN55-49 and PN60-1 and PN60-16 and PN60-5 and PN25-46 and PN25-25 and PN26-14 and PN129-16 and PN55-12 and PN55-35 and PN55-22 and PN25-38 and PN24-1 and PN22-28 and PN25-13 and PN22-6 and PN12-17 and PN25-30 and PN26-21 and PN55-33 and PN26-23 and PN26-9 and PN26-13 and PN25-3 and PN18",
+  "subject": "On the Cloture Motion PN18 and PN25-3 and PN26-13 and PN26-9 and PN26-23 and PN55-33 and PN26-21 and PN25-30 and PN12-17 and PN22-6 and PN25-13 and PN22-28 and PN24-1 and PN25-38 and PN55-22 and PN55-35 and PN55-12 and PN129-16 and PN26-14 and PN25-25 and PN25-46 and PN60-5 and PN60-16 and PN60-1 and PN55-49 and PN129-12 and PN55-46 and PN141-17 and PN25-4 and PN25-34 and PN25-55 and PN129-3 and PN129-11 and PN25-47 and PN55-14 and PN55-40 and PN60-6 and PN141-6 and PN141-33 and PN13-1 and PN25-48 and PN55-17 and PN25-23 and PN55-4 and PN55-38 and PN246-17 and PN141-19 and PN55-1 and PN246-9 and PN141-23 and PN129-15 and PN26-48 and PN25-7 and PN25-52 and PN22-14 and PN246-15 and PN416-7 and PN379-5 and PN379-8 and PN379-14 and PN141-21 and PN141-32 and PN141-36 and PN379-24 and PN141-3 and PN141-13 and PN60-7 and PN26-32 and PN141-31 and PN60-15 and PN141-38 and PN60-18 and PN141-34 and PN26-17 and PN26-30 and PN26-41 and PN54-1 and PN54-2 and PN54-3 and PN54-4 and PN55-5 and PN55-8 and PN55-11 and PN55-19 and PN55-21 and PN55-23 and PN55-29 and PN55-32 and PN55-37 and PN55-48 and PN129-5 and PN129-14 and PN380-3 and PN380-4 and PN416-11 and PN465-3 and PN465-4 and PN465-5 and PN12-21 and PN25-5 and PN25-10 and PN25-24 and PN25-49 and PN55-15 and PN345-1 and PN345-19 and PN22-9",
   "type": "On the Cloture Motion",
-  "updated_at": "2025-10-07T03:11:15-04:00",
+  "updated_at": "2025-10-08T03:10:52-04:00",
   "vote_id": "s546-119.2025",
   "votes": {
     "Nay": [
