@@ -8,19 +8,19 @@
   "category": "cloture",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-10-06T18:12:00-04:00",
-  "number": 545,
-  "question": "Motion to Invoke Cloture: Motion to Proceed to H.R. 5371",
-  "record_modified": "2025-10-08T15:33:00-04:00",
+  "date": "2025-10-08T12:52:00-04:00",
+  "number": 551,
+  "question": "Upon Reconsideration, Motion to Invoke Cloture on the Motion to Proceed to H.R. 5371",
+  "record_modified": "2025-10-08T13:39:00-04:00",
   "requires": "3/5",
   "result": "Cloture on the Motion to Proceed Rejected",
-  "result_text": "Cloture on the Motion to Proceed Rejected (52-42, 3/5 majority required)",
+  "result_text": "Cloture on the Motion to Proceed Rejected (54-45, 3/5 majority required)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00545.xml",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00551.xml",
   "subject": "On Cloture on the Motion to Proceed H.R. 5371",
   "type": "On the Cloture Motion",
-  "updated_at": "2025-10-09T03:13:21-04:00",
-  "vote_id": "s545-119.2025",
+  "updated_at": "2025-10-09T03:13:18-04:00",
+  "vote_id": "s551-119.2025",
   "votes": {
     "Nay": [
       {
@@ -62,6 +62,14 @@
         "last_name": "Blunt Rochester",
         "party": "D",
         "state": "DE"
+      },
+      {
+        "display_name": "Booker (D-NJ)",
+        "first_name": "Cory",
+        "id": "S370",
+        "last_name": "Booker",
+        "party": "D",
+        "state": "NJ"
       },
       {
         "display_name": "Cantwell (D-WA)",
@@ -118,6 +126,14 @@
         "last_name": "Hassan",
         "party": "D",
         "state": "NH"
+      },
+      {
+        "display_name": "Heinrich (D-NM)",
+        "first_name": "Martin",
+        "id": "S359",
+        "last_name": "Heinrich",
+        "party": "D",
+        "state": "NM"
       },
       {
         "display_name": "Hickenlooper (D-CO)",
@@ -248,6 +264,14 @@
         "state": "RI"
       },
       {
+        "display_name": "Rosen (D-NV)",
+        "first_name": "Jacky",
+        "id": "S402",
+        "last_name": "Rosen",
+        "party": "D",
+        "state": "NV"
+      },
+      {
         "display_name": "Sanders (I-VT)",
         "first_name": "Bernie",
         "id": "S313",
@@ -362,52 +386,12 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Booker (D-NJ)",
-        "first_name": "Cory",
-        "id": "S370",
-        "last_name": "Booker",
-        "party": "D",
-        "state": "NJ"
-      },
-      {
-        "display_name": "Curtis (R-UT)",
-        "first_name": "John ",
-        "id": "S431",
-        "last_name": "Curtis",
+        "display_name": "Cruz (R-TX)",
+        "first_name": "Ted",
+        "id": "S355",
+        "last_name": "Cruz",
         "party": "R",
-        "state": "UT"
-      },
-      {
-        "display_name": "Heinrich (D-NM)",
-        "first_name": "Martin",
-        "id": "S359",
-        "last_name": "Heinrich",
-        "party": "D",
-        "state": "NM"
-      },
-      {
-        "display_name": "Kennedy (R-LA)",
-        "first_name": "John",
-        "id": "S389",
-        "last_name": "Kennedy",
-        "party": "R",
-        "state": "LA"
-      },
-      {
-        "display_name": "Rosen (D-NV)",
-        "first_name": "Jacky",
-        "id": "S402",
-        "last_name": "Rosen",
-        "party": "D",
-        "state": "NV"
-      },
-      {
-        "display_name": "Tillis (R-NC)",
-        "first_name": "Thomas",
-        "id": "S384",
-        "last_name": "Tillis",
-        "party": "R",
-        "state": "NC"
+        "state": "TX"
       }
     ],
     "Present": [],
@@ -525,12 +509,12 @@
         "state": "ID"
       },
       {
-        "display_name": "Cruz (R-TX)",
-        "first_name": "Ted",
-        "id": "S355",
-        "last_name": "Cruz",
+        "display_name": "Curtis (R-UT)",
+        "first_name": "John ",
+        "id": "S431",
+        "last_name": "Curtis",
         "party": "R",
-        "state": "TX"
+        "state": "UT"
       },
       {
         "display_name": "Daines (R-MT)",
@@ -635,6 +619,14 @@
         "last_name": "Justice",
         "party": "R",
         "state": "WV"
+      },
+      {
+        "display_name": "Kennedy (R-LA)",
+        "first_name": "John",
+        "id": "S389",
+        "last_name": "Kennedy",
+        "party": "R",
+        "state": "LA"
       },
       {
         "display_name": "King (I-ME)",
@@ -803,6 +795,14 @@
         "last_name": "Thune",
         "party": "R",
         "state": "SD"
+      },
+      {
+        "display_name": "Tillis (R-NC)",
+        "first_name": "Thomas",
+        "id": "S384",
+        "last_name": "Tillis",
+        "party": "R",
+        "state": "NC"
       },
       {
         "display_name": "Tuberville (R-AL)",

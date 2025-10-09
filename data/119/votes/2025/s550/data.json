@@ -8,19 +8,19 @@
   "category": "cloture",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-10-06T17:31:00-04:00",
-  "number": 544,
-  "question": "Motion to Invoke Cloture: Motion to Proceed to S. 2882",
-  "record_modified": "2025-10-08T15:33:00-04:00",
+  "date": "2025-10-08T12:12:00-04:00",
+  "number": 550,
+  "question": "Upon Reconsideration, Motion to Invoke Cloture on the Motion to Proceed to S. 2882",
+  "record_modified": "2025-10-08T13:01:00-04:00",
   "requires": "3/5",
   "result": "Cloture on the Motion to Proceed Rejected",
-  "result_text": "Cloture on the Motion to Proceed Rejected (45-50, 3/5 majority required)",
+  "result_text": "Cloture on the Motion to Proceed Rejected (47-52, 3/5 majority required)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00544.xml",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00550.xml",
   "subject": "On Cloture on the Motion to Proceed S. 2882",
   "type": "On the Cloture Motion",
-  "updated_at": "2025-10-09T03:13:21-04:00",
-  "vote_id": "s544-119.2025",
+  "updated_at": "2025-10-09T03:13:18-04:00",
+  "vote_id": "s550-119.2025",
   "votes": {
     "Nay": [
       {
@@ -128,12 +128,12 @@
         "state": "ID"
       },
       {
-        "display_name": "Cruz (R-TX)",
-        "first_name": "Ted",
-        "id": "S355",
-        "last_name": "Cruz",
+        "display_name": "Curtis (R-UT)",
+        "first_name": "John ",
+        "id": "S431",
+        "last_name": "Curtis",
         "party": "R",
-        "state": "TX"
+        "state": "UT"
       },
       {
         "display_name": "Daines (R-MT)",
@@ -230,6 +230,14 @@
         "last_name": "Justice",
         "party": "R",
         "state": "WV"
+      },
+      {
+        "display_name": "Kennedy (R-LA)",
+        "first_name": "John",
+        "id": "S389",
+        "last_name": "Kennedy",
+        "party": "R",
+        "state": "LA"
       },
       {
         "display_name": "Lankford (R-OK)",
@@ -400,6 +408,14 @@
         "state": "SD"
       },
       {
+        "display_name": "Tillis (R-NC)",
+        "first_name": "Thomas",
+        "id": "S384",
+        "last_name": "Tillis",
+        "party": "R",
+        "state": "NC"
+      },
+      {
         "display_name": "Tuberville (R-AL)",
         "first_name": "Tommy",
         "id": "S412",
@@ -426,44 +442,12 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Curtis (R-UT)",
-        "first_name": "John ",
-        "id": "S431",
-        "last_name": "Curtis",
+        "display_name": "Cruz (R-TX)",
+        "first_name": "Ted",
+        "id": "S355",
+        "last_name": "Cruz",
         "party": "R",
-        "state": "UT"
-      },
-      {
-        "display_name": "Heinrich (D-NM)",
-        "first_name": "Martin",
-        "id": "S359",
-        "last_name": "Heinrich",
-        "party": "D",
-        "state": "NM"
-      },
-      {
-        "display_name": "Kennedy (R-LA)",
-        "first_name": "John",
-        "id": "S389",
-        "last_name": "Kennedy",
-        "party": "R",
-        "state": "LA"
-      },
-      {
-        "display_name": "Rosen (D-NV)",
-        "first_name": "Jacky",
-        "id": "S402",
-        "last_name": "Rosen",
-        "party": "D",
-        "state": "NV"
-      },
-      {
-        "display_name": "Tillis (R-NC)",
-        "first_name": "Thomas",
-        "id": "S384",
-        "last_name": "Tillis",
-        "party": "R",
-        "state": "NC"
+        "state": "TX"
       }
     ],
     "Present": [],
@@ -587,6 +571,14 @@
         "last_name": "Hassan",
         "party": "D",
         "state": "NH"
+      },
+      {
+        "display_name": "Heinrich (D-NM)",
+        "first_name": "Martin",
+        "id": "S359",
+        "last_name": "Heinrich",
+        "party": "D",
+        "state": "NM"
       },
       {
         "display_name": "Hickenlooper (D-CO)",
@@ -715,6 +707,14 @@
         "last_name": "Reed",
         "party": "D",
         "state": "RI"
+      },
+      {
+        "display_name": "Rosen (D-NV)",
+        "first_name": "Jacky",
+        "id": "S402",
+        "last_name": "Rosen",
+        "party": "D",
+        "state": "NV"
       },
       {
         "display_name": "Sanders (I-VT)",

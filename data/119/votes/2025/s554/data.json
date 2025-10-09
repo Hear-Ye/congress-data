@@ -1,26 +1,26 @@
 {
   "bill": {
     "congress": 119,
-    "number": 2882,
-    "title": "A bill making continuing appropriations for the fiscal year ending September 30, 2026, and for other purposes.",
-    "type": "s"
+    "number": 71,
+    "title": "A joint resolution terminating the national emergency declared with respect to energy.",
+    "type": "sjres"
   },
-  "category": "cloture",
+  "category": "passage",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-10-06T17:31:00-04:00",
-  "number": 544,
-  "question": "Motion to Invoke Cloture: Motion to Proceed to S. 2882",
-  "record_modified": "2025-10-08T15:33:00-04:00",
-  "requires": "3/5",
-  "result": "Cloture on the Motion to Proceed Rejected",
-  "result_text": "Cloture on the Motion to Proceed Rejected (45-50, 3/5 majority required)",
+  "date": "2025-10-08T19:05:00-04:00",
+  "number": 554,
+  "question": "On the Joint Resolution S.J.Res. 71",
+  "record_modified": "2025-10-08T20:00:00-04:00",
+  "requires": "1/2",
+  "result": "Joint Resolution Defeated",
+  "result_text": "Joint Resolution Defeated (47-51)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00544.xml",
-  "subject": "On Cloture on the Motion to Proceed S. 2882",
-  "type": "On the Cloture Motion",
-  "updated_at": "2025-10-09T03:13:21-04:00",
-  "vote_id": "s544-119.2025",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00554.xml",
+  "subject": "S. J. Res. 71",
+  "type": "On the Joint Resolution",
+  "updated_at": "2025-10-09T03:13:16-04:00",
+  "vote_id": "s554-119.2025",
   "votes": {
     "Nay": [
       {
@@ -128,12 +128,12 @@
         "state": "ID"
       },
       {
-        "display_name": "Cruz (R-TX)",
-        "first_name": "Ted",
-        "id": "S355",
-        "last_name": "Cruz",
+        "display_name": "Curtis (R-UT)",
+        "first_name": "John ",
+        "id": "S431",
+        "last_name": "Curtis",
         "party": "R",
-        "state": "TX"
+        "state": "UT"
       },
       {
         "display_name": "Daines (R-MT)",
@@ -230,6 +230,14 @@
         "last_name": "Justice",
         "party": "R",
         "state": "WV"
+      },
+      {
+        "display_name": "Kennedy (R-LA)",
+        "first_name": "John",
+        "id": "S389",
+        "last_name": "Kennedy",
+        "party": "R",
+        "state": "LA"
       },
       {
         "display_name": "Lankford (R-OK)",
@@ -376,14 +384,6 @@
         "state": "SC"
       },
       {
-        "display_name": "Sheehy (R-MT)",
-        "first_name": "Tim",
-        "id": "S435",
-        "last_name": "Sheehy",
-        "party": "R",
-        "state": "MT"
-      },
-      {
         "display_name": "Sullivan (R-AK)",
         "first_name": "Dan",
         "id": "S383",
@@ -398,6 +398,14 @@
         "last_name": "Thune",
         "party": "R",
         "state": "SD"
+      },
+      {
+        "display_name": "Tillis (R-NC)",
+        "first_name": "Thomas",
+        "id": "S384",
+        "last_name": "Tillis",
+        "party": "R",
+        "state": "NC"
       },
       {
         "display_name": "Tuberville (R-AL)",
@@ -426,44 +434,20 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Curtis (R-UT)",
-        "first_name": "John ",
-        "id": "S431",
-        "last_name": "Curtis",
+        "display_name": "Cruz (R-TX)",
+        "first_name": "Ted",
+        "id": "S355",
+        "last_name": "Cruz",
         "party": "R",
-        "state": "UT"
+        "state": "TX"
       },
       {
-        "display_name": "Heinrich (D-NM)",
-        "first_name": "Martin",
-        "id": "S359",
-        "last_name": "Heinrich",
-        "party": "D",
-        "state": "NM"
-      },
-      {
-        "display_name": "Kennedy (R-LA)",
-        "first_name": "John",
-        "id": "S389",
-        "last_name": "Kennedy",
+        "display_name": "Sheehy (R-MT)",
+        "first_name": "Tim",
+        "id": "S435",
+        "last_name": "Sheehy",
         "party": "R",
-        "state": "LA"
-      },
-      {
-        "display_name": "Rosen (D-NV)",
-        "first_name": "Jacky",
-        "id": "S402",
-        "last_name": "Rosen",
-        "party": "D",
-        "state": "NV"
-      },
-      {
-        "display_name": "Tillis (R-NC)",
-        "first_name": "Thomas",
-        "id": "S384",
-        "last_name": "Tillis",
-        "party": "R",
-        "state": "NC"
+        "state": "MT"
       }
     ],
     "Present": [],
@@ -587,6 +571,14 @@
         "last_name": "Hassan",
         "party": "D",
         "state": "NH"
+      },
+      {
+        "display_name": "Heinrich (D-NM)",
+        "first_name": "Martin",
+        "id": "S359",
+        "last_name": "Heinrich",
+        "party": "D",
+        "state": "NM"
       },
       {
         "display_name": "Hickenlooper (D-CO)",
@@ -715,6 +707,14 @@
         "last_name": "Reed",
         "party": "D",
         "state": "RI"
+      },
+      {
+        "display_name": "Rosen (D-NV)",
+        "first_name": "Jacky",
+        "id": "S402",
+        "last_name": "Rosen",
+        "party": "D",
+        "state": "NV"
       },
       {
         "display_name": "Sanders (I-VT)",

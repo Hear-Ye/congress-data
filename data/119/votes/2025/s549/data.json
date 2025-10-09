@@ -1,26 +1,26 @@
 {
   "bill": {
     "congress": 119,
-    "number": 5371,
-    "title": "A bill making continuing appropriations and extensions for fiscal year 2026, and for other purposes.",
-    "type": "hr"
+    "number": 104,
+    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"Miles City Field Office Record of Decision and Approved Resource Management Plan Amendment\".",
+    "type": "hjres"
   },
-  "category": "cloture",
+  "category": "passage",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-10-06T18:12:00-04:00",
-  "number": 545,
-  "question": "Motion to Invoke Cloture: Motion to Proceed to H.R. 5371",
-  "record_modified": "2025-10-08T15:33:00-04:00",
-  "requires": "3/5",
-  "result": "Cloture on the Motion to Proceed Rejected",
-  "result_text": "Cloture on the Motion to Proceed Rejected (52-42, 3/5 majority required)",
+  "date": "2025-10-08T11:29:00-04:00",
+  "number": 549,
+  "question": "On the Joint Resolution H.J.Res. 104",
+  "record_modified": "2025-10-08T12:31:00-04:00",
+  "requires": "1/2",
+  "result": "Joint Resolution Passed",
+  "result_text": "Joint Resolution Passed (52-47)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00545.xml",
-  "subject": "On Cloture on the Motion to Proceed H.R. 5371",
-  "type": "On the Cloture Motion",
-  "updated_at": "2025-10-09T03:13:21-04:00",
-  "vote_id": "s545-119.2025",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00549.xml",
+  "subject": "H. J. Res. 104",
+  "type": "On the Joint Resolution",
+  "updated_at": "2025-10-09T03:13:19-04:00",
+  "vote_id": "s549-119.2025",
   "votes": {
     "Nay": [
       {
@@ -64,6 +64,14 @@
         "state": "DE"
       },
       {
+        "display_name": "Booker (D-NJ)",
+        "first_name": "Cory",
+        "id": "S370",
+        "last_name": "Booker",
+        "party": "D",
+        "state": "NJ"
+      },
+      {
         "display_name": "Cantwell (D-WA)",
         "first_name": "Maria",
         "id": "S275",
@@ -80,6 +88,14 @@
         "state": "DE"
       },
       {
+        "display_name": "Cortez Masto (D-NV)",
+        "first_name": "Catherine",
+        "id": "S385",
+        "last_name": "Cortez Masto",
+        "party": "D",
+        "state": "NV"
+      },
+      {
         "display_name": "Duckworth (D-IL)",
         "first_name": "Tammy",
         "id": "S386",
@@ -94,6 +110,14 @@
         "last_name": "Durbin",
         "party": "D",
         "state": "IL"
+      },
+      {
+        "display_name": "Fetterman (D-PA)",
+        "first_name": "John",
+        "id": "S418",
+        "last_name": "Fetterman",
+        "party": "D",
+        "state": "PA"
       },
       {
         "display_name": "Gallego (D-AZ)",
@@ -118,6 +142,14 @@
         "last_name": "Hassan",
         "party": "D",
         "state": "NH"
+      },
+      {
+        "display_name": "Heinrich (D-NM)",
+        "first_name": "Martin",
+        "id": "S359",
+        "last_name": "Heinrich",
+        "party": "D",
+        "state": "NM"
       },
       {
         "display_name": "Hickenlooper (D-CO)",
@@ -158,6 +190,14 @@
         "last_name": "Kim",
         "party": "D",
         "state": "NJ"
+      },
+      {
+        "display_name": "King (I-ME)",
+        "first_name": "Angus",
+        "id": "S363",
+        "last_name": "King",
+        "party": "I",
+        "state": "ME"
       },
       {
         "display_name": "Klobuchar (D-MN)",
@@ -224,14 +264,6 @@
         "state": "CA"
       },
       {
-        "display_name": "Paul (R-KY)",
-        "first_name": "Rand",
-        "id": "S348",
-        "last_name": "Paul",
-        "party": "R",
-        "state": "KY"
-      },
-      {
         "display_name": "Peters (D-MI)",
         "first_name": "Gary",
         "id": "S380",
@@ -246,6 +278,14 @@
         "last_name": "Reed",
         "party": "D",
         "state": "RI"
+      },
+      {
+        "display_name": "Rosen (D-NV)",
+        "first_name": "Jacky",
+        "id": "S402",
+        "last_name": "Rosen",
+        "party": "D",
+        "state": "NV"
       },
       {
         "display_name": "Sanders (I-VT)",
@@ -362,52 +402,12 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Booker (D-NJ)",
-        "first_name": "Cory",
-        "id": "S370",
-        "last_name": "Booker",
-        "party": "D",
-        "state": "NJ"
-      },
-      {
-        "display_name": "Curtis (R-UT)",
-        "first_name": "John ",
-        "id": "S431",
-        "last_name": "Curtis",
+        "display_name": "Cruz (R-TX)",
+        "first_name": "Ted",
+        "id": "S355",
+        "last_name": "Cruz",
         "party": "R",
-        "state": "UT"
-      },
-      {
-        "display_name": "Heinrich (D-NM)",
-        "first_name": "Martin",
-        "id": "S359",
-        "last_name": "Heinrich",
-        "party": "D",
-        "state": "NM"
-      },
-      {
-        "display_name": "Kennedy (R-LA)",
-        "first_name": "John",
-        "id": "S389",
-        "last_name": "Kennedy",
-        "party": "R",
-        "state": "LA"
-      },
-      {
-        "display_name": "Rosen (D-NV)",
-        "first_name": "Jacky",
-        "id": "S402",
-        "last_name": "Rosen",
-        "party": "D",
-        "state": "NV"
-      },
-      {
-        "display_name": "Tillis (R-NC)",
-        "first_name": "Thomas",
-        "id": "S384",
-        "last_name": "Tillis",
-        "party": "R",
-        "state": "NC"
+        "state": "TX"
       }
     ],
     "Present": [],
@@ -493,14 +493,6 @@
         "state": "TX"
       },
       {
-        "display_name": "Cortez Masto (D-NV)",
-        "first_name": "Catherine",
-        "id": "S385",
-        "last_name": "Cortez Masto",
-        "party": "D",
-        "state": "NV"
-      },
-      {
         "display_name": "Cotton (R-AR)",
         "first_name": "Tom",
         "id": "S374",
@@ -525,12 +517,12 @@
         "state": "ID"
       },
       {
-        "display_name": "Cruz (R-TX)",
-        "first_name": "Ted",
-        "id": "S355",
-        "last_name": "Cruz",
+        "display_name": "Curtis (R-UT)",
+        "first_name": "John ",
+        "id": "S431",
+        "last_name": "Curtis",
         "party": "R",
-        "state": "TX"
+        "state": "UT"
       },
       {
         "display_name": "Daines (R-MT)",
@@ -547,14 +539,6 @@
         "last_name": "Ernst",
         "party": "R",
         "state": "IA"
-      },
-      {
-        "display_name": "Fetterman (D-PA)",
-        "first_name": "John",
-        "id": "S418",
-        "last_name": "Fetterman",
-        "party": "D",
-        "state": "PA"
       },
       {
         "display_name": "Fischer (R-NE)",
@@ -637,12 +621,12 @@
         "state": "WV"
       },
       {
-        "display_name": "King (I-ME)",
-        "first_name": "Angus",
-        "id": "S363",
-        "last_name": "King",
-        "party": "I",
-        "state": "ME"
+        "display_name": "Kennedy (R-LA)",
+        "first_name": "John",
+        "id": "S389",
+        "last_name": "Kennedy",
+        "party": "R",
+        "state": "LA"
       },
       {
         "display_name": "Lankford (R-OK)",
@@ -733,6 +717,14 @@
         "state": "AK"
       },
       {
+        "display_name": "Paul (R-KY)",
+        "first_name": "Rand",
+        "id": "S348",
+        "last_name": "Paul",
+        "party": "R",
+        "state": "KY"
+      },
+      {
         "display_name": "Ricketts (R-NE)",
         "first_name": "Pete",
         "id": "S423",
@@ -803,6 +795,14 @@
         "last_name": "Thune",
         "party": "R",
         "state": "SD"
+      },
+      {
+        "display_name": "Tillis (R-NC)",
+        "first_name": "Thomas",
+        "id": "S384",
+        "last_name": "Tillis",
+        "party": "R",
+        "state": "NC"
       },
       {
         "display_name": "Tuberville (R-AL)",

@@ -1,9 +1,9 @@
-<roll where="senate" session="119" year="2025" roll="545" source="senate.gov"
-  datetime="2025-10-06T18:12:00-04:00" updated="2025-10-09T03:13:21-04:00"
-  aye="52" nay="42" nv="6" present="0">
+<roll where="senate" session="119" year="2025" roll="551" source="senate.gov"
+  datetime="2025-10-08T12:52:00-04:00" updated="2025-10-09T03:13:18-04:00"
+  aye="54" nay="45" nv="1" present="0">
   <category>cloture</category>
   <type>On the Cloture Motion</type>
-  <question>Motion to Invoke Cloture: Motion to Proceed to H.R. 5371</question>
+  <question>Upon Reconsideration, Motion to Invoke Cloture on the Motion to Proceed to H.R. 5371</question>
   <required>3/5</required>
   <result>Cloture on the Motion to Proceed Rejected</result>
   <bill session="119" type="h" number="5371"/>
@@ -25,7 +25,7 @@
   <voter id="S374" vote="+" value="Yea" state="AR"/>
   <voter id="S398" vote="+" value="Yea" state="ND"/>
   <voter id="S266" vote="+" value="Yea" state="ID"/>
-  <voter id="S355" vote="+" value="Yea" state="TX"/>
+  <voter id="S431" vote="+" value="Yea" state="UT"/>
   <voter id="S375" vote="+" value="Yea" state="MT"/>
   <voter id="S376" vote="+" value="Yea" state="IA"/>
   <voter id="S418" vote="+" value="Yea" state="PA"/>
@@ -39,6 +39,7 @@
   <voter id="S395" vote="+" value="Yea" state="MS"/>
   <voter id="S345" vote="+" value="Yea" state="WI"/>
   <voter id="S437" vote="+" value="Yea" state="WV"/>
+  <voter id="S389" vote="+" value="Yea" state="LA"/>
   <voter id="S363" vote="+" value="Yea" state="ME"/>
   <voter id="S378" vote="+" value="Yea" state="OK"/>
   <voter id="S346" vote="+" value="Yea" state="UT"/>
@@ -60,6 +61,7 @@
   <voter id="S435" vote="+" value="Yea" state="MT"/>
   <voter id="S383" vote="+" value="Yea" state="AK"/>
   <voter id="S303" vote="+" value="Yea" state="SD"/>
+  <voter id="S384" vote="+" value="Yea" state="NC"/>
   <voter id="S412" vote="+" value="Yea" state="AL"/>
   <voter id="S318" vote="+" value="Yea" state="MS"/>
   <voter id="S391" vote="+" value="Yea" state="IN"/>
@@ -68,6 +70,7 @@
   <voter id="S330" vote="-" value="Nay" state="CO"/>
   <voter id="S341" vote="-" value="Nay" state="CT"/>
   <voter id="S430" vote="-" value="Nay" state="DE"/>
+  <voter id="S370" vote="-" value="Nay" state="NJ"/>
   <voter id="S275" vote="-" value="Nay" state="WA"/>
   <voter id="S337" vote="-" value="Nay" state="DE"/>
   <voter id="S386" vote="-" value="Nay" state="IL"/>
@@ -75,6 +78,7 @@
   <voter id="S432" vote="-" value="Nay" state="AZ"/>
   <voter id="S331" vote="-" value="Nay" state="NY"/>
   <voter id="S388" vote="-" value="Nay" state="NH"/>
+  <voter id="S359" vote="-" value="Nay" state="NM"/>
   <voter id="S408" vote="-" value="Nay" state="CO"/>
   <voter id="S361" vote="-" value="Nay" state="HI"/>
   <voter id="S362" vote="-" value="Nay" state="VA"/>
@@ -91,6 +95,7 @@
   <voter id="S348" vote="-" value="Nay" state="KY"/>
   <voter id="S380" vote="-" value="Nay" state="MI"/>
   <voter id="S259" vote="-" value="Nay" state="RI"/>
+  <voter id="S402" vote="-" value="Nay" state="NV"/>
   <voter id="S313" vote="-" value="Nay" state="VT"/>
   <voter id="S353" vote="-" value="Nay" state="HI"/>
   <voter id="S427" vote="-" value="Nay" state="CA"/>
@@ -105,10 +110,5 @@
   <voter id="S422" vote="-" value="Nay" state="VT"/>
   <voter id="S316" vote="-" value="Nay" state="RI"/>
   <voter id="S247" vote="-" value="Nay" state="OR"/>
-  <voter id="S370" vote="0" value="Not Voting" state="NJ"/>
-  <voter id="S431" vote="0" value="Not Voting" state="UT"/>
-  <voter id="S359" vote="0" value="Not Voting" state="NM"/>
-  <voter id="S389" vote="0" value="Not Voting" state="LA"/>
-  <voter id="S402" vote="0" value="Not Voting" state="NV"/>
-  <voter id="S384" vote="0" value="Not Voting" state="NC"/>
+  <voter id="S355" vote="0" value="Not Voting" state="TX"/>
 </roll>
