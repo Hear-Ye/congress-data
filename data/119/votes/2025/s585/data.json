@@ -1,24 +1,26 @@
 {
+  "bill": {
+    "congress": 119,
+    "number": 3012,
+    "title": "A bill to appropriate funds for pay and allowances of excepted Federal employees for periods of work performed during a lapse in appropriations, and for other purposes.",
+    "type": "s"
+  },
   "category": "cloture",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-10-21T15:01:00-04:00",
-  "nomination": {
-    "number": "400-2",
-    "title": "William W. Mercer, of Montana, to be United States District Judge for the District of Montana"
-  },
-  "number": 579,
-  "question": "Motion to Invoke Cloture: William W. Mercer to be U.S. District Judge for the District of Montana: William W. Mercer, of Montana, to be United States District Judge for the District of Montana",
-  "record_modified": "2025-10-23T14:46:00-04:00",
-  "requires": "1/2",
-  "result": "Cloture Motion Agreed to",
-  "result_text": "Cloture Motion Agreed to (53-46)",
+  "date": "2025-10-23T12:38:00-04:00",
+  "number": 585,
+  "question": "Motion to Invoke Cloture: Motion to Proceed to S. 3012",
+  "record_modified": "2025-10-23T13:34:00-04:00",
+  "requires": "3/5",
+  "result": "Cloture on the Motion to Proceed Rejected",
+  "result_text": "Cloture on the Motion to Proceed Rejected (54-45, 3/5 majority required)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00579.xml",
-  "subject": "On the Cloture Motion PN400-2",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00585.xml",
+  "subject": "On Cloture on the Motion to Proceed S. 3012",
   "type": "On the Cloture Motion",
-  "updated_at": "2025-10-24T03:13:48-04:00",
-  "vote_id": "s579-119.2025",
+  "updated_at": "2025-10-24T03:13:45-04:00",
+  "vote_id": "s585-119.2025",
   "votes": {
     "Nay": [
       {
@@ -94,20 +96,20 @@
         "state": "NV"
       },
       {
+        "display_name": "Duckworth (D-IL)",
+        "first_name": "Tammy",
+        "id": "S386",
+        "last_name": "Duckworth",
+        "party": "D",
+        "state": "IL"
+      },
+      {
         "display_name": "Durbin (D-IL)",
         "first_name": "Richard",
         "id": "S253",
         "last_name": "Durbin",
         "party": "D",
         "state": "IL"
-      },
-      {
-        "display_name": "Fetterman (D-PA)",
-        "first_name": "John",
-        "id": "S418",
-        "last_name": "Fetterman",
-        "party": "D",
-        "state": "PA"
       },
       {
         "display_name": "Gallego (D-AZ)",
@@ -238,14 +240,6 @@
         "state": "WA"
       },
       {
-        "display_name": "Ossoff (D-GA)",
-        "first_name": "Jon",
-        "id": "S414",
-        "last_name": "Ossoff",
-        "party": "D",
-        "state": "GA"
-      },
-      {
         "display_name": "Padilla (D-CA)",
         "first_name": "Alex",
         "id": "S413",
@@ -334,6 +328,14 @@
         "state": "MN"
       },
       {
+        "display_name": "Thune (R-SD)",
+        "first_name": "John",
+        "id": "S303",
+        "last_name": "Thune",
+        "party": "R",
+        "state": "SD"
+      },
+      {
         "display_name": "Van Hollen (D-MD)",
         "first_name": "Chris",
         "id": "S390",
@@ -348,14 +350,6 @@
         "last_name": "Warner",
         "party": "D",
         "state": "VA"
-      },
-      {
-        "display_name": "Warnock (D-GA)",
-        "first_name": "Raphael",
-        "id": "S415",
-        "last_name": "Warnock",
-        "party": "D",
-        "state": "GA"
       },
       {
         "display_name": "Warren (D-MA)",
@@ -392,12 +386,12 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Duckworth (D-IL)",
-        "first_name": "Tammy",
-        "id": "S386",
-        "last_name": "Duckworth",
-        "party": "D",
-        "state": "IL"
+        "display_name": "Sheehy (R-MT)",
+        "first_name": "Tim",
+        "id": "S435",
+        "last_name": "Sheehy",
+        "party": "R",
+        "state": "MT"
       }
     ],
     "Present": [],
@@ -537,6 +531,14 @@
         "last_name": "Ernst",
         "party": "R",
         "state": "IA"
+      },
+      {
+        "display_name": "Fetterman (D-PA)",
+        "first_name": "John",
+        "id": "S418",
+        "last_name": "Fetterman",
+        "party": "D",
+        "state": "PA"
       },
       {
         "display_name": "Fischer (R-NE)",
@@ -715,6 +717,14 @@
         "state": "AK"
       },
       {
+        "display_name": "Ossoff (D-GA)",
+        "first_name": "Jon",
+        "id": "S414",
+        "last_name": "Ossoff",
+        "party": "D",
+        "state": "GA"
+      },
+      {
         "display_name": "Paul (R-KY)",
         "first_name": "Rand",
         "id": "S348",
@@ -771,28 +781,12 @@
         "state": "SC"
       },
       {
-        "display_name": "Sheehy (R-MT)",
-        "first_name": "Tim",
-        "id": "S435",
-        "last_name": "Sheehy",
-        "party": "R",
-        "state": "MT"
-      },
-      {
         "display_name": "Sullivan (R-AK)",
         "first_name": "Dan",
         "id": "S383",
         "last_name": "Sullivan",
         "party": "R",
         "state": "AK"
-      },
-      {
-        "display_name": "Thune (R-SD)",
-        "first_name": "John",
-        "id": "S303",
-        "last_name": "Thune",
-        "party": "R",
-        "state": "SD"
       },
       {
         "display_name": "Tillis (R-NC)",
@@ -809,6 +803,14 @@
         "last_name": "Tuberville",
         "party": "R",
         "state": "AL"
+      },
+      {
+        "display_name": "Warnock (D-GA)",
+        "first_name": "Raphael",
+        "id": "S415",
+        "last_name": "Warnock",
+        "party": "D",
+        "state": "GA"
       },
       {
         "display_name": "Wicker (R-MS)",

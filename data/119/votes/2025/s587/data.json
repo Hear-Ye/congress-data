@@ -2,23 +2,23 @@
   "category": "cloture",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-10-21T15:01:00-04:00",
+  "date": "2025-10-23T13:51:00-04:00",
   "nomination": {
-    "number": "400-2",
-    "title": "William W. Mercer, of Montana, to be United States District Judge for the District of Montana"
+    "number": "520-5",
+    "title": "Rebecca L. Taibleson, of Wisconsin, to be United States Circuit Judge for the Seventh Circuit"
   },
-  "number": 579,
-  "question": "Motion to Invoke Cloture: William W. Mercer to be U.S. District Judge for the District of Montana: William W. Mercer, of Montana, to be United States District Judge for the District of Montana",
-  "record_modified": "2025-10-23T14:46:00-04:00",
+  "number": 587,
+  "question": "Motion to Invoke Cloture: Rebecca L. Taibleson to be U.S. Circuit Judge for the Seventh Circuit: Rebecca L. Taibleson, of Wisconsin, to be United States Circuit Judge for the Seventh Circuit",
+  "record_modified": "2025-10-23T14:40:00-04:00",
   "requires": "1/2",
   "result": "Cloture Motion Agreed to",
-  "result_text": "Cloture Motion Agreed to (53-46)",
+  "result_text": "Cloture Motion Agreed to (50-45)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00579.xml",
-  "subject": "On the Cloture Motion PN400-2",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00587.xml",
+  "subject": "On the Cloture Motion PN520-5",
   "type": "On the Cloture Motion",
-  "updated_at": "2025-10-24T03:13:48-04:00",
-  "vote_id": "s579-119.2025",
+  "updated_at": "2025-10-24T03:13:44-04:00",
+  "vote_id": "s587-119.2025",
   "votes": {
     "Nay": [
       {
@@ -92,6 +92,14 @@
         "last_name": "Cortez Masto",
         "party": "D",
         "state": "NV"
+      },
+      {
+        "display_name": "Duckworth (D-IL)",
+        "first_name": "Tammy",
+        "id": "S386",
+        "last_name": "Duckworth",
+        "party": "D",
+        "state": "IL"
       },
       {
         "display_name": "Durbin (D-IL)",
@@ -286,14 +294,6 @@
         "state": "VT"
       },
       {
-        "display_name": "Schatz (D-HI)",
-        "first_name": "Brian",
-        "id": "S353",
-        "last_name": "Schatz",
-        "party": "D",
-        "state": "HI"
-      },
-      {
         "display_name": "Schiff (D-CA)",
         "first_name": "Adam",
         "id": "S427",
@@ -308,14 +308,6 @@
         "last_name": "Schumer",
         "party": "D",
         "state": "NY"
-      },
-      {
-        "display_name": "Shaheen (D-NH)",
-        "first_name": "Jeanne",
-        "id": "S324",
-        "last_name": "Shaheen",
-        "party": "D",
-        "state": "NH"
       },
       {
         "display_name": "Slotkin (D-MI)",
@@ -392,12 +384,44 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Duckworth (D-IL)",
-        "first_name": "Tammy",
-        "id": "S386",
-        "last_name": "Duckworth",
+        "display_name": "Moran (R-KS)",
+        "first_name": "Jerry",
+        "id": "S347",
+        "last_name": "Moran",
+        "party": "R",
+        "state": "KS"
+      },
+      {
+        "display_name": "Rounds (R-SD)",
+        "first_name": "Mike",
+        "id": "S381",
+        "last_name": "Rounds",
+        "party": "R",
+        "state": "SD"
+      },
+      {
+        "display_name": "Schatz (D-HI)",
+        "first_name": "Brian",
+        "id": "S353",
+        "last_name": "Schatz",
         "party": "D",
-        "state": "IL"
+        "state": "HI"
+      },
+      {
+        "display_name": "Shaheen (D-NH)",
+        "first_name": "Jeanne",
+        "id": "S324",
+        "last_name": "Shaheen",
+        "party": "D",
+        "state": "NH"
+      },
+      {
+        "display_name": "Sheehy (R-MT)",
+        "first_name": "Tim",
+        "id": "S435",
+        "last_name": "Sheehy",
+        "party": "R",
+        "state": "MT"
       }
     ],
     "Present": [],
@@ -683,14 +707,6 @@
         "state": "FL"
       },
       {
-        "display_name": "Moran (R-KS)",
-        "first_name": "Jerry",
-        "id": "S347",
-        "last_name": "Moran",
-        "party": "R",
-        "state": "KS"
-      },
-      {
         "display_name": "Moreno (R-OH)",
         "first_name": "Bernie",
         "id": "S434",
@@ -739,14 +755,6 @@
         "state": "ID"
       },
       {
-        "display_name": "Rounds (R-SD)",
-        "first_name": "Mike",
-        "id": "S381",
-        "last_name": "Rounds",
-        "party": "R",
-        "state": "SD"
-      },
-      {
         "display_name": "Schmitt (R-MO)",
         "first_name": "Eric ",
         "id": "S420",
@@ -769,14 +777,6 @@
         "last_name": "Scott",
         "party": "R",
         "state": "SC"
-      },
-      {
-        "display_name": "Sheehy (R-MT)",
-        "first_name": "Tim",
-        "id": "S435",
-        "last_name": "Sheehy",
-        "party": "R",
-        "state": "MT"
       },
       {
         "display_name": "Sullivan (R-AK)",

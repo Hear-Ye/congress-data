@@ -1,24 +1,24 @@
 {
-  "category": "cloture",
+  "category": "nomination",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-10-21T15:01:00-04:00",
+  "date": "2025-10-23T13:17:00-04:00",
   "nomination": {
-    "number": "400-2",
-    "title": "William W. Mercer, of Montana, to be United States District Judge for the District of Montana"
+    "number": "368",
+    "title": "Stephen Chad Meredith, of Kentucky, to be United States District Judge for the Eastern District of Kentucky"
   },
-  "number": 579,
-  "question": "Motion to Invoke Cloture: William W. Mercer to be U.S. District Judge for the District of Montana: William W. Mercer, of Montana, to be United States District Judge for the District of Montana",
-  "record_modified": "2025-10-23T14:46:00-04:00",
+  "number": 586,
+  "question": "On the Nomination PN368: Stephen Chad Meredith, of Kentucky, to be United States District Judge for the Eastern District of Kentucky",
+  "record_modified": "2025-10-23T14:13:00-04:00",
   "requires": "1/2",
-  "result": "Cloture Motion Agreed to",
-  "result_text": "Cloture Motion Agreed to (53-46)",
+  "result": "Nomination Confirmed",
+  "result_text": "Nomination Confirmed (48-45)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00579.xml",
-  "subject": "On the Cloture Motion PN400-2",
-  "type": "On the Cloture Motion",
-  "updated_at": "2025-10-24T03:13:48-04:00",
-  "vote_id": "s579-119.2025",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00586.xml",
+  "subject": "Confirmation: Stephen Chad Meredith, of Kentucky, to be U.S. District Judge for the Eastern District of Kentucky",
+  "type": "On the Nomination",
+  "updated_at": "2025-10-24T03:13:45-04:00",
+  "vote_id": "s586-119.2025",
   "votes": {
     "Nay": [
       {
@@ -94,6 +94,14 @@
         "state": "NV"
       },
       {
+        "display_name": "Duckworth (D-IL)",
+        "first_name": "Tammy",
+        "id": "S386",
+        "last_name": "Duckworth",
+        "party": "D",
+        "state": "IL"
+      },
+      {
         "display_name": "Durbin (D-IL)",
         "first_name": "Richard",
         "id": "S253",
@@ -156,14 +164,6 @@
         "last_name": "Hirono",
         "party": "D",
         "state": "HI"
-      },
-      {
-        "display_name": "Kaine (D-VA)",
-        "first_name": "Timothy",
-        "id": "S362",
-        "last_name": "Kaine",
-        "party": "D",
-        "state": "VA"
       },
       {
         "display_name": "Kelly (D-AZ)",
@@ -342,14 +342,6 @@
         "state": "MD"
       },
       {
-        "display_name": "Warner (D-VA)",
-        "first_name": "Mark",
-        "id": "S327",
-        "last_name": "Warner",
-        "party": "D",
-        "state": "VA"
-      },
-      {
         "display_name": "Warnock (D-GA)",
         "first_name": "Raphael",
         "id": "S415",
@@ -392,12 +384,60 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Duckworth (D-IL)",
-        "first_name": "Tammy",
-        "id": "S386",
-        "last_name": "Duckworth",
+        "display_name": "Blackburn (R-TN)",
+        "first_name": "Marsha",
+        "id": "S396",
+        "last_name": "Blackburn",
+        "party": "R",
+        "state": "TN"
+      },
+      {
+        "display_name": "Kaine (D-VA)",
+        "first_name": "Timothy",
+        "id": "S362",
+        "last_name": "Kaine",
         "party": "D",
-        "state": "IL"
+        "state": "VA"
+      },
+      {
+        "display_name": "Moran (R-KS)",
+        "first_name": "Jerry",
+        "id": "S347",
+        "last_name": "Moran",
+        "party": "R",
+        "state": "KS"
+      },
+      {
+        "display_name": "Murkowski (R-AK)",
+        "first_name": "Lisa",
+        "id": "S288",
+        "last_name": "Murkowski",
+        "party": "R",
+        "state": "AK"
+      },
+      {
+        "display_name": "Sheehy (R-MT)",
+        "first_name": "Tim",
+        "id": "S435",
+        "last_name": "Sheehy",
+        "party": "R",
+        "state": "MT"
+      },
+      {
+        "display_name": "Sullivan (R-AK)",
+        "first_name": "Dan",
+        "id": "S383",
+        "last_name": "Sullivan",
+        "party": "R",
+        "state": "AK"
+      },
+      {
+        "display_name": "Warner (D-VA)",
+        "first_name": "Mark",
+        "id": "S327",
+        "last_name": "Warner",
+        "party": "D",
+        "state": "VA"
       }
     ],
     "Present": [],
@@ -417,14 +457,6 @@
         "last_name": "Barrasso",
         "party": "R",
         "state": "WY"
-      },
-      {
-        "display_name": "Blackburn (R-TN)",
-        "first_name": "Marsha",
-        "id": "S396",
-        "last_name": "Blackburn",
-        "party": "R",
-        "state": "TN"
       },
       {
         "display_name": "Boozman (R-AR)",
@@ -683,14 +715,6 @@
         "state": "FL"
       },
       {
-        "display_name": "Moran (R-KS)",
-        "first_name": "Jerry",
-        "id": "S347",
-        "last_name": "Moran",
-        "party": "R",
-        "state": "KS"
-      },
-      {
         "display_name": "Moreno (R-OH)",
         "first_name": "Bernie",
         "id": "S434",
@@ -705,14 +729,6 @@
         "last_name": "Mullin",
         "party": "R",
         "state": "OK"
-      },
-      {
-        "display_name": "Murkowski (R-AK)",
-        "first_name": "Lisa",
-        "id": "S288",
-        "last_name": "Murkowski",
-        "party": "R",
-        "state": "AK"
       },
       {
         "display_name": "Paul (R-KY)",
@@ -769,22 +785,6 @@
         "last_name": "Scott",
         "party": "R",
         "state": "SC"
-      },
-      {
-        "display_name": "Sheehy (R-MT)",
-        "first_name": "Tim",
-        "id": "S435",
-        "last_name": "Sheehy",
-        "party": "R",
-        "state": "MT"
-      },
-      {
-        "display_name": "Sullivan (R-AK)",
-        "first_name": "Dan",
-        "id": "S383",
-        "last_name": "Sullivan",
-        "party": "R",
-        "state": "AK"
       },
       {
         "display_name": "Thune (R-SD)",

@@ -1,9 +1,9 @@
-<roll where="senate" session="119" year="2025" roll="578" source="senate.gov"
-  datetime="2025-10-21T14:21:00-04:00" updated="2025-10-24T03:13:49-04:00"
-  aye="53" nay="46" nv="1" present="0">
+<roll where="senate" session="119" year="2025" roll="587" source="senate.gov"
+  datetime="2025-10-23T13:51:00-04:00" updated="2025-10-24T03:13:44-04:00"
+  aye="50" nay="45" nv="5" present="0">
   <category>cloture</category>
   <type>On the Cloture Motion</type>
-  <question>Motion to Invoke Cloture: Anne-Leigh Gaylord Moe to be U.S. District Judge for the Middle District of Florida: Anne-Leigh Gaylord Moe, of Florida, to be United States District Judge for the Middle District of Florida</question>
+  <question>Motion to Invoke Cloture: Rebecca L. Taibleson to be U.S. Circuit Judge for the Seventh Circuit: Rebecca L. Taibleson, of Wisconsin, to be United States Circuit Judge for the Seventh Circuit</question>
   <required>1/2</required>
   <result>Cloture Motion Agreed to</result>
   <option key="+">Yea</option>
@@ -45,18 +45,15 @@
   <voter id="S174" vote="+" value="Yea" state="KY"/>
   <voter id="S433" vote="+" value="Yea" state="PA"/>
   <voter id="S439" vote="+" value="Yea" state="FL"/>
-  <voter id="S347" vote="+" value="Yea" state="KS"/>
   <voter id="S434" vote="+" value="Yea" state="OH"/>
   <voter id="S419" vote="+" value="Yea" state="OK"/>
   <voter id="S288" vote="+" value="Yea" state="AK"/>
   <voter id="S348" vote="+" value="Yea" state="KY"/>
   <voter id="S423" vote="+" value="Yea" state="NE"/>
   <voter id="S323" vote="+" value="Yea" state="ID"/>
-  <voter id="S381" vote="+" value="Yea" state="SD"/>
   <voter id="S420" vote="+" value="Yea" state="MO"/>
   <voter id="S404" vote="+" value="Yea" state="FL"/>
   <voter id="S365" vote="+" value="Yea" state="SC"/>
-  <voter id="S435" vote="+" value="Yea" state="MT"/>
   <voter id="S383" vote="+" value="Yea" state="AK"/>
   <voter id="S303" vote="+" value="Yea" state="SD"/>
   <voter id="S384" vote="+" value="Yea" state="NC"/>
@@ -72,6 +69,7 @@
   <voter id="S275" vote="-" value="Nay" state="WA"/>
   <voter id="S337" vote="-" value="Nay" state="DE"/>
   <voter id="S385" vote="-" value="Nay" state="NV"/>
+  <voter id="S386" vote="-" value="Nay" state="IL"/>
   <voter id="S253" vote="-" value="Nay" state="IL"/>
   <voter id="S418" vote="-" value="Nay" state="PA"/>
   <voter id="S432" vote="-" value="Nay" state="AZ"/>
@@ -96,10 +94,8 @@
   <voter id="S259" vote="-" value="Nay" state="RI"/>
   <voter id="S402" vote="-" value="Nay" state="NV"/>
   <voter id="S313" vote="-" value="Nay" state="VT"/>
-  <voter id="S353" vote="-" value="Nay" state="HI"/>
   <voter id="S427" vote="-" value="Nay" state="CA"/>
   <voter id="S270" vote="-" value="Nay" state="NY"/>
-  <voter id="S324" vote="-" value="Nay" state="NH"/>
   <voter id="S436" vote="-" value="Nay" state="MI"/>
   <voter id="S394" vote="-" value="Nay" state="MN"/>
   <voter id="S390" vote="-" value="Nay" state="MD"/>
@@ -109,5 +105,9 @@
   <voter id="S422" vote="-" value="Nay" state="VT"/>
   <voter id="S316" vote="-" value="Nay" state="RI"/>
   <voter id="S247" vote="-" value="Nay" state="OR"/>
-  <voter id="S386" vote="0" value="Not Voting" state="IL"/>
+  <voter id="S347" vote="0" value="Not Voting" state="KS"/>
+  <voter id="S381" vote="0" value="Not Voting" state="SD"/>
+  <voter id="S353" vote="0" value="Not Voting" state="HI"/>
+  <voter id="S324" vote="0" value="Not Voting" state="NH"/>
+  <voter id="S435" vote="0" value="Not Voting" state="MT"/>
 </roll>

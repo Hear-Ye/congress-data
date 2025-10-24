@@ -1,9 +1,9 @@
 <roll where="senate" session="119" year="2025" roll="579" source="senate.gov"
-  datetime="2025-10-21T15:01:00-04:00" updated="2025-10-22T03:31:58-04:00"
+  datetime="2025-10-21T15:01:00-04:00" updated="2025-10-24T03:13:48-04:00"
   aye="53" nay="46" nv="1" present="0">
   <category>cloture</category>
   <type>On the Cloture Motion</type>
-  <question>Motion to Invoke Cloture: William W. Mercer to be United States District Judge for the District of Montana: William W. Mercer, of Montana, to be United States District Judge for the District of Montana</question>
+  <question>Motion to Invoke Cloture: William W. Mercer to be U.S. District Judge for the District of Montana: William W. Mercer, of Montana, to be United States District Judge for the District of Montana</question>
   <required>1/2</required>
   <result>Cloture Motion Agreed to</result>
   <option key="+">Yea</option>
