@@ -2,23 +2,23 @@
   "category": "cloture",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-12-08T17:25:00-05:00",
+  "date": "2025-12-09T12:23:00-05:00",
   "nomination": {
-    "number": "466-1",
-    "title": "Robert P. Chamberlin, of Mississippi, to be United States District Judge for the Northern District of Mississippi"
+    "number": "615-1",
+    "title": "William J. Crain, of Louisiana, to be United States District Judge for the Eastern District of Louisiana"
   },
-  "number": 635,
-  "question": "Motion to Invoke Cloture: Robert P. Chamberlain to be U.S. District Judge for the Northern District of Mississippi: Robert P. Chamberlin, of Mississippi, to be United States District Judge for the Northern District of Mississippi",
-  "record_modified": "2025-12-09T16:12:00-05:00",
+  "number": 637,
+  "question": "Motion to Invoke Cloture: William J. Crain to be U.S. District Judge for the Eastern District of Louisiana: William J. Crain, of Louisiana, to be United States District Judge for the Eastern District of Louisiana",
+  "record_modified": "2025-12-09T13:37:00-05:00",
   "requires": "1/2",
   "result": "Cloture Motion Agreed to",
-  "result_text": "Cloture Motion Agreed to (52-44)",
+  "result_text": "Cloture Motion Agreed to (51-46)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00635.xml",
-  "subject": "On the Cloture Motion PN466-1",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00637.xml",
+  "subject": "On the Cloture Motion PN615-1",
   "type": "On the Cloture Motion",
-  "updated_at": "2025-12-10T03:44:51-05:00",
-  "vote_id": "s635-119.2025",
+  "updated_at": "2025-12-10T03:44:50-05:00",
+  "vote_id": "s637-119.2025",
   "votes": {
     "Nay": [
       {
@@ -92,14 +92,6 @@
         "last_name": "Cortez Masto",
         "party": "D",
         "state": "NV"
-      },
-      {
-        "display_name": "Duckworth (D-IL)",
-        "first_name": "Tammy",
-        "id": "S386",
-        "last_name": "Duckworth",
-        "party": "D",
-        "state": "IL"
       },
       {
         "display_name": "Durbin (D-IL)",
@@ -222,6 +214,14 @@
         "state": "MA"
       },
       {
+        "display_name": "Merkley (D-OR)",
+        "first_name": "Jeff",
+        "id": "S322",
+        "last_name": "Merkley",
+        "party": "D",
+        "state": "OR"
+      },
+      {
         "display_name": "Murphy (D-CT)",
         "first_name": "Christopher",
         "id": "S364",
@@ -268,6 +268,14 @@
         "last_name": "Reed",
         "party": "D",
         "state": "RI"
+      },
+      {
+        "display_name": "Rosen (D-NV)",
+        "first_name": "Jacky",
+        "id": "S402",
+        "last_name": "Rosen",
+        "party": "D",
+        "state": "NV"
       },
       {
         "display_name": "Sanders (I-VT)",
@@ -372,24 +380,6 @@
         "last_name": "Whitehouse",
         "party": "D",
         "state": "RI"
-      }
-    ],
-    "Not Voting": [
-      {
-        "display_name": "Merkley (D-OR)",
-        "first_name": "Jeff",
-        "id": "S322",
-        "last_name": "Merkley",
-        "party": "D",
-        "state": "OR"
-      },
-      {
-        "display_name": "Rosen (D-NV)",
-        "first_name": "Jacky",
-        "id": "S402",
-        "last_name": "Rosen",
-        "party": "D",
-        "state": "NV"
       },
       {
         "display_name": "Wyden (D-OR)",
@@ -398,14 +388,32 @@
         "last_name": "Wyden",
         "party": "D",
         "state": "OR"
+      }
+    ],
+    "Not Voting": [
+      {
+        "display_name": "Capito (R-WV)",
+        "first_name": "Shelley",
+        "id": "S372",
+        "last_name": "Capito",
+        "party": "R",
+        "state": "WV"
       },
       {
-        "display_name": "Young (R-IN)",
-        "first_name": "Todd",
-        "id": "S391",
-        "last_name": "Young",
+        "display_name": "Duckworth (D-IL)",
+        "first_name": "Tammy",
+        "id": "S386",
+        "last_name": "Duckworth",
+        "party": "D",
+        "state": "IL"
+      },
+      {
+        "display_name": "Justice (R-WV)",
+        "first_name": "James",
+        "id": "S437",
+        "last_name": "Justice",
         "party": "R",
-        "state": "IN"
+        "state": "WV"
       }
     ],
     "Present": [],
@@ -457,14 +465,6 @@
         "last_name": "Budd",
         "party": "R",
         "state": "NC"
-      },
-      {
-        "display_name": "Capito (R-WV)",
-        "first_name": "Shelley",
-        "id": "S372",
-        "last_name": "Capito",
-        "party": "R",
-        "state": "WV"
       },
       {
         "display_name": "Cassidy (R-LA)",
@@ -617,14 +617,6 @@
         "last_name": "Johnson",
         "party": "R",
         "state": "WI"
-      },
-      {
-        "display_name": "Justice (R-WV)",
-        "first_name": "James",
-        "id": "S437",
-        "last_name": "Justice",
-        "party": "R",
-        "state": "WV"
       },
       {
         "display_name": "Kennedy (R-LA)",
@@ -825,6 +817,14 @@
         "last_name": "Wicker",
         "party": "R",
         "state": "MS"
+      },
+      {
+        "display_name": "Young (R-IN)",
+        "first_name": "Todd",
+        "id": "S391",
+        "last_name": "Young",
+        "party": "R",
+        "state": "IN"
       }
     ]
   }

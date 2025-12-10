@@ -1,24 +1,24 @@
 {
-  "category": "cloture",
+  "category": "nomination",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-12-08T17:25:00-05:00",
+  "date": "2025-12-09T17:16:00-05:00",
   "nomination": {
-    "number": "466-1",
-    "title": "Robert P. Chamberlin, of Mississippi, to be United States District Judge for the Northern District of Mississippi"
+    "number": "466-5",
+    "title": "James D. Maxwell II, of Mississippi, to be United States District Judge for the Northern District of Mississippi"
   },
-  "number": 635,
-  "question": "Motion to Invoke Cloture: Robert P. Chamberlain to be U.S. District Judge for the Northern District of Mississippi: Robert P. Chamberlin, of Mississippi, to be United States District Judge for the Northern District of Mississippi",
-  "record_modified": "2025-12-09T16:12:00-05:00",
+  "number": 640,
+  "question": "On the Nomination PN466-5: James D. Maxwell II, of Mississippi, to be United States District Judge for the Northern District of Mississippi",
+  "record_modified": "2025-12-09T18:40:00-05:00",
   "requires": "1/2",
-  "result": "Cloture Motion Agreed to",
-  "result_text": "Cloture Motion Agreed to (52-44)",
+  "result": "Nomination Confirmed",
+  "result_text": "Nomination Confirmed (51-46)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00635.xml",
-  "subject": "On the Cloture Motion PN466-1",
-  "type": "On the Cloture Motion",
-  "updated_at": "2025-12-10T03:44:51-05:00",
-  "vote_id": "s635-119.2025",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00640.xml",
+  "subject": "Confirmation: James D. Maxwell II, of Mississippi, to be U.S. District Judge for the Northern District of Mississippi",
+  "type": "On the Nomination",
+  "updated_at": "2025-12-10T03:44:48-05:00",
+  "vote_id": "s640-119.2025",
   "votes": {
     "Nay": [
       {
@@ -92,14 +92,6 @@
         "last_name": "Cortez Masto",
         "party": "D",
         "state": "NV"
-      },
-      {
-        "display_name": "Duckworth (D-IL)",
-        "first_name": "Tammy",
-        "id": "S386",
-        "last_name": "Duckworth",
-        "party": "D",
-        "state": "IL"
       },
       {
         "display_name": "Durbin (D-IL)",
@@ -222,6 +214,14 @@
         "state": "MA"
       },
       {
+        "display_name": "Merkley (D-OR)",
+        "first_name": "Jeff",
+        "id": "S322",
+        "last_name": "Merkley",
+        "party": "D",
+        "state": "OR"
+      },
+      {
         "display_name": "Murphy (D-CT)",
         "first_name": "Christopher",
         "id": "S364",
@@ -268,6 +268,14 @@
         "last_name": "Reed",
         "party": "D",
         "state": "RI"
+      },
+      {
+        "display_name": "Rosen (D-NV)",
+        "first_name": "Jacky",
+        "id": "S402",
+        "last_name": "Rosen",
+        "party": "D",
+        "state": "NV"
       },
       {
         "display_name": "Sanders (I-VT)",
@@ -372,24 +380,6 @@
         "last_name": "Whitehouse",
         "party": "D",
         "state": "RI"
-      }
-    ],
-    "Not Voting": [
-      {
-        "display_name": "Merkley (D-OR)",
-        "first_name": "Jeff",
-        "id": "S322",
-        "last_name": "Merkley",
-        "party": "D",
-        "state": "OR"
-      },
-      {
-        "display_name": "Rosen (D-NV)",
-        "first_name": "Jacky",
-        "id": "S402",
-        "last_name": "Rosen",
-        "party": "D",
-        "state": "NV"
       },
       {
         "display_name": "Wyden (D-OR)",
@@ -398,14 +388,32 @@
         "last_name": "Wyden",
         "party": "D",
         "state": "OR"
+      }
+    ],
+    "Not Voting": [
+      {
+        "display_name": "Duckworth (D-IL)",
+        "first_name": "Tammy",
+        "id": "S386",
+        "last_name": "Duckworth",
+        "party": "D",
+        "state": "IL"
       },
       {
-        "display_name": "Young (R-IN)",
-        "first_name": "Todd",
-        "id": "S391",
-        "last_name": "Young",
+        "display_name": "Justice (R-WV)",
+        "first_name": "James",
+        "id": "S437",
+        "last_name": "Justice",
         "party": "R",
-        "state": "IN"
+        "state": "WV"
+      },
+      {
+        "display_name": "McCormick (R-PA)",
+        "first_name": "David",
+        "id": "S433",
+        "last_name": "McCormick",
+        "party": "R",
+        "state": "PA"
       }
     ],
     "Present": [],
@@ -619,14 +627,6 @@
         "state": "WI"
       },
       {
-        "display_name": "Justice (R-WV)",
-        "first_name": "James",
-        "id": "S437",
-        "last_name": "Justice",
-        "party": "R",
-        "state": "WV"
-      },
-      {
         "display_name": "Kennedy (R-LA)",
         "first_name": "John",
         "id": "S389",
@@ -673,14 +673,6 @@
         "last_name": "McConnell",
         "party": "R",
         "state": "KY"
-      },
-      {
-        "display_name": "McCormick (R-PA)",
-        "first_name": "David",
-        "id": "S433",
-        "last_name": "McCormick",
-        "party": "R",
-        "state": "PA"
       },
       {
         "display_name": "Moody (R-FL)",
@@ -825,6 +817,14 @@
         "last_name": "Wicker",
         "party": "R",
         "state": "MS"
+      },
+      {
+        "display_name": "Young (R-IN)",
+        "first_name": "Todd",
+        "id": "S391",
+        "last_name": "Young",
+        "party": "R",
+        "state": "IN"
       }
     ]
   }
