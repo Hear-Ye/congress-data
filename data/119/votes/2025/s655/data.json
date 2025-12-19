@@ -1,26 +1,24 @@
 {
-  "bill": {
-    "congress": 119,
-    "number": 131,
-    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"Coastal Plain Oil and Gas Leasing Program Record of Decision\".",
-    "type": "hjres"
-  },
-  "category": "passage",
+  "category": "nomination",
   "chamber": "s",
   "congress": 119,
-  "date": "2025-12-04T11:35:00-05:00",
-  "number": 632,
-  "question": "On the Joint Resolution H.J.Res. 131",
-  "record_modified": "2025-12-18T17:12:00-05:00",
+  "date": "2025-12-18T19:42:00-05:00",
+  "nomination": {
+    "number": "25-2",
+    "title": "Daniel Aronowitz, of Virginia, to be an Assistant Secretary of Labor"
+  },
+  "number": 655,
+  "question": "On the Nomination PN416-9 and PN141-12 and PN499-12 and PN465-1 and PN345-14 and PN345-13 and PN345-10 and PN55-2 and PN624-2 and PN624-1 and PN379-17 and PN379-16 and PN416-6 and PN519-2 and PN445-3 and PN416-12 and PN55-7 and PN345-12 and PN465-2 and PN55-26 and PN55-10 and PN416-2 and PN379-20 and PN246-6 and PN560-3 and PN462-3 and PN462-1 and PN416-5 and PN518-5 and PN499-10 and PN499-2 and PN462-4 and PN141-10 and PN26-24 and PN445-10 and PN445-7 and PN445-2 and PN379-4 and PN246-12 and PN141-27 and PN141-8 and PN129-17 and PN129-1 and PN60-17 and PN60-11 and PN60-4 and PN22-11 and PN445-5 and PN466-9 and PN466-8 and PN466-7 and PN447 and PN141-5 and PN499-8 and PN345-8 and PN246-3 and PN246-11 and PN60-8 and PN445-11 and PN416-4 and PN379-15 and PN379-13 and PN379-11 and PN141-20 and PN141-25 and PN246-2 and PN26-47 and PN60-13 and PN26-26 and PN379-19 and PN445-1 and PN379-26 and PN379-22 and PN416-3 and PN379-9 and PN379-3 and PN379-18 and PN246-1 and PN141-14 and PN416-10 and PN379-21 and PN55-13 and PN129-6 and PN55-44 and PN141-39 and PN379-7 and PN246-13 and PN246-4 and PN141-26 and PN141-22 and PN141-16 and PN129-7 and PN60-12 and PN55-34 and PN141-2 and PN26-37 and PN25-2: Daniel Aronowitz, of Virginia, to be an Assistant Secretary of Labor",
+  "record_modified": "2025-12-18T20:45:00-05:00",
   "requires": "1/2",
-  "result": "Joint Resolution Passed",
-  "result_text": "Joint Resolution Passed (49-45)",
+  "result": "Nomination Confirmed",
+  "result_text": "Nomination Confirmed (53-43)",
   "session": "2025",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00632.xml",
-  "subject": "H.J. Res. 131",
-  "type": "On the Joint Resolution",
-  "updated_at": "2025-12-19T03:46:14-05:00",
-  "vote_id": "s632-119.2025",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00655.xml",
+  "subject": "Confirmation: En Bloc Nominations as Provided for Under the Provisions of S. Res. 532",
+  "type": "On the Nomination",
+  "updated_at": "2025-12-19T03:46:02-05:00",
+  "vote_id": "s655-119.2025",
   "votes": {
     "Nay": [
       {
@@ -64,28 +62,12 @@
         "state": "DE"
       },
       {
-        "display_name": "Booker (D-NJ)",
-        "first_name": "Cory",
-        "id": "S370",
-        "last_name": "Booker",
-        "party": "D",
-        "state": "NJ"
-      },
-      {
         "display_name": "Cantwell (D-WA)",
         "first_name": "Maria",
         "id": "S275",
         "last_name": "Cantwell",
         "party": "D",
         "state": "WA"
-      },
-      {
-        "display_name": "Collins (R-ME)",
-        "first_name": "Susan",
-        "id": "S252",
-        "last_name": "Collins",
-        "party": "R",
-        "state": "ME"
       },
       {
         "display_name": "Coons (D-DE)",
@@ -108,14 +90,6 @@
         "first_name": "Tammy",
         "id": "S386",
         "last_name": "Duckworth",
-        "party": "D",
-        "state": "IL"
-      },
-      {
-        "display_name": "Durbin (D-IL)",
-        "first_name": "Richard",
-        "id": "S253",
-        "last_name": "Durbin",
         "party": "D",
         "state": "IL"
       },
@@ -240,6 +214,14 @@
         "state": "OR"
       },
       {
+        "display_name": "Murphy (D-CT)",
+        "first_name": "Christopher",
+        "id": "S364",
+        "last_name": "Murphy",
+        "party": "D",
+        "state": "CT"
+      },
+      {
         "display_name": "Murray (D-WA)",
         "first_name": "Patty",
         "id": "S229",
@@ -304,6 +286,14 @@
         "state": "HI"
       },
       {
+        "display_name": "Schiff (D-CA)",
+        "first_name": "Adam",
+        "id": "S427",
+        "last_name": "Schiff",
+        "party": "D",
+        "state": "CA"
+      },
+      {
         "display_name": "Schumer (D-NY)",
         "first_name": "Charles",
         "id": "S270",
@@ -312,20 +302,20 @@
         "state": "NY"
       },
       {
+        "display_name": "Shaheen (D-NH)",
+        "first_name": "Jeanne",
+        "id": "S324",
+        "last_name": "Shaheen",
+        "party": "D",
+        "state": "NH"
+      },
+      {
         "display_name": "Slotkin (D-MI)",
         "first_name": "Elissa",
         "id": "S436",
         "last_name": "Slotkin",
         "party": "D",
         "state": "MI"
-      },
-      {
-        "display_name": "Smith (D-MN)",
-        "first_name": "Tina",
-        "id": "S394",
-        "last_name": "Smith",
-        "party": "D",
-        "state": "MN"
       },
       {
         "display_name": "Van Hollen (D-MD)",
@@ -350,14 +340,6 @@
         "last_name": "Warnock",
         "party": "D",
         "state": "GA"
-      },
-      {
-        "display_name": "Warren (D-MA)",
-        "first_name": "Elizabeth",
-        "id": "S366",
-        "last_name": "Warren",
-        "party": "D",
-        "state": "MA"
       },
       {
         "display_name": "Welch (D-VT)",
@@ -386,52 +368,36 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Graham (R-SC)",
-        "first_name": "Lindsey",
-        "id": "S293",
-        "last_name": "Graham",
-        "party": "R",
-        "state": "SC"
-      },
-      {
-        "display_name": "Moran (R-KS)",
-        "first_name": "Jerry",
-        "id": "S347",
-        "last_name": "Moran",
-        "party": "R",
-        "state": "KS"
-      },
-      {
-        "display_name": "Murphy (D-CT)",
-        "first_name": "Christopher",
-        "id": "S364",
-        "last_name": "Murphy",
+        "display_name": "Booker (D-NJ)",
+        "first_name": "Cory",
+        "id": "S370",
+        "last_name": "Booker",
         "party": "D",
-        "state": "CT"
+        "state": "NJ"
       },
       {
-        "display_name": "Schiff (D-CA)",
-        "first_name": "Adam",
-        "id": "S427",
-        "last_name": "Schiff",
+        "display_name": "Durbin (D-IL)",
+        "first_name": "Richard",
+        "id": "S253",
+        "last_name": "Durbin",
         "party": "D",
-        "state": "CA"
+        "state": "IL"
       },
       {
-        "display_name": "Shaheen (D-NH)",
-        "first_name": "Jeanne",
-        "id": "S324",
-        "last_name": "Shaheen",
+        "display_name": "Smith (D-MN)",
+        "first_name": "Tina",
+        "id": "S394",
+        "last_name": "Smith",
         "party": "D",
-        "state": "NH"
+        "state": "MN"
       },
       {
-        "display_name": "Tuberville (R-AL)",
-        "first_name": "Tommy",
-        "id": "S412",
-        "last_name": "Tuberville",
-        "party": "R",
-        "state": "AL"
+        "display_name": "Warren (D-MA)",
+        "first_name": "Elizabeth",
+        "id": "S366",
+        "last_name": "Warren",
+        "party": "D",
+        "state": "MA"
       }
     ],
     "Present": [],
@@ -499,6 +465,14 @@
         "last_name": "Cassidy",
         "party": "R",
         "state": "LA"
+      },
+      {
+        "display_name": "Collins (R-ME)",
+        "first_name": "Susan",
+        "id": "S252",
+        "last_name": "Collins",
+        "party": "R",
+        "state": "ME"
       },
       {
         "display_name": "Cornyn (R-TX)",
@@ -571,6 +545,14 @@
         "last_name": "Fischer",
         "party": "R",
         "state": "NE"
+      },
+      {
+        "display_name": "Graham (R-SC)",
+        "first_name": "Lindsey",
+        "id": "S293",
+        "last_name": "Graham",
+        "party": "R",
+        "state": "SC"
       },
       {
         "display_name": "Grassley (R-IA)",
@@ -701,6 +683,14 @@
         "state": "FL"
       },
       {
+        "display_name": "Moran (R-KS)",
+        "first_name": "Jerry",
+        "id": "S347",
+        "last_name": "Moran",
+        "party": "R",
+        "state": "KS"
+      },
+      {
         "display_name": "Moreno (R-OH)",
         "first_name": "Bernie",
         "id": "S434",
@@ -811,6 +801,14 @@
         "last_name": "Tillis",
         "party": "R",
         "state": "NC"
+      },
+      {
+        "display_name": "Tuberville (R-AL)",
+        "first_name": "Tommy",
+        "id": "S412",
+        "last_name": "Tuberville",
+        "party": "R",
+        "state": "AL"
       },
       {
         "display_name": "Wicker (R-MS)",

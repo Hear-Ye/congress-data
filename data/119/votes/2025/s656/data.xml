@@ -1,9 +1,9 @@
-<roll where="senate" session="119" year="2025" roll="653" source="senate.gov"
-  datetime="2025-12-17T18:30:00-05:00" updated="2025-12-19T03:46:03-05:00"
-  aye="53" nay="47" nv="0" present="0">
+<roll where="senate" session="119" year="2025" roll="656" source="senate.gov"
+  datetime="2025-12-18T20:25:00-05:00" updated="2025-12-19T03:46:01-05:00"
+  aye="53" nay="43" nv="4" present="0">
   <category>cloture</category>
   <type>On the Cloture Motion</type>
-  <question>Motion to Invoke Cloture: En Bloc Nominations Provided for Under the Provisions of S. Res. 412: Scott Mayer, of Pennsylvania, to be a Member of the National Labor Relations Board for the term of five years expiring December 16, 2029</question>
+  <question>Motion to Invoke Cloture: Joshua Simmons to be General Counsel of the Central Intelligence Agency: Joshua Simmons, of Virginia, to be General Counsel of the Central Intelligence Agency</question>
   <required>1/2</required>
   <result>Cloture Motion Agreed to</result>
   <option key="+">Yea</option>
@@ -68,12 +68,10 @@
   <voter id="S330" vote="-" value="Nay" state="CO"/>
   <voter id="S341" vote="-" value="Nay" state="CT"/>
   <voter id="S430" vote="-" value="Nay" state="DE"/>
-  <voter id="S370" vote="-" value="Nay" state="NJ"/>
   <voter id="S275" vote="-" value="Nay" state="WA"/>
   <voter id="S337" vote="-" value="Nay" state="DE"/>
   <voter id="S385" vote="-" value="Nay" state="NV"/>
   <voter id="S386" vote="-" value="Nay" state="IL"/>
-  <voter id="S253" vote="-" value="Nay" state="IL"/>
   <voter id="S418" vote="-" value="Nay" state="PA"/>
   <voter id="S432" vote="-" value="Nay" state="AZ"/>
   <voter id="S331" vote="-" value="Nay" state="NY"/>
@@ -102,12 +100,14 @@
   <voter id="S270" vote="-" value="Nay" state="NY"/>
   <voter id="S324" vote="-" value="Nay" state="NH"/>
   <voter id="S436" vote="-" value="Nay" state="MI"/>
-  <voter id="S394" vote="-" value="Nay" state="MN"/>
   <voter id="S390" vote="-" value="Nay" state="MD"/>
   <voter id="S327" vote="-" value="Nay" state="VA"/>
   <voter id="S415" vote="-" value="Nay" state="GA"/>
-  <voter id="S366" vote="-" value="Nay" state="MA"/>
   <voter id="S422" vote="-" value="Nay" state="VT"/>
   <voter id="S316" vote="-" value="Nay" state="RI"/>
   <voter id="S247" vote="-" value="Nay" state="OR"/>
+  <voter id="S370" vote="0" value="Not Voting" state="NJ"/>
+  <voter id="S253" vote="0" value="Not Voting" state="IL"/>
+  <voter id="S394" vote="0" value="Not Voting" state="MN"/>
+  <voter id="S366" vote="0" value="Not Voting" state="MA"/>
 </roll>
