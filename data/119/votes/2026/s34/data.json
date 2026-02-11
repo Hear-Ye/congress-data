@@ -2,23 +2,23 @@
   "category": "nomination",
   "chamber": "s",
   "congress": 119,
-  "date": "2026-02-03T11:38:00-05:00",
+  "date": "2026-02-10T11:27:00-05:00",
   "nomination": {
-    "number": "726-5",
-    "title": "David Clay Fowlkes, of Arkansas, to be United States District Judge for the Western District of Arkansas"
+    "number": "726-4",
+    "title": "Daniel E. Burrows, of Colorado, to be an Assistant Attorney General"
   },
-  "number": 22,
-  "question": "On the Nomination PN726-5: David Clay Fowlkes, of Arkansas, to be United States District Judge for the Western District of Arkansas",
-  "record_modified": "2026-02-10T16:00:00-05:00",
+  "number": 34,
+  "question": "On the Nomination PN726-4: Daniel E. Burrows, of Colorado, to be an Assistant Attorney General",
+  "record_modified": "2026-02-10T12:26:00-05:00",
   "requires": "1/2",
   "result": "Nomination Confirmed",
-  "result_text": "Nomination Confirmed (54-40)",
+  "result_text": "Nomination Confirmed (52-46)",
   "session": "2026",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00022.xml",
-  "subject": "Confirmation: David Clay Fowlkes, of Arkansas, to be U.S. District Judge for the Western District of Arkansas",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00034.xml",
+  "subject": "Confirmation: Daniel E. Burrows, of Colorado, to be an Assistant Attorney General",
   "type": "On the Nomination",
-  "updated_at": "2026-02-11T04:39:30-05:00",
-  "vote_id": "s22-119.2026",
+  "updated_at": "2026-02-11T04:39:24-05:00",
+  "vote_id": "s34-119.2026",
   "votes": {
     "Nay": [
       {
@@ -102,6 +102,14 @@
         "state": "IL"
       },
       {
+        "display_name": "Durbin (D-IL)",
+        "first_name": "Richard",
+        "id": "S253",
+        "last_name": "Durbin",
+        "party": "D",
+        "state": "IL"
+      },
+      {
         "display_name": "Fetterman (D-PA)",
         "first_name": "John",
         "id": "S418",
@@ -124,6 +132,14 @@
         "last_name": "Gillibrand",
         "party": "D",
         "state": "NY"
+      },
+      {
+        "display_name": "Hassan (D-NH)",
+        "first_name": "Maggie",
+        "id": "S388",
+        "last_name": "Hassan",
+        "party": "D",
+        "state": "NH"
       },
       {
         "display_name": "Heinrich (D-NM)",
@@ -150,12 +166,28 @@
         "state": "HI"
       },
       {
+        "display_name": "Kaine (D-VA)",
+        "first_name": "Timothy",
+        "id": "S362",
+        "last_name": "Kaine",
+        "party": "D",
+        "state": "VA"
+      },
+      {
         "display_name": "Kelly (D-AZ)",
         "first_name": "Mark",
         "id": "S406",
         "last_name": "Kelly",
         "party": "D",
         "state": "AZ"
+      },
+      {
+        "display_name": "Kim (D-NJ)",
+        "first_name": "Andy",
+        "id": "S426",
+        "last_name": "Kim",
+        "party": "D",
+        "state": "NJ"
       },
       {
         "display_name": "King (I-ME)",
@@ -172,6 +204,14 @@
         "last_name": "Klobuchar",
         "party": "D",
         "state": "MN"
+      },
+      {
+        "display_name": "Lujan (D-NM)",
+        "first_name": "Ben",
+        "id": "S409",
+        "last_name": "Lujan",
+        "party": "D",
+        "state": "NM"
       },
       {
         "display_name": "Markey (D-MA)",
@@ -278,20 +318,20 @@
         "state": "NY"
       },
       {
+        "display_name": "Shaheen (D-NH)",
+        "first_name": "Jeanne",
+        "id": "S324",
+        "last_name": "Shaheen",
+        "party": "D",
+        "state": "NH"
+      },
+      {
         "display_name": "Slotkin (D-MI)",
         "first_name": "Elissa",
         "id": "S436",
         "last_name": "Slotkin",
         "party": "D",
         "state": "MI"
-      },
-      {
-        "display_name": "Smith (D-MN)",
-        "first_name": "Tina",
-        "id": "S394",
-        "last_name": "Smith",
-        "party": "D",
-        "state": "MN"
       },
       {
         "display_name": "Van Hollen (D-MD)",
@@ -334,6 +374,14 @@
         "state": "VT"
       },
       {
+        "display_name": "Whitehouse (D-RI)",
+        "first_name": "Sheldon",
+        "id": "S316",
+        "last_name": "Whitehouse",
+        "party": "D",
+        "state": "RI"
+      },
+      {
         "display_name": "Wyden (D-OR)",
         "first_name": "Ron",
         "id": "S247",
@@ -344,22 +392,6 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Kim (D-NJ)",
-        "first_name": "Andy",
-        "id": "S426",
-        "last_name": "Kim",
-        "party": "D",
-        "state": "NJ"
-      },
-      {
-        "display_name": "Lujan (D-NM)",
-        "first_name": "Ben",
-        "id": "S409",
-        "last_name": "Lujan",
-        "party": "D",
-        "state": "NM"
-      },
-      {
         "display_name": "McConnell (R-KY)",
         "first_name": "Mitch",
         "id": "S174",
@@ -368,28 +400,12 @@
         "state": "KY"
       },
       {
-        "display_name": "Moreno (R-OH)",
-        "first_name": "Bernie",
-        "id": "S434",
-        "last_name": "Moreno",
-        "party": "R",
-        "state": "OH"
-      },
-      {
-        "display_name": "Paul (R-KY)",
-        "first_name": "Rand",
-        "id": "S348",
-        "last_name": "Paul",
-        "party": "R",
-        "state": "KY"
-      },
-      {
-        "display_name": "Tillis (R-NC)",
-        "first_name": "Thomas",
-        "id": "S384",
-        "last_name": "Tillis",
-        "party": "R",
-        "state": "NC"
+        "display_name": "Smith (D-MN)",
+        "first_name": "Tina",
+        "id": "S394",
+        "last_name": "Smith",
+        "party": "D",
+        "state": "MN"
       }
     ],
     "Present": [],
@@ -523,14 +539,6 @@
         "state": "MT"
       },
       {
-        "display_name": "Durbin (D-IL)",
-        "first_name": "Richard",
-        "id": "S253",
-        "last_name": "Durbin",
-        "party": "D",
-        "state": "IL"
-      },
-      {
         "display_name": "Ernst (R-IA)",
         "first_name": "Joni",
         "id": "S376",
@@ -569,14 +577,6 @@
         "last_name": "Hagerty",
         "party": "R",
         "state": "TN"
-      },
-      {
-        "display_name": "Hassan (D-NH)",
-        "first_name": "Maggie",
-        "id": "S388",
-        "last_name": "Hassan",
-        "party": "D",
-        "state": "NH"
       },
       {
         "display_name": "Hawley (R-MO)",
@@ -625,14 +625,6 @@
         "last_name": "Justice",
         "party": "R",
         "state": "WV"
-      },
-      {
-        "display_name": "Kaine (D-VA)",
-        "first_name": "Timothy",
-        "id": "S362",
-        "last_name": "Kaine",
-        "party": "D",
-        "state": "VA"
       },
       {
         "display_name": "Kennedy (R-LA)",
@@ -699,6 +691,14 @@
         "state": "KS"
       },
       {
+        "display_name": "Moreno (R-OH)",
+        "first_name": "Bernie",
+        "id": "S434",
+        "last_name": "Moreno",
+        "party": "R",
+        "state": "OH"
+      },
+      {
         "display_name": "Mullin (R-OK)",
         "first_name": "Markwayne",
         "id": "S419",
@@ -713,6 +713,14 @@
         "last_name": "Murkowski",
         "party": "R",
         "state": "AK"
+      },
+      {
+        "display_name": "Paul (R-KY)",
+        "first_name": "Rand",
+        "id": "S348",
+        "last_name": "Paul",
+        "party": "R",
+        "state": "KY"
       },
       {
         "display_name": "Ricketts (R-NE)",
@@ -763,14 +771,6 @@
         "state": "SC"
       },
       {
-        "display_name": "Shaheen (D-NH)",
-        "first_name": "Jeanne",
-        "id": "S324",
-        "last_name": "Shaheen",
-        "party": "D",
-        "state": "NH"
-      },
-      {
         "display_name": "Sheehy (R-MT)",
         "first_name": "Tim",
         "id": "S435",
@@ -795,20 +795,20 @@
         "state": "SD"
       },
       {
+        "display_name": "Tillis (R-NC)",
+        "first_name": "Thomas",
+        "id": "S384",
+        "last_name": "Tillis",
+        "party": "R",
+        "state": "NC"
+      },
+      {
         "display_name": "Tuberville (R-AL)",
         "first_name": "Tommy",
         "id": "S412",
         "last_name": "Tuberville",
         "party": "R",
         "state": "AL"
-      },
-      {
-        "display_name": "Whitehouse (D-RI)",
-        "first_name": "Sheldon",
-        "id": "S316",
-        "last_name": "Whitehouse",
-        "party": "D",
-        "state": "RI"
       },
       {
         "display_name": "Wicker (R-MS)",
