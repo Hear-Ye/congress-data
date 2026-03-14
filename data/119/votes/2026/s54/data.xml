@@ -1,11 +1,11 @@
 <roll where="senate" session="119" year="2026" roll="54" source="senate.gov"
-  datetime="2026-03-12T13:55:00-04:00" updated="2026-03-13T04:22:57-04:00"
+  datetime="2026-03-12T13:55:00-04:00" updated="2026-03-14T04:20:51-04:00"
   aye="51" nay="46" nv="3" present="0">
   <category>cloture</category>
   <type>On the Cloture Motion</type>
   <question>Motion to Invoke Cloture Re: Motion to Proceed to H.R. 7147</question>
   <required>3/5</required>
-  <result>Cloture Motion Rejected</result>
+  <result>Cloture on the Motion to Proceed Rejected</result>
   <bill session="119" type="h" number="7147"/>
   <option key="+">Yea</option>
   <option key="-">Nay</option>
