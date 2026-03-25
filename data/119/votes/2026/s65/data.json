@@ -2,23 +2,23 @@
   "category": "nomination",
   "chamber": "s",
   "congress": 119,
-  "date": "2026-03-23T19:40:00-04:00",
+  "date": "2026-03-24T14:16:00-04:00",
   "nomination": {
-    "number": "858",
-    "title": "Markwayne Mullin, of Oklahoma, to be Secretary of Homeland Security"
+    "number": "786-9",
+    "title": "Colin McDonald, of California, to be an Assistant Attorney General"
   },
-  "number": 63,
-  "question": "On the Nomination PN858: Markwayne Mullin, of Oklahoma, to be Secretary of Homeland Security",
-  "record_modified": "2026-03-24T15:41:00-04:00",
+  "number": 65,
+  "question": "On the Nomination PN786-9: Colin McDonald, of California, to be an Assistant Attorney General",
+  "record_modified": "2026-03-24T15:25:00-04:00",
   "requires": "1/2",
   "result": "Nomination Confirmed",
-  "result_text": "Nomination Confirmed (54-45)",
+  "result_text": "Nomination Confirmed (52-47)",
   "session": "2026",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00063.xml",
-  "subject": "Confirmation: Markwayne Mullin, of Oklahoma, to be Secretary of Homeland Security",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00065.xml",
+  "subject": "Confirmation: Colin McDonald, of California, to be an Assistant Attorney General",
   "type": "On the Nomination",
-  "updated_at": "2026-03-25T04:31:37-04:00",
-  "vote_id": "s63-119.2026",
+  "updated_at": "2026-03-25T04:31:36-04:00",
+  "vote_id": "s65-119.2026",
   "votes": {
     "Nay": [
       {
@@ -110,6 +110,22 @@
         "state": "IL"
       },
       {
+        "display_name": "Fetterman (D-PA)",
+        "first_name": "John",
+        "id": "S418",
+        "last_name": "Fetterman",
+        "party": "D",
+        "state": "PA"
+      },
+      {
+        "display_name": "Gallego (D-AZ)",
+        "first_name": "Ruben",
+        "id": "S432",
+        "last_name": "Gallego",
+        "party": "D",
+        "state": "AZ"
+      },
+      {
         "display_name": "Gillibrand (D-NY)",
         "first_name": "Kirsten",
         "id": "S331",
@@ -124,6 +140,14 @@
         "last_name": "Hassan",
         "party": "D",
         "state": "NH"
+      },
+      {
+        "display_name": "Heinrich (D-NM)",
+        "first_name": "Martin",
+        "id": "S359",
+        "last_name": "Heinrich",
+        "party": "D",
+        "state": "NM"
       },
       {
         "display_name": "Hickenlooper (D-CO)",
@@ -236,14 +260,6 @@
         "last_name": "Padilla",
         "party": "D",
         "state": "CA"
-      },
-      {
-        "display_name": "Paul (R-KY)",
-        "first_name": "Rand",
-        "id": "S348",
-        "last_name": "Paul",
-        "party": "R",
-        "state": "KY"
       },
       {
         "display_name": "Peters (D-MI)",
@@ -382,16 +398,7 @@
         "state": "OR"
       }
     ],
-    "Not Voting": [
-      {
-        "display_name": "Gallego (D-AZ)",
-        "first_name": "Ruben",
-        "id": "S432",
-        "last_name": "Gallego",
-        "party": "D",
-        "state": "AZ"
-      }
-    ],
+    "Not Voting": [],
     "Present": [],
     "Yea": [
       {
@@ -531,14 +538,6 @@
         "state": "IA"
       },
       {
-        "display_name": "Fetterman (D-PA)",
-        "first_name": "John",
-        "id": "S418",
-        "last_name": "Fetterman",
-        "party": "D",
-        "state": "PA"
-      },
-      {
         "display_name": "Fischer (R-NE)",
         "first_name": "Deb",
         "id": "S357",
@@ -577,14 +576,6 @@
         "last_name": "Hawley",
         "party": "R",
         "state": "MO"
-      },
-      {
-        "display_name": "Heinrich (D-NM)",
-        "first_name": "Martin",
-        "id": "S359",
-        "last_name": "Heinrich",
-        "party": "D",
-        "state": "NM"
       },
       {
         "display_name": "Hoeven (R-ND)",
@@ -707,20 +698,20 @@
         "state": "OH"
       },
       {
-        "display_name": "Mullin (R-OK)",
-        "first_name": "Markwayne",
-        "id": "S419",
-        "last_name": "Mullin",
-        "party": "R",
-        "state": "OK"
-      },
-      {
         "display_name": "Murkowski (R-AK)",
         "first_name": "Lisa",
         "id": "S288",
         "last_name": "Murkowski",
         "party": "R",
         "state": "AK"
+      },
+      {
+        "display_name": "Paul (R-KY)",
+        "first_name": "Rand",
+        "id": "S348",
+        "last_name": "Paul",
+        "party": "R",
+        "state": "KY"
       },
       {
         "display_name": "Ricketts (R-NE)",
