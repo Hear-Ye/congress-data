@@ -1,24 +1,24 @@
 {
-  "category": "cloture",
+  "category": "nomination",
   "chamber": "s",
   "congress": 119,
-  "date": "2026-04-13T17:24:00-04:00",
+  "date": "2026-04-14T14:15:00-04:00",
   "nomination": {
-    "number": "787-3",
-    "title": "John Thomas Shepherd, of Arkansas, to be United States District Judge for the Western District of Arkansas"
+    "number": "787-5",
+    "title": "Christopher R. Wolfe, of Texas, to be United States District Judge for the Western District of Texas"
   },
-  "number": 75,
-  "question": "Motion to Invoke Cloture: John Thomas Shepherd to be U.S. District Judge for the Western District of Arkansas: John Thomas Shepherd, of Arkansas, to be United States District Judge for the Western District of Arkansas",
-  "record_modified": "2026-04-14T15:32:00-04:00",
+  "number": 78,
+  "question": "On the Nomination PN787-5: Christopher R. Wolfe, of Texas, to be United States District Judge for the Western District of Texas",
+  "record_modified": "2026-04-14T15:07:00-04:00",
   "requires": "1/2",
-  "result": "Cloture Motion Agreed to",
-  "result_text": "Cloture Motion Agreed to (50-44)",
+  "result": "Nomination Confirmed",
+  "result_text": "Nomination Confirmed (53-47)",
   "session": "2026",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00075.xml",
-  "subject": "On the Cloture Motion PN787-3",
-  "type": "On the Cloture Motion",
-  "updated_at": "2026-04-15T05:09:43-04:00",
-  "vote_id": "s75-119.2026",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00078.xml",
+  "subject": "Confirmation: Christopher R. Wolfe, of Texas, to be U.S. District Judge for the Western District of Texas",
+  "type": "On the Nomination",
+  "updated_at": "2026-04-15T05:09:42-04:00",
+  "vote_id": "s78-119.2026",
   "votes": {
     "Nay": [
       {
@@ -36,6 +36,14 @@
         "last_name": "Baldwin",
         "party": "D",
         "state": "WI"
+      },
+      {
+        "display_name": "Bennet (D-CO)",
+        "first_name": "Michael",
+        "id": "S330",
+        "last_name": "Bennet",
+        "party": "D",
+        "state": "CO"
       },
       {
         "display_name": "Blumenthal (D-CT)",
@@ -238,6 +246,14 @@
         "state": "WA"
       },
       {
+        "display_name": "Ossoff (D-GA)",
+        "first_name": "Jon",
+        "id": "S414",
+        "last_name": "Ossoff",
+        "party": "D",
+        "state": "GA"
+      },
+      {
         "display_name": "Padilla (D-CA)",
         "first_name": "Alex",
         "id": "S413",
@@ -276,6 +292,14 @@
         "last_name": "Sanders",
         "party": "I",
         "state": "VT"
+      },
+      {
+        "display_name": "Schatz (D-HI)",
+        "first_name": "Brian",
+        "id": "S353",
+        "last_name": "Schatz",
+        "party": "D",
+        "state": "HI"
       },
       {
         "display_name": "Schiff (D-CA)",
@@ -374,56 +398,7 @@
         "state": "OR"
       }
     ],
-    "Not Voting": [
-      {
-        "display_name": "Bennet (D-CO)",
-        "first_name": "Michael",
-        "id": "S330",
-        "last_name": "Bennet",
-        "party": "D",
-        "state": "CO"
-      },
-      {
-        "display_name": "Murkowski (R-AK)",
-        "first_name": "Lisa",
-        "id": "S288",
-        "last_name": "Murkowski",
-        "party": "R",
-        "state": "AK"
-      },
-      {
-        "display_name": "Ossoff (D-GA)",
-        "first_name": "Jon",
-        "id": "S414",
-        "last_name": "Ossoff",
-        "party": "D",
-        "state": "GA"
-      },
-      {
-        "display_name": "Risch (R-ID)",
-        "first_name": "James ",
-        "id": "S323",
-        "last_name": "Risch",
-        "party": "R",
-        "state": "ID"
-      },
-      {
-        "display_name": "Schatz (D-HI)",
-        "first_name": "Brian",
-        "id": "S353",
-        "last_name": "Schatz",
-        "party": "D",
-        "state": "HI"
-      },
-      {
-        "display_name": "Schmitt (R-MO)",
-        "first_name": "Eric ",
-        "id": "S420",
-        "last_name": "Schmitt",
-        "party": "R",
-        "state": "MO"
-      }
-    ],
+    "Not Voting": [],
     "Present": [],
     "Yea": [
       {
@@ -731,6 +706,14 @@
         "state": "OH"
       },
       {
+        "display_name": "Murkowski (R-AK)",
+        "first_name": "Lisa",
+        "id": "S288",
+        "last_name": "Murkowski",
+        "party": "R",
+        "state": "AK"
+      },
+      {
         "display_name": "Paul (R-KY)",
         "first_name": "Rand",
         "id": "S348",
@@ -747,12 +730,28 @@
         "state": "NE"
       },
       {
+        "display_name": "Risch (R-ID)",
+        "first_name": "James ",
+        "id": "S323",
+        "last_name": "Risch",
+        "party": "R",
+        "state": "ID"
+      },
+      {
         "display_name": "Rounds (R-SD)",
         "first_name": "Mike",
         "id": "S381",
         "last_name": "Rounds",
         "party": "R",
         "state": "SD"
+      },
+      {
+        "display_name": "Schmitt (R-MO)",
+        "first_name": "Eric ",
+        "id": "S420",
+        "last_name": "Schmitt",
+        "party": "R",
+        "state": "MO"
       },
       {
         "display_name": "Scott (R-FL)",
