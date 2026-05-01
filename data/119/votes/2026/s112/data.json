@@ -5,22 +5,22 @@
     "title": "An executive resolution authorizing the en bloc consideration in Executive Session of certain nominations on the Executive Calendar.",
     "type": "sres"
   },
-  "category": "procedural",
+  "category": "cloture",
   "chamber": "s",
   "congress": 119,
-  "date": "2026-04-28T11:08:00-04:00",
-  "number": 107,
-  "question": "On the Motion to Proceed S.Res. 690",
-  "record_modified": "2026-04-30T15:03:00-04:00",
+  "date": "2026-04-30T11:36:00-04:00",
+  "number": 112,
+  "question": "Motion to Invoke Cloture: S. Res. 690",
+  "record_modified": "2026-04-30T12:47:00-04:00",
   "requires": "1/2",
-  "result": "Motion to Proceed Agreed to",
-  "result_text": "Motion to Proceed Agreed to (52-47)",
+  "result": "Cloture Motion Agreed to",
+  "result_text": "Cloture Motion Agreed to (51-46)",
   "session": "2026",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00107.xml",
-  "subject": "Motion to Proceed to Executive Session to Consider S. Res. 690",
-  "type": "On the Motion to Proceed",
-  "updated_at": "2026-05-01T05:52:36-04:00",
-  "vote_id": "s107-119.2026",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00112.xml",
+  "subject": "On the Cloture Motion S.Res. 690",
+  "type": "On the Cloture Motion",
+  "updated_at": "2026-05-01T05:52:33-04:00",
+  "vote_id": "s112-119.2026",
   "votes": {
     "Nay": [
       {
@@ -240,14 +240,6 @@
         "state": "CT"
       },
       {
-        "display_name": "Murray (D-WA)",
-        "first_name": "Patty",
-        "id": "S229",
-        "last_name": "Murray",
-        "party": "D",
-        "state": "WA"
-      },
-      {
         "display_name": "Ossoff (D-GA)",
         "first_name": "Jon",
         "id": "S414",
@@ -401,6 +393,22 @@
       }
     ],
     "Not Voting": [
+      {
+        "display_name": "Moran (R-KS)",
+        "first_name": "Jerry",
+        "id": "S347",
+        "last_name": "Moran",
+        "party": "R",
+        "state": "KS"
+      },
+      {
+        "display_name": "Murray (D-WA)",
+        "first_name": "Patty",
+        "id": "S229",
+        "last_name": "Murray",
+        "party": "D",
+        "state": "WA"
+      },
       {
         "display_name": "Tuberville (R-AL)",
         "first_name": "Tommy",
@@ -699,14 +707,6 @@
         "last_name": "Moody",
         "party": "R",
         "state": "FL"
-      },
-      {
-        "display_name": "Moran (R-KS)",
-        "first_name": "Jerry",
-        "id": "S347",
-        "last_name": "Moran",
-        "party": "R",
-        "state": "KS"
       },
       {
         "display_name": "Moreno (R-OH)",

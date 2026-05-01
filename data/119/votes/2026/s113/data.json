@@ -1,26 +1,26 @@
 {
   "bill": {
     "congress": 119,
-    "number": 114,
+    "number": 184,
     "title": "A joint resolution to direct the removal of United States Armed Forces from hostilities within or against the Islamic Republic of Iran that have not been authorized by Congress.",
     "type": "sjres"
   },
   "category": "procedural",
   "chamber": "s",
   "congress": 119,
-  "date": "2026-04-22T16:44:00-04:00",
-  "number": 88,
-  "question": "On the Motion to Discharge S.J.Res. 114",
-  "record_modified": "2026-04-30T14:40:00-04:00",
+  "date": "2026-04-30T13:59:00-04:00",
+  "number": 113,
+  "question": "On the Motion to Discharge S.J.Res. 184",
+  "record_modified": "2026-04-30T15:26:00-04:00",
   "requires": "1/2",
   "result": "Motion to Discharge Rejected",
-  "result_text": "Motion to Discharge Rejected (46-51)",
+  "result_text": "Motion to Discharge Rejected (47-50)",
   "session": "2026",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00088.xml",
-  "subject": "Motion to Discharge S.J.Res. 114",
-  "type": "On the Motion to Discharge S.J.Res. 114",
-  "updated_at": "2026-05-01T05:52:45-04:00",
-  "vote_id": "s88-119.2026",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00113.xml",
+  "subject": "Motion to Discharge: S J. Res. 184 from the Committee on Foreign Relations",
+  "type": "On the Motion to Discharge S.J.Res. 184",
+  "updated_at": "2026-05-01T05:52:33-04:00",
+  "vote_id": "s113-119.2026",
   "votes": {
     "Nay": [
       {
@@ -94,14 +94,6 @@
         "last_name": "Cassidy",
         "party": "R",
         "state": "LA"
-      },
-      {
-        "display_name": "Collins (R-ME)",
-        "first_name": "Susan",
-        "id": "S252",
-        "last_name": "Collins",
-        "party": "R",
-        "state": "ME"
       },
       {
         "display_name": "Cornyn (R-TX)",
@@ -190,6 +182,14 @@
         "last_name": "Graham",
         "party": "R",
         "state": "SC"
+      },
+      {
+        "display_name": "Grassley (R-IA)",
+        "first_name": "Chuck",
+        "id": "S153",
+        "last_name": "Grassley",
+        "party": "R",
+        "state": "IA"
       },
       {
         "display_name": "Hagerty (R-TN)",
@@ -296,20 +296,20 @@
         "state": "KY"
       },
       {
+        "display_name": "McCormick (R-PA)",
+        "first_name": "David",
+        "id": "S433",
+        "last_name": "McCormick",
+        "party": "R",
+        "state": "PA"
+      },
+      {
         "display_name": "Moody (R-FL)",
         "first_name": "Ashley",
         "id": "S439",
         "last_name": "Moody",
         "party": "R",
         "state": "FL"
-      },
-      {
-        "display_name": "Moran (R-KS)",
-        "first_name": "Jerry",
-        "id": "S347",
-        "last_name": "Moran",
-        "party": "R",
-        "state": "KS"
       },
       {
         "display_name": "Moreno (R-OH)",
@@ -408,14 +408,6 @@
         "state": "NC"
       },
       {
-        "display_name": "Tuberville (R-AL)",
-        "first_name": "Tommy",
-        "id": "S412",
-        "last_name": "Tuberville",
-        "party": "R",
-        "state": "AL"
-      },
-      {
         "display_name": "Wicker (R-MS)",
         "first_name": "Roger",
         "id": "S318",
@@ -434,28 +426,28 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Grassley (R-IA)",
-        "first_name": "Chuck",
-        "id": "S153",
-        "last_name": "Grassley",
+        "display_name": "Moran (R-KS)",
+        "first_name": "Jerry",
+        "id": "S347",
+        "last_name": "Moran",
         "party": "R",
-        "state": "IA"
+        "state": "KS"
       },
       {
-        "display_name": "McCormick (R-PA)",
-        "first_name": "David",
-        "id": "S433",
-        "last_name": "McCormick",
-        "party": "R",
-        "state": "PA"
-      },
-      {
-        "display_name": "Warner (D-VA)",
-        "first_name": "Mark",
-        "id": "S327",
-        "last_name": "Warner",
+        "display_name": "Murray (D-WA)",
+        "first_name": "Patty",
+        "id": "S229",
+        "last_name": "Murray",
         "party": "D",
-        "state": "VA"
+        "state": "WA"
+      },
+      {
+        "display_name": "Tuberville (R-AL)",
+        "first_name": "Tommy",
+        "id": "S412",
+        "last_name": "Tuberville",
+        "party": "R",
+        "state": "AL"
       }
     ],
     "Present": [],
@@ -515,6 +507,14 @@
         "last_name": "Cantwell",
         "party": "D",
         "state": "WA"
+      },
+      {
+        "display_name": "Collins (R-ME)",
+        "first_name": "Susan",
+        "id": "S252",
+        "last_name": "Collins",
+        "party": "R",
+        "state": "ME"
       },
       {
         "display_name": "Coons (D-DE)",
@@ -669,14 +669,6 @@
         "state": "CT"
       },
       {
-        "display_name": "Murray (D-WA)",
-        "first_name": "Patty",
-        "id": "S229",
-        "last_name": "Murray",
-        "party": "D",
-        "state": "WA"
-      },
-      {
         "display_name": "Ossoff (D-GA)",
         "first_name": "Jon",
         "id": "S414",
@@ -787,6 +779,14 @@
         "last_name": "Van Hollen",
         "party": "D",
         "state": "MD"
+      },
+      {
+        "display_name": "Warner (D-VA)",
+        "first_name": "Mark",
+        "id": "S327",
+        "last_name": "Warner",
+        "party": "D",
+        "state": "VA"
       },
       {
         "display_name": "Warnock (D-GA)",
