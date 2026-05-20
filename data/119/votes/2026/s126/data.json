@@ -1,24 +1,24 @@
 {
-  "category": "nomination",
+  "category": "cloture",
   "chamber": "s",
   "congress": 119,
-  "date": "2026-05-18T17:36:00-04:00",
+  "date": "2026-05-19T11:44:00-04:00",
   "nomination": {
-    "number": "806-1",
-    "title": "Catherine Dillon, of Maryland, to be an Assistant Secretary of State (Educational and Cultural Affairs)"
+    "number": "851-1",
+    "title": "Sheria Akins Clarke, of South Carolina, to be United States District Judge for the District of South Carolina"
   },
-  "number": 125,
-  "question": "On the Nomination PN726-1 and PN726-3 and PN726-7 and PN726-10 and PN726-13 and PN726-14 and PN730-41 and PN730-48 and PN730-67 and PN730-66 and PN730-22 and PN730-29 and PN730-31 and PN730-27 and PN726-8 and PN730-56 and PN730-25 and PN786-11 and PN730-52 and PN786-8 and PN806-3 and PN730-57 and PN730-58 and PN730-60 and PN730-8 and PN730-21 and PN730-40 and PN730-43 and PN730-50 and PN730-62 and PN806-6 and PN730-12 and PN786-4 and PN730-3 and PN730-28 and PN730-37 and PN730-51 and PN730-54 and PN786-7 and PN730-68 and PN730-9 and PN730-5 and PN806-4 and PN730-44 and PN730-26 and PN730-61 and PN852-7 and PN730-1 and PN806-1: Catherine Dillon, of Maryland, to be an Assistant Secretary of State (Educational and Cultural Affairs)",
-  "record_modified": "2026-05-19T18:29:00-04:00",
+  "number": 126,
+  "question": "Motion to Invoke Cloture: Sheria Akins Clarke to be U.S. District Judge for the District of South Carolina: Sheria Akins Clarke, of South Carolina, to be United States District Judge for the District of South Carolina",
+  "record_modified": "2026-05-19T18:30:00-04:00",
   "requires": "1/2",
-  "result": "Nomination Confirmed",
-  "result_text": "Nomination Confirmed (46-43)",
+  "result": "Cloture Motion Agreed to",
+  "result_text": "Cloture Motion Agreed to (57-38)",
   "session": "2026",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00125.xml",
-  "subject": "Confirmation: En Bloc Nominations Provided For Under the Provisions of S. Res. 690",
-  "type": "On the Nomination",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00126.xml",
+  "subject": "On the Cloture Motion PN851-1",
+  "type": "On the Cloture Motion",
   "updated_at": "2026-05-20T06:31:24-04:00",
-  "vote_id": "s125-119.2026",
+  "vote_id": "s126-119.2026",
   "votes": {
     "Nay": [
       {
@@ -94,36 +94,12 @@
         "state": "IL"
       },
       {
-        "display_name": "Gallego (D-AZ)",
-        "first_name": "Ruben",
-        "id": "S432",
-        "last_name": "Gallego",
-        "party": "D",
-        "state": "AZ"
-      },
-      {
         "display_name": "Gillibrand (D-NY)",
         "first_name": "Kirsten",
         "id": "S331",
         "last_name": "Gillibrand",
         "party": "D",
         "state": "NY"
-      },
-      {
-        "display_name": "Hassan (D-NH)",
-        "first_name": "Maggie",
-        "id": "S388",
-        "last_name": "Hassan",
-        "party": "D",
-        "state": "NH"
-      },
-      {
-        "display_name": "Heinrich (D-NM)",
-        "first_name": "Martin",
-        "id": "S359",
-        "last_name": "Heinrich",
-        "party": "D",
-        "state": "NM"
       },
       {
         "display_name": "Hickenlooper (D-CO)",
@@ -238,12 +214,12 @@
         "state": "CA"
       },
       {
-        "display_name": "Reed (D-RI)",
-        "first_name": "John",
-        "id": "S259",
-        "last_name": "Reed",
+        "display_name": "Peters (D-MI)",
+        "first_name": "Gary",
+        "id": "S380",
+        "last_name": "Peters",
         "party": "D",
-        "state": "RI"
+        "state": "MI"
       },
       {
         "display_name": "Rosen (D-NV)",
@@ -284,14 +260,6 @@
         "last_name": "Schumer",
         "party": "D",
         "state": "NY"
-      },
-      {
-        "display_name": "Shaheen (D-NH)",
-        "first_name": "Jeanne",
-        "id": "S324",
-        "last_name": "Shaheen",
-        "party": "D",
-        "state": "NH"
       },
       {
         "display_name": "Slotkin (D-MI)",
@@ -350,14 +318,6 @@
         "state": "VT"
       },
       {
-        "display_name": "Whitehouse (D-RI)",
-        "first_name": "Sheldon",
-        "id": "S316",
-        "last_name": "Whitehouse",
-        "party": "D",
-        "state": "RI"
-      },
-      {
         "display_name": "Wyden (D-OR)",
         "first_name": "Ron",
         "id": "S247",
@@ -392,46 +352,6 @@
         "state": "ND"
       },
       {
-        "display_name": "Curtis (R-UT)",
-        "first_name": "John ",
-        "id": "S431",
-        "last_name": "Curtis",
-        "party": "R",
-        "state": "UT"
-      },
-      {
-        "display_name": "Durbin (D-IL)",
-        "first_name": "Richard",
-        "id": "S253",
-        "last_name": "Durbin",
-        "party": "D",
-        "state": "IL"
-      },
-      {
-        "display_name": "Fetterman (D-PA)",
-        "first_name": "John",
-        "id": "S418",
-        "last_name": "Fetterman",
-        "party": "D",
-        "state": "PA"
-      },
-      {
-        "display_name": "Peters (D-MI)",
-        "first_name": "Gary",
-        "id": "S380",
-        "last_name": "Peters",
-        "party": "D",
-        "state": "MI"
-      },
-      {
-        "display_name": "Risch (R-ID)",
-        "first_name": "James ",
-        "id": "S323",
-        "last_name": "Risch",
-        "party": "R",
-        "state": "ID"
-      },
-      {
         "display_name": "Tillis (R-NC)",
         "first_name": "Thomas",
         "id": "S384",
@@ -446,14 +366,6 @@
         "last_name": "Tuberville",
         "party": "R",
         "state": "AL"
-      },
-      {
-        "display_name": "Young (R-IN)",
-        "first_name": "Todd",
-        "id": "S391",
-        "last_name": "Young",
-        "party": "R",
-        "state": "IN"
       }
     ],
     "Present": [],
@@ -563,12 +475,28 @@
         "state": "TX"
       },
       {
+        "display_name": "Curtis (R-UT)",
+        "first_name": "John ",
+        "id": "S431",
+        "last_name": "Curtis",
+        "party": "R",
+        "state": "UT"
+      },
+      {
         "display_name": "Daines (R-MT)",
         "first_name": "Steve",
         "id": "S375",
         "last_name": "Daines",
         "party": "R",
         "state": "MT"
+      },
+      {
+        "display_name": "Durbin (D-IL)",
+        "first_name": "Richard",
+        "id": "S253",
+        "last_name": "Durbin",
+        "party": "D",
+        "state": "IL"
       },
       {
         "display_name": "Ernst (R-IA)",
@@ -579,12 +507,28 @@
         "state": "IA"
       },
       {
+        "display_name": "Fetterman (D-PA)",
+        "first_name": "John",
+        "id": "S418",
+        "last_name": "Fetterman",
+        "party": "D",
+        "state": "PA"
+      },
+      {
         "display_name": "Fischer (R-NE)",
         "first_name": "Deb",
         "id": "S357",
         "last_name": "Fischer",
         "party": "R",
         "state": "NE"
+      },
+      {
+        "display_name": "Gallego (D-AZ)",
+        "first_name": "Ruben",
+        "id": "S432",
+        "last_name": "Gallego",
+        "party": "D",
+        "state": "AZ"
       },
       {
         "display_name": "Graham (R-SC)",
@@ -611,12 +555,28 @@
         "state": "TN"
       },
       {
+        "display_name": "Hassan (D-NH)",
+        "first_name": "Maggie",
+        "id": "S388",
+        "last_name": "Hassan",
+        "party": "D",
+        "state": "NH"
+      },
+      {
         "display_name": "Hawley (R-MO)",
         "first_name": "Josh",
         "id": "S399",
         "last_name": "Hawley",
         "party": "R",
         "state": "MO"
+      },
+      {
+        "display_name": "Heinrich (D-NM)",
+        "first_name": "Martin",
+        "id": "S359",
+        "last_name": "Heinrich",
+        "party": "D",
+        "state": "NM"
       },
       {
         "display_name": "Hoeven (R-ND)",
@@ -755,12 +715,28 @@
         "state": "KY"
       },
       {
+        "display_name": "Reed (D-RI)",
+        "first_name": "John",
+        "id": "S259",
+        "last_name": "Reed",
+        "party": "D",
+        "state": "RI"
+      },
+      {
         "display_name": "Ricketts (R-NE)",
         "first_name": "Pete",
         "id": "S423",
         "last_name": "Ricketts",
         "party": "R",
         "state": "NE"
+      },
+      {
+        "display_name": "Risch (R-ID)",
+        "first_name": "James ",
+        "id": "S323",
+        "last_name": "Risch",
+        "party": "R",
+        "state": "ID"
       },
       {
         "display_name": "Rounds (R-SD)",
@@ -795,6 +771,14 @@
         "state": "SC"
       },
       {
+        "display_name": "Shaheen (D-NH)",
+        "first_name": "Jeanne",
+        "id": "S324",
+        "last_name": "Shaheen",
+        "party": "D",
+        "state": "NH"
+      },
+      {
         "display_name": "Sheehy (R-MT)",
         "first_name": "Tim",
         "id": "S435",
@@ -819,12 +803,28 @@
         "state": "SD"
       },
       {
+        "display_name": "Whitehouse (D-RI)",
+        "first_name": "Sheldon",
+        "id": "S316",
+        "last_name": "Whitehouse",
+        "party": "D",
+        "state": "RI"
+      },
+      {
         "display_name": "Wicker (R-MS)",
         "first_name": "Roger",
         "id": "S318",
         "last_name": "Wicker",
         "party": "R",
         "state": "MS"
+      },
+      {
+        "display_name": "Young (R-IN)",
+        "first_name": "Todd",
+        "id": "S391",
+        "last_name": "Young",
+        "party": "R",
+        "state": "IN"
       }
     ]
   }

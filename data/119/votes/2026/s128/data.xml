@@ -1,11 +1,11 @@
-<roll where="senate" session="119" year="2026" roll="125" source="senate.gov"
-  datetime="2026-05-18T17:36:00-04:00" updated="2026-05-20T06:31:24-04:00"
-  aye="46" nay="43" nv="11" present="0">
-  <category>nomination</category>
-  <type>On the Nomination</type>
-  <question>On the Nomination PN726-1 and PN726-3 and PN726-7 and PN726-10 and PN726-13 and PN726-14 and PN730-41 and PN730-48 and PN730-67 and PN730-66 and PN730-22 and PN730-29 and PN730-31 and PN730-27 and PN726-8 and PN730-56 and PN730-25 and PN786-11 and PN730-52 and PN786-8 and PN806-3 and PN730-57 and PN730-58 and PN730-60 and PN730-8 and PN730-21 and PN730-40 and PN730-43 and PN730-50 and PN730-62 and PN806-6 and PN730-12 and PN786-4 and PN730-3 and PN730-28 and PN730-37 and PN730-51 and PN730-54 and PN786-7 and PN730-68 and PN730-9 and PN730-5 and PN806-4 and PN730-44 and PN730-26 and PN730-61 and PN852-7 and PN730-1 and PN806-1: Catherine Dillon, of Maryland, to be an Assistant Secretary of State (Educational and Cultural Affairs)</question>
+<roll where="senate" session="119" year="2026" roll="128" source="senate.gov"
+  datetime="2026-05-19T14:56:00-04:00" updated="2026-05-20T06:31:23-04:00"
+  aye="50" nay="47" nv="3" present="0">
+  <category>cloture</category>
+  <type>On the Cloture Motion</type>
+  <question>Motion to Invoke Cloture: Evan Rikhye to be Judge for the District Court of the Virgin Islands: Evan Rikhye, of the Virgin Islands, to be Judge for the District Court of the Virgin Islands for a term of ten years</question>
   <required>1/2</required>
-  <result>Nomination Confirmed</result>
+  <result>Cloture Motion Agreed to</result>
   <option key="+">Yea</option>
   <option key="-">Nay</option>
   <option key="P">Present</option>
@@ -21,8 +21,10 @@
   <voter id="S373" vote="+" value="Yea" state="LA"/>
   <voter id="S252" vote="+" value="Yea" state="ME"/>
   <voter id="S374" vote="+" value="Yea" state="AR"/>
+  <voter id="S398" vote="+" value="Yea" state="ND"/>
   <voter id="S266" vote="+" value="Yea" state="ID"/>
   <voter id="S355" vote="+" value="Yea" state="TX"/>
+  <voter id="S431" vote="+" value="Yea" state="UT"/>
   <voter id="S375" vote="+" value="Yea" state="MT"/>
   <voter id="S376" vote="+" value="Yea" state="IA"/>
   <voter id="S357" vote="+" value="Yea" state="NE"/>
@@ -48,6 +50,7 @@
   <voter id="S288" vote="+" value="Yea" state="AK"/>
   <voter id="S348" vote="+" value="Yea" state="KY"/>
   <voter id="S423" vote="+" value="Yea" state="NE"/>
+  <voter id="S323" vote="+" value="Yea" state="ID"/>
   <voter id="S381" vote="+" value="Yea" state="SD"/>
   <voter id="S420" vote="+" value="Yea" state="MO"/>
   <voter id="S404" vote="+" value="Yea" state="FL"/>
@@ -56,8 +59,10 @@
   <voter id="S383" vote="+" value="Yea" state="AK"/>
   <voter id="S303" vote="+" value="Yea" state="SD"/>
   <voter id="S318" vote="+" value="Yea" state="MS"/>
+  <voter id="S391" vote="+" value="Yea" state="IN"/>
   <voter id="S428" vote="-" value="Nay" state="MD"/>
   <voter id="S354" vote="-" value="Nay" state="WI"/>
+  <voter id="S330" vote="-" value="Nay" state="CO"/>
   <voter id="S341" vote="-" value="Nay" state="CT"/>
   <voter id="S430" vote="-" value="Nay" state="DE"/>
   <voter id="S370" vote="-" value="Nay" state="NJ"/>
@@ -65,6 +70,8 @@
   <voter id="S337" vote="-" value="Nay" state="DE"/>
   <voter id="S385" vote="-" value="Nay" state="NV"/>
   <voter id="S386" vote="-" value="Nay" state="IL"/>
+  <voter id="S253" vote="-" value="Nay" state="IL"/>
+  <voter id="S418" vote="-" value="Nay" state="PA"/>
   <voter id="S432" vote="-" value="Nay" state="AZ"/>
   <voter id="S331" vote="-" value="Nay" state="NY"/>
   <voter id="S388" vote="-" value="Nay" state="NH"/>
@@ -83,6 +90,7 @@
   <voter id="S229" vote="-" value="Nay" state="WA"/>
   <voter id="S414" vote="-" value="Nay" state="GA"/>
   <voter id="S413" vote="-" value="Nay" state="CA"/>
+  <voter id="S380" vote="-" value="Nay" state="MI"/>
   <voter id="S259" vote="-" value="Nay" state="RI"/>
   <voter id="S402" vote="-" value="Nay" state="NV"/>
   <voter id="S313" vote="-" value="Nay" state="VT"/>
@@ -99,15 +107,7 @@
   <voter id="S422" vote="-" value="Nay" state="VT"/>
   <voter id="S316" vote="-" value="Nay" state="RI"/>
   <voter id="S247" vote="-" value="Nay" state="OR"/>
-  <voter id="S330" vote="0" value="Not Voting" state="CO"/>
   <voter id="S287" vote="0" value="Not Voting" state="TX"/>
-  <voter id="S398" vote="0" value="Not Voting" state="ND"/>
-  <voter id="S431" vote="0" value="Not Voting" state="UT"/>
-  <voter id="S253" vote="0" value="Not Voting" state="IL"/>
-  <voter id="S418" vote="0" value="Not Voting" state="PA"/>
-  <voter id="S380" vote="0" value="Not Voting" state="MI"/>
-  <voter id="S323" vote="0" value="Not Voting" state="ID"/>
   <voter id="S384" vote="0" value="Not Voting" state="NC"/>
   <voter id="S412" vote="0" value="Not Voting" state="AL"/>
-  <voter id="S391" vote="0" value="Not Voting" state="IN"/>
 </roll>
