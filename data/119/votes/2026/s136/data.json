@@ -1,24 +1,26 @@
 {
-  "category": "cloture",
+  "bill": {
+    "congress": 119,
+    "number": 2,
+    "title": "An original bill to provide for reconciliation pursuant to title II of S. Con. Res. 33.",
+    "type": "s"
+  },
+  "category": "procedural",
   "chamber": "s",
   "congress": 119,
-  "date": "2026-06-02T12:11:00-04:00",
-  "nomination": {
-    "number": "851-2",
-    "title": "Jeffrey M. Kuhlman, of Kansas, to be United States District Judge for the District of Kansas"
-  },
-  "number": 133,
-  "question": "Motion to Invoke Cloture: Jeffrey M. Kuhlman to be U.S. District Judge for the District of Kansas: Jeffrey M. Kuhlman, of Kansas, to be United States District Judge for the District of Kansas",
-  "record_modified": "2026-06-03T19:20:00-04:00",
+  "date": "2026-06-03T14:59:00-04:00",
+  "number": 136,
+  "question": "On the Motion to Proceed S. 2",
+  "record_modified": "2026-06-03T19:24:00-04:00",
   "requires": "1/2",
-  "result": "Cloture Motion Agreed to",
-  "result_text": "Cloture Motion Agreed to (52-46)",
+  "result": "Motion to Proceed Agreed to",
+  "result_text": "Motion to Proceed Agreed to (53-46)",
   "session": "2026",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00133.xml",
-  "subject": "On the Cloture Motion PN851-2",
-  "type": "On the Cloture Motion",
-  "updated_at": "2026-06-04T07:00:11-04:00",
-  "vote_id": "s133-119.2026",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00136.xml",
+  "subject": "Motion to Proceed to S. 2",
+  "type": "On the Motion to Proceed",
+  "updated_at": "2026-06-04T07:00:10-04:00",
+  "vote_id": "s136-119.2026",
   "votes": {
     "Nay": [
       {
@@ -398,14 +400,6 @@
         "last_name": "Bennet",
         "party": "D",
         "state": "CO"
-      },
-      {
-        "display_name": "Rounds (R-SD)",
-        "first_name": "Mike",
-        "id": "S381",
-        "last_name": "Rounds",
-        "party": "R",
-        "state": "SD"
       }
     ],
     "Present": [],
@@ -745,6 +739,14 @@
         "last_name": "Risch",
         "party": "R",
         "state": "ID"
+      },
+      {
+        "display_name": "Rounds (R-SD)",
+        "first_name": "Mike",
+        "id": "S381",
+        "last_name": "Rounds",
+        "party": "R",
+        "state": "SD"
       },
       {
         "display_name": "Schmitt (R-MO)",
