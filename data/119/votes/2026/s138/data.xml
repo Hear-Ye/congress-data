@@ -1,10 +1,10 @@
 <roll where="senate" session="119" year="2026" roll="138" source="senate.gov"
-  datetime="2026-06-04T13:38:00-04:00" updated="2026-06-05T06:47:57-04:00"
+  datetime="2026-06-04T13:38:00-04:00" updated="2026-06-09T06:31:44-04:00"
   aye="15" nay="84" nv="1" present="0">
   <category>procedural</category>
   <type>On the Motion to Waive All Applicable Budgetary Discipline Re: Tillis Amdt. No. 5452</type>
   <question>On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Tillis Amdt. No. 5452)</question>
-  <required>1/2</required>
+  <required>3/5</required>
   <result>Motion Rejected</result>
   <bill session="119" type="s" number="2"/>
   <amendment ref="regular" session="119" number="s5452"/>
