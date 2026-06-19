@@ -1,34 +1,26 @@
 {
-  "category": "cloture",
+  "category": "nomination",
   "chamber": "s",
   "congress": 119,
-  "date": "2026-06-17T15:04:00-04:00",
+  "date": "2026-06-18T13:40:00-04:00",
   "nomination": {
     "number": "730-33",
     "title": "George Holding, of North Carolina, to be United States Director of the European Bank for Reconstruction and Development"
   },
-  "number": 178,
-  "question": "Motion to Invoke Cloture: George Holding to be United States Director of the European Bank for Reconstruction and Development: George Holding, of North Carolina, to be United States Director of the European Bank for Reconstruction and Development",
-  "record_modified": "2026-06-18T15:00:00-04:00",
+  "number": 181,
+  "question": "On the Nomination PN730-33: George Holding, of North Carolina, to be United States Director of the European Bank for Reconstruction and Development",
+  "record_modified": "2026-06-18T14:37:00-04:00",
   "requires": "1/2",
-  "result": "Cloture Motion Agreed to",
-  "result_text": "Cloture Motion Agreed to (54-41)",
+  "result": "Nomination Confirmed",
+  "result_text": "Nomination Confirmed (48-39)",
   "session": "2026",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00178.xml",
-  "subject": "On the Cloture Motion PN730-33",
-  "type": "On the Cloture Motion",
-  "updated_at": "2026-06-19T07:36:03-04:00",
-  "vote_id": "s178-119.2026",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00181.xml",
+  "subject": "Confirmation: George Holding, of North Carolina, to be United States Director of the European Bank for Reconstruction and Development",
+  "type": "On the Nomination",
+  "updated_at": "2026-06-19T07:36:01-04:00",
+  "vote_id": "s181-119.2026",
   "votes": {
     "Nay": [
-      {
-        "display_name": "Alsobrooks (D-MD)",
-        "first_name": "Angela",
-        "id": "S428",
-        "last_name": "Alsobrooks",
-        "party": "D",
-        "state": "MD"
-      },
       {
         "display_name": "Baldwin (D-WI)",
         "first_name": "Tammy",
@@ -46,12 +38,12 @@
         "state": "CT"
       },
       {
-        "display_name": "Blunt Rochester (D-DE)",
-        "first_name": "Lisa",
-        "id": "S430",
-        "last_name": "Blunt Rochester",
+        "display_name": "Booker (D-NJ)",
+        "first_name": "Cory",
+        "id": "S370",
+        "last_name": "Booker",
         "party": "D",
-        "state": "DE"
+        "state": "NJ"
       },
       {
         "display_name": "Cantwell (D-WA)",
@@ -78,28 +70,20 @@
         "state": "NV"
       },
       {
-        "display_name": "Duckworth (D-IL)",
-        "first_name": "Tammy",
-        "id": "S386",
-        "last_name": "Duckworth",
-        "party": "D",
-        "state": "IL"
-      },
-      {
-        "display_name": "Durbin (D-IL)",
-        "first_name": "Richard",
-        "id": "S253",
-        "last_name": "Durbin",
-        "party": "D",
-        "state": "IL"
-      },
-      {
         "display_name": "Fetterman (D-PA)",
         "first_name": "John",
         "id": "S418",
         "last_name": "Fetterman",
         "party": "D",
         "state": "PA"
+      },
+      {
+        "display_name": "Gallego (D-AZ)",
+        "first_name": "Ruben",
+        "id": "S432",
+        "last_name": "Gallego",
+        "party": "D",
+        "state": "AZ"
       },
       {
         "display_name": "Gillibrand (D-NY)",
@@ -142,12 +126,12 @@
         "state": "HI"
       },
       {
-        "display_name": "Kim (D-NJ)",
-        "first_name": "Andy",
-        "id": "S426",
-        "last_name": "Kim",
+        "display_name": "Kaine (D-VA)",
+        "first_name": "Timothy",
+        "id": "S362",
+        "last_name": "Kaine",
         "party": "D",
-        "state": "NJ"
+        "state": "VA"
       },
       {
         "display_name": "King (I-ME)",
@@ -352,6 +336,14 @@
     ],
     "Not Voting": [
       {
+        "display_name": "Alsobrooks (D-MD)",
+        "first_name": "Angela",
+        "id": "S428",
+        "last_name": "Alsobrooks",
+        "party": "D",
+        "state": "MD"
+      },
+      {
         "display_name": "Bennet (D-CO)",
         "first_name": "Michael",
         "id": "S330",
@@ -360,20 +352,36 @@
         "state": "CO"
       },
       {
-        "display_name": "Booker (D-NJ)",
-        "first_name": "Cory",
-        "id": "S370",
-        "last_name": "Booker",
+        "display_name": "Blunt Rochester (D-DE)",
+        "first_name": "Lisa",
+        "id": "S430",
+        "last_name": "Blunt Rochester",
         "party": "D",
-        "state": "NJ"
+        "state": "DE"
       },
       {
-        "display_name": "Gallego (D-AZ)",
-        "first_name": "Ruben",
-        "id": "S432",
-        "last_name": "Gallego",
+        "display_name": "Duckworth (D-IL)",
+        "first_name": "Tammy",
+        "id": "S386",
+        "last_name": "Duckworth",
         "party": "D",
-        "state": "AZ"
+        "state": "IL"
+      },
+      {
+        "display_name": "Durbin (D-IL)",
+        "first_name": "Richard",
+        "id": "S253",
+        "last_name": "Durbin",
+        "party": "D",
+        "state": "IL"
+      },
+      {
+        "display_name": "Hoeven (R-ND)",
+        "first_name": "John",
+        "id": "S344",
+        "last_name": "Hoeven",
+        "party": "R",
+        "state": "ND"
       },
       {
         "display_name": "Kelly (D-AZ)",
@@ -384,12 +392,52 @@
         "state": "AZ"
       },
       {
+        "display_name": "Kim (D-NJ)",
+        "first_name": "Andy",
+        "id": "S426",
+        "last_name": "Kim",
+        "party": "D",
+        "state": "NJ"
+      },
+      {
         "display_name": "McConnell (R-KY)",
         "first_name": "Mitch",
         "id": "S174",
         "last_name": "McConnell",
         "party": "R",
         "state": "KY"
+      },
+      {
+        "display_name": "Moody (R-FL)",
+        "first_name": "Ashley",
+        "id": "S439",
+        "last_name": "Moody",
+        "party": "R",
+        "state": "FL"
+      },
+      {
+        "display_name": "Moran (R-KS)",
+        "first_name": "Jerry",
+        "id": "S347",
+        "last_name": "Moran",
+        "party": "R",
+        "state": "KS"
+      },
+      {
+        "display_name": "Scott (R-SC)",
+        "first_name": "Tim",
+        "id": "S365",
+        "last_name": "Scott",
+        "party": "R",
+        "state": "SC"
+      },
+      {
+        "display_name": "Tuberville (R-AL)",
+        "first_name": "Tommy",
+        "id": "S412",
+        "last_name": "Tuberville",
+        "party": "R",
+        "state": "AL"
       }
     ],
     "Present": [],
@@ -579,14 +627,6 @@
         "state": "MO"
       },
       {
-        "display_name": "Hoeven (R-ND)",
-        "first_name": "John",
-        "id": "S344",
-        "last_name": "Hoeven",
-        "party": "R",
-        "state": "ND"
-      },
-      {
         "display_name": "Husted (R-OH)",
         "first_name": "Jon",
         "id": "S438",
@@ -617,14 +657,6 @@
         "last_name": "Justice",
         "party": "R",
         "state": "WV"
-      },
-      {
-        "display_name": "Kaine (D-VA)",
-        "first_name": "Timothy",
-        "id": "S362",
-        "last_name": "Kaine",
-        "party": "D",
-        "state": "VA"
       },
       {
         "display_name": "Kennedy (R-LA)",
@@ -673,22 +705,6 @@
         "last_name": "McCormick",
         "party": "R",
         "state": "PA"
-      },
-      {
-        "display_name": "Moody (R-FL)",
-        "first_name": "Ashley",
-        "id": "S439",
-        "last_name": "Moody",
-        "party": "R",
-        "state": "FL"
-      },
-      {
-        "display_name": "Moran (R-KS)",
-        "first_name": "Jerry",
-        "id": "S347",
-        "last_name": "Moran",
-        "party": "R",
-        "state": "KS"
       },
       {
         "display_name": "Moreno (R-OH)",
@@ -755,14 +771,6 @@
         "state": "FL"
       },
       {
-        "display_name": "Scott (R-SC)",
-        "first_name": "Tim",
-        "id": "S365",
-        "last_name": "Scott",
-        "party": "R",
-        "state": "SC"
-      },
-      {
         "display_name": "Shaheen (D-NH)",
         "first_name": "Jeanne",
         "id": "S324",
@@ -801,14 +809,6 @@
         "last_name": "Tillis",
         "party": "R",
         "state": "NC"
-      },
-      {
-        "display_name": "Tuberville (R-AL)",
-        "first_name": "Tommy",
-        "id": "S412",
-        "last_name": "Tuberville",
-        "party": "R",
-        "state": "AL"
       },
       {
         "display_name": "Wicker (R-MS)",
