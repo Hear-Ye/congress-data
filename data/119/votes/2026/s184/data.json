@@ -1,26 +1,26 @@
 {
   "bill": {
     "congress": 119,
-    "number": 2,
-    "title": "An original bill to provide for reconciliation pursuant to title II of S. Con. Res. 33.",
-    "type": "s"
+    "number": 86,
+    "title": "A concurrent resolution directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.",
+    "type": "hconres"
   },
-  "category": "procedural",
+  "category": "passage",
   "chamber": "s",
   "congress": 119,
-  "date": "2026-06-04T20:36:00-04:00",
-  "number": 147,
-  "question": "On the Motion (Warnock Motion to Commit S. 2 to the Committee on the Judiciary with Instructions)",
-  "record_modified": "2026-06-23T17:05:00-04:00",
+  "date": "2026-06-23T15:01:00-04:00",
+  "number": 184,
+  "question": "On the Concurrent Resolution H.Con.Res. 86",
+  "record_modified": "2026-06-23T16:01:00-04:00",
   "requires": "1/2",
-  "result": "Motion Rejected",
-  "result_text": "Motion Rejected (46-52)",
+  "result": "Concurrent Resolution Agreed to",
+  "result_text": "Concurrent Resolution Agreed to (50-48)",
   "session": "2026",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00147.xml",
-  "subject": "Warnock Motion to Commit S. 2 to the Committee on the Judiciary with Instructions",
-  "type": "On the Motion (Warnock Motion to Commit S. 2 to the Committee on the Judiciary with Instructions)",
-  "updated_at": "2026-06-24T06:28:57-04:00",
-  "vote_id": "s147-119.2026",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00184.xml",
+  "subject": "H. Con. Res. 86",
+  "type": "On the Concurrent Resolution",
+  "updated_at": "2026-06-24T06:28:38-04:00",
+  "vote_id": "s184-119.2026",
   "votes": {
     "Nay": [
       {
@@ -88,14 +88,6 @@
         "state": "WV"
       },
       {
-        "display_name": "Cassidy (R-LA)",
-        "first_name": "Bill",
-        "id": "S373",
-        "last_name": "Cassidy",
-        "party": "R",
-        "state": "LA"
-      },
-      {
         "display_name": "Cornyn (R-TX)",
         "first_name": "John",
         "id": "S287",
@@ -158,6 +150,14 @@
         "last_name": "Ernst",
         "party": "R",
         "state": "IA"
+      },
+      {
+        "display_name": "Fetterman (D-PA)",
+        "first_name": "John",
+        "id": "S418",
+        "last_name": "Fetterman",
+        "party": "D",
+        "state": "PA"
       },
       {
         "display_name": "Fischer (R-NE)",
@@ -280,22 +280,6 @@
         "state": "KS"
       },
       {
-        "display_name": "McConnell (R-KY)",
-        "first_name": "Mitch",
-        "id": "S174",
-        "last_name": "McConnell",
-        "party": "R",
-        "state": "KY"
-      },
-      {
-        "display_name": "McCormick (R-PA)",
-        "first_name": "David",
-        "id": "S433",
-        "last_name": "McCormick",
-        "party": "R",
-        "state": "PA"
-      },
-      {
         "display_name": "Moody (R-FL)",
         "first_name": "Ashley",
         "id": "S439",
@@ -318,22 +302,6 @@
         "last_name": "Moreno",
         "party": "R",
         "state": "OH"
-      },
-      {
-        "display_name": "Murkowski (R-AK)",
-        "first_name": "Lisa",
-        "id": "S288",
-        "last_name": "Murkowski",
-        "party": "R",
-        "state": "AK"
-      },
-      {
-        "display_name": "Paul (R-KY)",
-        "first_name": "Rand",
-        "id": "S348",
-        "last_name": "Paul",
-        "party": "R",
-        "state": "KY"
       },
       {
         "display_name": "Ricketts (R-NE)",
@@ -442,20 +410,20 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Bennet (D-CO)",
-        "first_name": "Michael",
-        "id": "S330",
-        "last_name": "Bennet",
-        "party": "D",
-        "state": "CO"
+        "display_name": "McConnell (R-KY)",
+        "first_name": "Mitch",
+        "id": "S174",
+        "last_name": "McConnell",
+        "party": "R",
+        "state": "KY"
       },
       {
-        "display_name": "Gallego (D-AZ)",
-        "first_name": "Ruben",
-        "id": "S432",
-        "last_name": "Gallego",
-        "party": "D",
-        "state": "AZ"
+        "display_name": "McCormick (R-PA)",
+        "first_name": "David",
+        "id": "S433",
+        "last_name": "McCormick",
+        "party": "R",
+        "state": "PA"
       }
     ],
     "Present": [],
@@ -475,6 +443,14 @@
         "last_name": "Baldwin",
         "party": "D",
         "state": "WI"
+      },
+      {
+        "display_name": "Bennet (D-CO)",
+        "first_name": "Michael",
+        "id": "S330",
+        "last_name": "Bennet",
+        "party": "D",
+        "state": "CO"
       },
       {
         "display_name": "Blumenthal (D-CT)",
@@ -507,6 +483,14 @@
         "last_name": "Cantwell",
         "party": "D",
         "state": "WA"
+      },
+      {
+        "display_name": "Cassidy (R-LA)",
+        "first_name": "Bill",
+        "id": "S373",
+        "last_name": "Cassidy",
+        "party": "R",
+        "state": "LA"
       },
       {
         "display_name": "Collins (R-ME)",
@@ -549,12 +533,12 @@
         "state": "IL"
       },
       {
-        "display_name": "Fetterman (D-PA)",
-        "first_name": "John",
-        "id": "S418",
-        "last_name": "Fetterman",
+        "display_name": "Gallego (D-AZ)",
+        "first_name": "Ruben",
+        "id": "S432",
+        "last_name": "Gallego",
         "party": "D",
-        "state": "PA"
+        "state": "AZ"
       },
       {
         "display_name": "Gillibrand (D-NY)",
@@ -661,6 +645,14 @@
         "state": "OR"
       },
       {
+        "display_name": "Murkowski (R-AK)",
+        "first_name": "Lisa",
+        "id": "S288",
+        "last_name": "Murkowski",
+        "party": "R",
+        "state": "AK"
+      },
+      {
         "display_name": "Murphy (D-CT)",
         "first_name": "Christopher",
         "id": "S364",
@@ -691,6 +683,14 @@
         "last_name": "Padilla",
         "party": "D",
         "state": "CA"
+      },
+      {
+        "display_name": "Paul (R-KY)",
+        "first_name": "Rand",
+        "id": "S348",
+        "last_name": "Paul",
+        "party": "R",
+        "state": "KY"
       },
       {
         "display_name": "Peters (D-MI)",
