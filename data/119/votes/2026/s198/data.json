@@ -1,24 +1,24 @@
 {
-  "category": "nomination",
+  "category": "cloture",
   "chamber": "s",
   "congress": 119,
-  "date": "2026-07-15T14:00:00-04:00",
+  "date": "2026-07-16T11:44:00-04:00",
   "nomination": {
-    "number": "930-4",
-    "title": "Jeffrey T. Kuntz, of Florida, to be United States District Judge for the Southern District of Florida"
+    "number": "851-8",
+    "title": "Kara Marie Westercamp, of Virginia, to be a Judge of the United States Court of International Trade"
   },
-  "number": 197,
-  "question": "On the Nomination PN930-4: Jeffrey T. Kuntz, of Florida, to be United States District Judge for the Southern District of Florida",
-  "record_modified": "2026-07-16T14:33:00-04:00",
+  "number": 198,
+  "question": "Motion to Invoke Cloture: Kara Marie Westercamp to be a Judge of the U.S. Court of International Trade: Kara Marie Westercamp, of Virginia, to be a Judge of the United States Court of International Trade",
+  "record_modified": "2026-07-16T12:51:00-04:00",
   "requires": "1/2",
-  "result": "Nomination Confirmed",
-  "result_text": "Nomination Confirmed (51-46)",
+  "result": "Cloture Motion Agreed to",
+  "result_text": "Cloture Motion Agreed to (49-48)",
   "session": "2026",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00197.xml",
-  "subject": "Confirmation: Jeffrey T. Kuntz, of Florida, to be U.S. District Judge for the Southern District of Florida",
-  "type": "On the Nomination",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00198.xml",
+  "subject": "On the Cloture Motion PN851-8",
+  "type": "On the Cloture Motion",
   "updated_at": "2026-07-17T05:26:50-04:00",
-  "vote_id": "s197-119.2026",
+  "vote_id": "s198-119.2026",
   "votes": {
     "Nay": [
       {
@@ -78,6 +78,14 @@
         "state": "WA"
       },
       {
+        "display_name": "Collins (R-ME)",
+        "first_name": "Susan",
+        "id": "S252",
+        "last_name": "Collins",
+        "party": "R",
+        "state": "ME"
+      },
+      {
         "display_name": "Coons (D-DE)",
         "first_name": "Christopher",
         "id": "S337",
@@ -116,6 +124,14 @@
         "last_name": "Fetterman",
         "party": "D",
         "state": "PA"
+      },
+      {
+        "display_name": "Gallego (D-AZ)",
+        "first_name": "Ruben",
+        "id": "S432",
+        "last_name": "Gallego",
+        "party": "D",
+        "state": "AZ"
       },
       {
         "display_name": "Gillibrand (D-NY)",
@@ -222,14 +238,6 @@
         "state": "OR"
       },
       {
-        "display_name": "Murphy (D-CT)",
-        "first_name": "Christopher",
-        "id": "S364",
-        "last_name": "Murphy",
-        "party": "D",
-        "state": "CT"
-      },
-      {
         "display_name": "Murray (D-WA)",
         "first_name": "Patty",
         "id": "S229",
@@ -252,6 +260,14 @@
         "last_name": "Padilla",
         "party": "D",
         "state": "CA"
+      },
+      {
+        "display_name": "Paul (R-KY)",
+        "first_name": "Rand",
+        "id": "S348",
+        "last_name": "Paul",
+        "party": "R",
+        "state": "KY"
       },
       {
         "display_name": "Peters (D-MI)",
@@ -392,12 +408,12 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Gallego (D-AZ)",
-        "first_name": "Ruben",
-        "id": "S432",
-        "last_name": "Gallego",
-        "party": "D",
-        "state": "AZ"
+        "display_name": "Hagerty (R-TN)",
+        "first_name": "Bill",
+        "id": "S407",
+        "last_name": "Hagerty",
+        "party": "R",
+        "state": "TN"
       },
       {
         "display_name": "McConnell (R-KY)",
@@ -408,12 +424,12 @@
         "state": "KY"
       },
       {
-        "display_name": "McCormick (R-PA)",
-        "first_name": "David",
-        "id": "S433",
-        "last_name": "McCormick",
-        "party": "R",
-        "state": "PA"
+        "display_name": "Murphy (D-CT)",
+        "first_name": "Christopher",
+        "id": "S364",
+        "last_name": "Murphy",
+        "party": "D",
+        "state": "CT"
       }
     ],
     "Present": [],
@@ -489,14 +505,6 @@
         "last_name": "Cassidy",
         "party": "R",
         "state": "LA"
-      },
-      {
-        "display_name": "Collins (R-ME)",
-        "first_name": "Susan",
-        "id": "S252",
-        "last_name": "Collins",
-        "party": "R",
-        "state": "ME"
       },
       {
         "display_name": "Cornyn (R-TX)",
@@ -587,14 +595,6 @@
         "state": "IA"
       },
       {
-        "display_name": "Hagerty (R-TN)",
-        "first_name": "Bill",
-        "id": "S407",
-        "last_name": "Hagerty",
-        "party": "R",
-        "state": "TN"
-      },
-      {
         "display_name": "Hawley (R-MO)",
         "first_name": "Josh",
         "id": "S399",
@@ -683,6 +683,14 @@
         "state": "KS"
       },
       {
+        "display_name": "McCormick (R-PA)",
+        "first_name": "David",
+        "id": "S433",
+        "last_name": "McCormick",
+        "party": "R",
+        "state": "PA"
+      },
+      {
         "display_name": "Moody (R-FL)",
         "first_name": "Ashley",
         "id": "S439",
@@ -713,14 +721,6 @@
         "last_name": "Murkowski",
         "party": "R",
         "state": "AK"
-      },
-      {
-        "display_name": "Paul (R-KY)",
-        "first_name": "Rand",
-        "id": "S348",
-        "last_name": "Paul",
-        "party": "R",
-        "state": "KY"
       },
       {
         "display_name": "Ricketts (R-NE)",
