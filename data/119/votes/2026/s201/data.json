@@ -1,26 +1,24 @@
 {
-  "bill": {
-    "congress": 119,
-    "number": 7147,
-    "title": "A bill making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes.",
-    "type": "hr"
-  },
-  "category": "cloture",
+  "category": "nomination",
   "chamber": "s",
   "congress": 119,
-  "date": "2026-03-12T13:55:00-04:00",
-  "number": 54,
-  "question": "Motion to Invoke Cloture Re: Motion to Proceed to H.R. 7147",
-  "record_modified": "2026-07-21T16:47:00-04:00",
-  "requires": "3/5",
-  "result": "Cloture on the Motion to Proceed Rejected",
-  "result_text": "Cloture on the Motion to Proceed Rejected (51-46, 3/5 majority required)",
+  "date": "2026-07-21T17:27:00-04:00",
+  "nomination": {
+    "number": "851-8",
+    "title": "Kara Marie Westercamp, of Virginia, to be a Judge of the United States Court of International Trade"
+  },
+  "number": 201,
+  "question": "On the Nomination PN851-8: Kara Marie Westercamp, of Virginia, to be a Judge of the United States Court of International Trade",
+  "record_modified": "2026-07-21T19:00:00-04:00",
+  "requires": "1/2",
+  "result": "Nomination Confirmed",
+  "result_text": "Nomination Confirmed (50-48)",
   "session": "2026",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00054.xml",
-  "subject": "On Cloture on the Motion to Proceed H.R. 7147",
-  "type": "On the Cloture Motion",
-  "updated_at": "2026-07-22T05:34:54-04:00",
-  "vote_id": "s54-119.2026",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00201.xml",
+  "subject": "Confirmation: Kara Marie Westercamp, of Virginia, to be a Judge of the U.S. Court of International Trade",
+  "type": "On the Nomination",
+  "updated_at": "2026-07-22T05:33:40-04:00",
+  "vote_id": "s201-119.2026",
   "votes": {
     "Nay": [
       {
@@ -80,6 +78,14 @@
         "state": "WA"
       },
       {
+        "display_name": "Collins (R-ME)",
+        "first_name": "Susan",
+        "id": "S252",
+        "last_name": "Collins",
+        "party": "R",
+        "state": "ME"
+      },
+      {
         "display_name": "Coons (D-DE)",
         "first_name": "Christopher",
         "id": "S337",
@@ -110,6 +116,14 @@
         "last_name": "Durbin",
         "party": "D",
         "state": "IL"
+      },
+      {
+        "display_name": "Fetterman (D-PA)",
+        "first_name": "John",
+        "id": "S418",
+        "last_name": "Fetterman",
+        "party": "D",
+        "state": "PA"
       },
       {
         "display_name": "Gallego (D-AZ)",
@@ -312,6 +326,14 @@
         "state": "NY"
       },
       {
+        "display_name": "Shaheen (D-NH)",
+        "first_name": "Jeanne",
+        "id": "S324",
+        "last_name": "Shaheen",
+        "party": "D",
+        "state": "NH"
+      },
+      {
         "display_name": "Slotkin (D-MI)",
         "first_name": "Elissa",
         "id": "S436",
@@ -326,14 +348,6 @@
         "last_name": "Smith",
         "party": "D",
         "state": "MN"
-      },
-      {
-        "display_name": "Thune (R-SD)",
-        "first_name": "John",
-        "id": "S303",
-        "last_name": "Thune",
-        "party": "R",
-        "state": "SD"
       },
       {
         "display_name": "Van Hollen (D-MD)",
@@ -394,32 +408,32 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Blackburn (R-TN)",
-        "first_name": "Marsha",
-        "id": "S396",
-        "last_name": "Blackburn",
+        "display_name": "Cramer (R-ND)",
+        "first_name": "Kevin",
+        "id": "S398",
+        "last_name": "Cramer",
         "party": "R",
-        "state": "TN"
+        "state": "ND"
       },
       {
-        "display_name": "Moran (R-KS)",
-        "first_name": "Jerry",
-        "id": "S347",
-        "last_name": "Moran",
+        "display_name": "McConnell (R-KY)",
+        "first_name": "Mitch",
+        "id": "S174",
+        "last_name": "McConnell",
         "party": "R",
-        "state": "KS"
-      },
-      {
-        "display_name": "Shaheen (D-NH)",
-        "first_name": "Jeanne",
-        "id": "S324",
-        "last_name": "Shaheen",
-        "party": "D",
-        "state": "NH"
+        "state": "KY"
       }
     ],
     "Present": [],
     "Yea": [
+      {
+        "display_name": "Armstrong (R-OK)",
+        "first_name": "Alan",
+        "id": "S440",
+        "last_name": "Armstrong",
+        "party": "R",
+        "state": "OK"
+      },
       {
         "display_name": "Banks (R-IN)",
         "first_name": "Jim",
@@ -435,6 +449,14 @@
         "last_name": "Barrasso",
         "party": "R",
         "state": "WY"
+      },
+      {
+        "display_name": "Blackburn (R-TN)",
+        "first_name": "Marsha",
+        "id": "S396",
+        "last_name": "Blackburn",
+        "party": "R",
+        "state": "TN"
       },
       {
         "display_name": "Boozman (R-AR)",
@@ -477,14 +499,6 @@
         "state": "LA"
       },
       {
-        "display_name": "Collins (R-ME)",
-        "first_name": "Susan",
-        "id": "S252",
-        "last_name": "Collins",
-        "party": "R",
-        "state": "ME"
-      },
-      {
         "display_name": "Cornyn (R-TX)",
         "first_name": "John",
         "id": "S287",
@@ -499,14 +513,6 @@
         "last_name": "Cotton",
         "party": "R",
         "state": "AR"
-      },
-      {
-        "display_name": "Cramer (R-ND)",
-        "first_name": "Kevin",
-        "id": "S398",
-        "last_name": "Cramer",
-        "party": "R",
-        "state": "ND"
       },
       {
         "display_name": "Crapo (R-ID)",
@@ -549,14 +555,6 @@
         "state": "IA"
       },
       {
-        "display_name": "Fetterman (D-PA)",
-        "first_name": "John",
-        "id": "S418",
-        "last_name": "Fetterman",
-        "party": "D",
-        "state": "PA"
-      },
-      {
         "display_name": "Fischer (R-NE)",
         "first_name": "Deb",
         "id": "S357",
@@ -566,8 +564,8 @@
       },
       {
         "display_name": "Graham (R-SC)",
-        "first_name": "Lindsey",
-        "id": "S293",
+        "first_name": "Darline",
+        "id": "S441",
         "last_name": "Graham",
         "party": "R",
         "state": "SC"
@@ -677,14 +675,6 @@
         "state": "KS"
       },
       {
-        "display_name": "McConnell (R-KY)",
-        "first_name": "Mitch",
-        "id": "S174",
-        "last_name": "McConnell",
-        "party": "R",
-        "state": "KY"
-      },
-      {
         "display_name": "McCormick (R-PA)",
         "first_name": "David",
         "id": "S433",
@@ -701,20 +691,20 @@
         "state": "FL"
       },
       {
+        "display_name": "Moran (R-KS)",
+        "first_name": "Jerry",
+        "id": "S347",
+        "last_name": "Moran",
+        "party": "R",
+        "state": "KS"
+      },
+      {
         "display_name": "Moreno (R-OH)",
         "first_name": "Bernie",
         "id": "S434",
         "last_name": "Moreno",
         "party": "R",
         "state": "OH"
-      },
-      {
-        "display_name": "Mullin (R-OK)",
-        "first_name": "Markwayne",
-        "id": "S419",
-        "last_name": "Mullin",
-        "party": "R",
-        "state": "OK"
       },
       {
         "display_name": "Murkowski (R-AK)",
@@ -795,6 +785,14 @@
         "last_name": "Sullivan",
         "party": "R",
         "state": "AK"
+      },
+      {
+        "display_name": "Thune (R-SD)",
+        "first_name": "John",
+        "id": "S303",
+        "last_name": "Thune",
+        "party": "R",
+        "state": "SD"
       },
       {
         "display_name": "Tillis (R-NC)",
