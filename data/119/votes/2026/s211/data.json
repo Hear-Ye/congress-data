@@ -1,24 +1,24 @@
 {
-  "category": "cloture",
+  "category": "nomination",
   "chamber": "s",
   "congress": 119,
-  "date": "2026-07-27T17:30:00-04:00",
+  "date": "2026-07-28T18:21:00-04:00",
   "nomination": {
     "number": "1092",
     "title": "Walter Clayton, of New York, to be Director of National Intelligence"
   },
-  "number": 210,
-  "question": "Motion to Invoke Cloture: Walter Clayton to be Director of National Intelligence: Walter Clayton, of New York, to be Director of National Intelligence",
-  "record_modified": "2026-07-28T18:47:00-04:00",
+  "number": 211,
+  "question": "On the Nomination PN1092: Walter Clayton, of New York, to be Director of National Intelligence",
+  "record_modified": "2026-07-28T19:34:00-04:00",
   "requires": "1/2",
-  "result": "Cloture Motion Agreed to",
-  "result_text": "Cloture Motion Agreed to (51-43)",
+  "result": "Nomination Confirmed",
+  "result_text": "Nomination Confirmed (51-47)",
   "session": "2026",
-  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00210.xml",
-  "subject": "On the Cloture Motion PN1092",
-  "type": "On the Cloture Motion",
-  "updated_at": "2026-07-29T05:36:31-04:00",
-  "vote_id": "s210-119.2026",
+  "source_url": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00211.xml",
+  "subject": "Confirmation: Walter Clayton, of N.Y., to be Director of National Intelligence",
+  "type": "On the Nomination",
+  "updated_at": "2026-07-29T05:36:30-04:00",
+  "vote_id": "s211-119.2026",
   "votes": {
     "Nay": [
       {
@@ -126,6 +126,14 @@
         "state": "AZ"
       },
       {
+        "display_name": "Gillibrand (D-NY)",
+        "first_name": "Kirsten",
+        "id": "S331",
+        "last_name": "Gillibrand",
+        "party": "D",
+        "state": "NY"
+      },
+      {
         "display_name": "Hassan (D-NH)",
         "first_name": "Maggie",
         "id": "S388",
@@ -164,6 +172,14 @@
         "last_name": "Kaine",
         "party": "D",
         "state": "VA"
+      },
+      {
+        "display_name": "Kelly (D-AZ)",
+        "first_name": "Mark",
+        "id": "S406",
+        "last_name": "Kelly",
+        "party": "D",
+        "state": "AZ"
       },
       {
         "display_name": "Kim (D-NJ)",
@@ -244,6 +260,14 @@
         "last_name": "Padilla",
         "party": "D",
         "state": "CA"
+      },
+      {
+        "display_name": "Peters (D-MI)",
+        "first_name": "Gary",
+        "id": "S380",
+        "last_name": "Peters",
+        "party": "D",
+        "state": "MI"
       },
       {
         "display_name": "Reed (D-RI)",
@@ -350,6 +374,14 @@
         "state": "MA"
       },
       {
+        "display_name": "Welch (D-VT)",
+        "first_name": "Peter",
+        "id": "S422",
+        "last_name": "Welch",
+        "party": "D",
+        "state": "VT"
+      },
+      {
         "display_name": "Whitehouse (D-RI)",
         "first_name": "Sheldon",
         "id": "S316",
@@ -368,20 +400,12 @@
     ],
     "Not Voting": [
       {
-        "display_name": "Gillibrand (D-NY)",
-        "first_name": "Kirsten",
-        "id": "S331",
-        "last_name": "Gillibrand",
-        "party": "D",
-        "state": "NY"
-      },
-      {
-        "display_name": "Kelly (D-AZ)",
-        "first_name": "Mark",
-        "id": "S406",
-        "last_name": "Kelly",
-        "party": "D",
-        "state": "AZ"
+        "display_name": "Graham (R-SC)",
+        "first_name": "Darline",
+        "id": "S441",
+        "last_name": "Graham",
+        "party": "R",
+        "state": "SC"
       },
       {
         "display_name": "McConnell (R-KY)",
@@ -390,30 +414,6 @@
         "last_name": "McConnell",
         "party": "R",
         "state": "KY"
-      },
-      {
-        "display_name": "Peters (D-MI)",
-        "first_name": "Gary",
-        "id": "S380",
-        "last_name": "Peters",
-        "party": "D",
-        "state": "MI"
-      },
-      {
-        "display_name": "Ricketts (R-NE)",
-        "first_name": "Pete",
-        "id": "S423",
-        "last_name": "Ricketts",
-        "party": "R",
-        "state": "NE"
-      },
-      {
-        "display_name": "Welch (D-VT)",
-        "first_name": "Peter",
-        "id": "S422",
-        "last_name": "Welch",
-        "party": "D",
-        "state": "VT"
       }
     ],
     "Present": [],
@@ -571,14 +571,6 @@
         "state": "NE"
       },
       {
-        "display_name": "Graham (R-SC)",
-        "first_name": "Darline",
-        "id": "S441",
-        "last_name": "Graham",
-        "party": "R",
-        "state": "SC"
-      },
-      {
         "display_name": "Grassley (R-IA)",
         "first_name": "Chuck",
         "id": "S153",
@@ -729,6 +721,14 @@
         "last_name": "Paul",
         "party": "R",
         "state": "KY"
+      },
+      {
+        "display_name": "Ricketts (R-NE)",
+        "first_name": "Pete",
+        "id": "S423",
+        "last_name": "Ricketts",
+        "party": "R",
+        "state": "NE"
       },
       {
         "display_name": "Risch (R-ID)",
